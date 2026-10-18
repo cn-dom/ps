@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-10-17T07:55:44.277Z",
+  "updated_at": "2026-10-18T08:10:43.342Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -1661,9 +1661,66 @@
     },
     "02-02": {
       "date": "02-02",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 962,
+          "text": "Papa Ivan XII. okrunio je Otona I. Velikog za cara Svetog Rimskog Carstva, prvog nakon gotovo 40 godina."
+        },
+        {
+          "year": 1536,
+          "text": "Utemeljen Buenos Aires."
+        },
+        {
+          "year": 1653,
+          "text": "Osnovan Novi Amsterdam, kasnije nazvan New York."
+        },
+        {
+          "year": 1848,
+          "text": "Kraj Američko-meksičkog rata."
+        },
+        {
+          "year": 1933,
+          "text": "Adolf Hitler raspustio njemački parlament."
+        },
+        {
+          "year": 1935,
+          "text": "U Poljskoj je prvi put upotrijebljen poligraf."
+        },
+        {
+          "year": 1943,
+          "text": "Završena je bitka za Staljingrad u kojoj je Crvena armija zarobila 91.000 umornih i izgladnjelih njemačkih vojnika."
+        },
+        {
+          "year": 1945,
+          "text": "Drugi svjetski rat: Konferencija na Jalti (Krim)."
+        },
+        {
+          "year": 1971,
+          "text": "U SAD-u je zabranjeno reklamiranje cigareta na radiju i televiziji."
+        },
+        {
+          "year": 1972,
+          "text": "Britansko veleposlanstvo u Dublinu uništeno je u prosvjedima nakon Krvave nedjelje."
+        },
+        {
+          "year": 1983,
+          "text": "Papa Ivan Pavao II. proglasio Franju Kuharića kardinalom"
+        },
+        {
+          "year": 1989,
+          "text": "Posljednje sovjetske trupe napustile Kabul – završena devetogodišnja sovjetska vojna intervencija/okupacija Afganistana."
+        },
+        {
+          "year": 2003,
+          "text": "Hrvatska rukometna reprezentacija pobjedom nad Njemačkom rezultatom 34:31 osvojila svoje prvo svjetsko rukometno prvenstvo."
+        },
+        {
+          "year": 2025,
+          "text": "Hrvatska rukometna reprezentacija porazom od Danske rezultatom 26:32 u finalu svjetskoga prvenstva osvojila srebrno odličje. [https://www.index.hr/mobile/sport/clanak/hrvatska-danska-2632-hrvatska-osvojila-srebro-na-svjetskom-prvenstvu/2637882.aspx HRVATSKA - DANSKA 26:32 Hrvatska osvojila srebro na Svjetskom prvenstvu]"
+        }
+      ]
     },
     "02-03": {
       "date": "02-03",
@@ -2395,78 +2452,9 @@
     },
     "02-19": {
       "date": "02-19",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1291,
-          "text": "Potpisan sporazum iz Tarascona."
-        },
-        {
-          "year": 1594,
-          "text": "Sigismund III., kralj Poljsko-litavske Unije, okrunjen je za kralja Švedske."
-        },
-        {
-          "year": 1674,
-          "text": "Treći englesko-nizozemski rat završio je potpisivanjem Westminsterskog sporazuma."
-        },
-        {
-          "year": 1826,
-          "text": "Rodio se Matija Mesić, povjesničar i prvi rektor zagrebačkog sveučilišta."
-        },
-        {
-          "year": 1910,
-          "text": "Manchester United odigrao prvu utakmicu na Old Traffordu."
-        },
-        {
-          "year": 1935,
-          "text": "Sibinjske žrtve; u sibinjskom kraju režim Kraljevine Jugoslavije ubio hrvatske seljake."
-        },
-        {
-          "year": 1939,
-          "text": "Talijanske vojne jedinice u Adis Abebi počinile masakr u znak odmazde zbog neuspjelog atentata na potkralja maršala Grazianija."
-        },
-        {
-          "year": 1942,
-          "text": "Zračni napadi na Darwin, glavni grad Sjevernog Teritorija, Australija uništili su 242 bombardera i lovaca japanske carske mornarice."
-        },
-        {
-          "year": 1942,
-          "text": "Potpisana je U.S. Executive Order 9066, odobrivši premještaj i zatvaranje 112.000 japanskih Amerikanaca."
-        },
-        {
-          "year": 1945,
-          "text": "Započela bitka za Iwo Jimu."
-        },
-        {
-          "year": 1982,
-          "text": "Probni let Boeinga 757."
-        },
-        {
-          "year": 1986,
-          "text": "U okviru sovjetskog svemirskog programa lansirana je svemirska postaja Mir, prva dugoročna istraživačka postaja u svemiru."
-        },
-        {
-          "year": 1990,
-          "text": "osnovan Istarski demokratski sabor."
-        },
-        {
-          "year": 1996,
-          "text": "Institut za suvremenu povijest postao dio Hrvatskog instituta za povijest."
-        },
-        {
-          "year": 1999,
-          "text": "Posljednji koncert Animatora u klubu Kulušić."
-        },
-        {
-          "year": 2002,
-          "text": "Objavljen album Don't Worry About Me Joeyja Ramonea."
-        },
-        {
-          "year": 2020,
-          "text": "Zoran Milanović prisegnuo za Predsjednika Republike Hrvatske."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-20": {
       "date": "02-20",
@@ -3544,8 +3532,8 @@
           "text": "Objavljena fotografija navodnog čudovišta iz Loch Nessa DANA 21. travnja 1934. londonski&#xA0;Daily Mail&#xA0;objavio je fotografiju koja &#x107;e desetlje&#x107;ima oblikovati percepciju jednog od najpoznatijih mitova modernog doba, &#x10D;udovi&#x161;ta iz Loch Nessa."
         },
         {
-          "year": 1736,
-          "text": "Od Habsburške Monarhije učinio je najjaču silu. Dva rata okončao je samostalno"
+          "year": 1958,
+          "text": "Prehranjivala je obitelj radeći u McDonald'su, a onda je privukla pažnju producenata"
         },
         {
           "year": 1958,
@@ -3560,16 +3548,16 @@
           "text": "1991."
         },
         {
-          "year": 1736,
-          "text": "1736."
-        },
-        {
           "year": 2025,
           "text": "2025."
         },
         {
           "year": 1918,
           "text": "1918."
+        },
+        {
+          "year": 2021,
+          "text": "2021."
         }
       ]
     },
@@ -5588,68 +5576,36 @@
     },
     "06-08": {
       "date": "06-08",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
+      "source": "Index Kalendar",
+      "source_url": "https://www.index.hr/kalendar?datum=0806",
       "events": [
         {
-          "year": 1624,
-          "text": "potres pogodio Peru"
-        },
-        {
-          "year": 1649,
-          "text": "početak epidemije kuge u Šibeniku"
-        },
-        {
-          "year": 1884,
-          "text": "Na prijedlog Mihovila Pavlinovića Dalmatinski sabor donio odluku da se sa strankama razgovara na hrvatskom jeziku i da nikog se ne smije primiti u državnu službu ako uz talijanski jezik ne dokaže i poznavanje hrvatskoga jezika. Pavao Jerolimov: [http://www.zadarskilist.hr/sekcije/nadanasnjidan/0806 Na današnji dan.] , Zadarski list, 8. lipnja"
-        },
-        {
-          "year": 1902,
-          "text": "Juraj Biankini u Dalmatinskom saboru zahtijevao da se prihvati zakon po kojemu bi privatne dječje vrtiće i pučke škole smjela pohađati samo djeca kojoj je materinji jezik onaj koji se u tim privatnim školama uči i podučava; cilj zakona bio je spriječiti da talijanska Lega Nazionale uz pomoć iredentističkog društva Dante Alighieri širi mrežu vrtića i škola. Austrijske vlasti protivile su se primjeni ovog zakona, u duhu suradnje s autonomašima."
-        },
-        {
-          "year": 1919,
-          "text": "U Zagrebu se održao skup svih loža u Kraljevini SHS s ciljem formiranja Velike lože Srba, Hrvata i Slovenaca \"Jugoslavija\""
-        },
-        {
-          "year": 1949,
-          "text": "George Orwell objavljuje roman \"1984.\""
-        },
-        {
-          "year": 1956,
-          "text": "U Argentini je osnovan Hrvatski oslobodilački pokret."
-        },
-        {
-          "year": 1966,
-          "text": "Tornado je uništio mjesto Topeka u Kansasu. 16 ljudi je poginulo, na stotine ranjeno"
-        },
-        {
-          "year": 1968,
-          "text": "Uhićen je James Earl Ray, optužen za ubojstvo Martina Luthera Kinga mlađeg"
+          "year": 1867,
+          "text": "Austro-Ugarska nagodba"
         },
         {
           "year": 1986,
-          "text": "Nakon što je bio glavni tajnik Ujedinjenih naroda, Kurt Waldheim izabran je za predsjednika Austrije."
+          "text": "Bivši nacist postao predsjednik Austrije KURT Waldheim (21. prosinca 1918. &#x2013; 14. lipnja 2007.) bio je austrijski diplomat i politi&#x10D;ar, poznat kao &#x10D;etvrti glavni tajnik Ujedinjenih naroda (1972. &#x2013; 1981.) i &#x161;esti predsjednik Austrije (1986. &#x2013; 1992.)."
         },
         {
-          "year": 1987,
-          "text": "Novi Zeland prvi u svijetu zabranio nuklearne aktivnosti"
+          "year": 1984,
+          "text": "Izašao film zbog kojeg je uvedena oznaka PG-13 8.&#xA0;LIPNJA 1984. godine u ameri&#x10D;ka kina stigao je film Gremlini, koji je ubrzo postao jedan od najpoznatijih i najvoljenijih filmova desetlje&#x107;a."
         },
         {
-          "year": 1993,
-          "text": "Bitka za Veli vrh na Svilaji: pobunjenički srpski diverzanti napali položaj hrvatskih branitelja. Hrvatske snage izvojevale su pobjedu."
+          "year": 793,
+          "text": "Vikinzi opljačkali samostan Lindisfarne SAMOSTAN Lindisfarne, poznat i kao Sveti otok, stolje&#x107;ima je stajao kao svjetionik kr&#x161;&#x107;anstva u anglosaksonskoj Engleskoj. Smje&#x161;ten na izoliranom otoku uz obalu Northumbrije, dostupan kopnom samo tijekom oseke, &#x10D;inio se sigurnim uto&#x10D;i&#x161;tem."
         },
         {
-          "year": 1993,
-          "text": "Pripadnici Armije BiH izvršili pokolj u selu Maljinama kod Travnika, pri čemu je ubijeno 37 Hrvata."
+          "year": 1984,
+          "text": "Počelo prikazivanje filma \"Istjerivači duhova\" FILM \"Istjeriva&#x10D;i duhova\" zaradio je stotine milijuna dolara, pokrenuo veliku fran&#x161;izu i postao jedna od najuspje&#x161;nijih komedija svog vremena."
         },
         {
-          "year": 1997,
-          "text": "Vlakom mira Hrvatska se simbolično ponovno vratila u Vukovar. http://www.hrvatski-vojnik.hr/hrvatski-vojnik/3972012/vremeplov.asp (pristupljeno 8. prosinca 2012.)"
+          "year": 2018,
+          "text": "U kina stigao film \"Naslijeđeno zlo\" FILM je spojio obiteljsku dramu i nadnaravni horor."
         },
         {
-          "year": 2024,
-          "text": "Hrvatska nogometna reprezentacija po prvi puta u povijesti pobijedila Portugal (2:1)."
+          "year": 1937,
+          "text": "Praizvedba Carmine burane, skladao je Carl Orff RADI se o scenskoj kantati temeljenoj na zbirci srednjovjekovnih pjesama iz 11. do 13. stolje&#x107;a."
         }
       ]
     },
@@ -8412,48 +8368,48 @@
     },
     "08-11": {
       "date": "08-11",
-      "source": "Index Kalendar",
-      "source_url": "https://www.index.hr/kalendar?datum=1108",
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
       "events": [
         {
-          "year": 1984,
-          "text": "Reaganova šala o bombardiranju Rusije"
+          "year": 480,
+          "text": "Bitka kod Termopila"
         },
         {
-          "year": 1973,
-          "text": "U kina je stigao film Američki grafiti 11. KOLOVOZA 1973. godine u ameri&#x10D;ka kina stigao je film Ameri&#x10D;ki grafiti (American Graffiti), nostalgi&#x10D;na drama Georgea Lucasa koja je postala jedno od klju&#x10D;nih ostvarenja ameri&#x10D;ke kinematografije."
+          "year": 1378,
+          "text": "bitka na rijeci Voži, prva velika ruska pobjeda nad mongolskom Zlatnom Hordom."
         },
         {
-          "year": 1456,
-          "text": "Umro János Hunyadi J&#xC1;NOS Hunyadi, u hrvatskoj historiografiji poznat i kao Ivan Hunjadi, a u narodnoj tradiciji kao Sibinjanin Janko, bio je jedan od najva&#x17E;nijih europskih vojskovo&#x111;a 15. stolje&#x107;a."
+          "year": 1492,
+          "text": "Aleksandar VI. je izabran za papu."
         },
         {
-          "year": 1596,
-          "text": "Jedini sin Williama Shakespearea umro je s 11 godina. Ni danas se ne zna uzrok"
+          "year": 1655,
+          "text": "proglašena je u Hrvatskom saboru plemićka povelja Jurju, Petru i Marku Antolčiću (Antolchich de Schapovecz)"
+        },
+        {
+          "year": 1943,
+          "text": "Drugi svjetski rat: Započeo je sastanak između Winstona Churchilla, F.D. Roosevelta, T.V. Soonga i W. L. Mackenzie Kinga poznat kao Prva Quebecka konferencija."
+        },
+        {
+          "year": 1945,
+          "text": "Žene dobile pravo glasa u Hrvatskoj, u okviru Jugoslavije."
+        },
+        {
+          "year": 1950,
+          "text": "belgijski princ Baudouin stupio je na dužnost namjesnika nakon što se njegov otac Leopold II., zbog generalnog štrajka, morao povući"
+        },
+        {
+          "year": 1953,
+          "text": "u potresu na grčkoj zapadnoj obali i obližnjim otocima poginulo je oko 1000 ljudi"
         },
         {
           "year": 1965,
-          "text": "Viola Davis"
+          "text": "u crnačkoj četvrti Los Angelesa dogodili su se najteži rasni nemiri u SAD od 1943. u kojima je ubijeno 35, a ranjeno 800 ljudi"
         },
         {
-          "year": 1983,
-          "text": "Chris Hemsworth"
-        },
-        {
-          "year": 1667,
-          "text": "1743."
-        },
-        {
-          "year": 1596,
-          "text": "1596."
-        },
-        {
-          "year": 2014,
-          "text": "2014."
-        },
-        {
-          "year": 2025,
-          "text": "2025."
+          "year": 1999,
+          "text": "pomrčina Sunca, staza potpune pomrčine prelazila je Hrvatskoj susjedne zemlje Mađarsku i Srbiju"
         }
       ]
     },
@@ -11028,40 +10984,36 @@
     },
     "10-10": {
       "date": "10-10",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
+      "source": "Index Kalendar",
+      "source_url": "https://www.index.hr/kalendar?datum=1010",
       "events": [
         {
-          "year": 680,
-          "text": "U bitci kod Karbale ubijen je šijitski imam Husein bin Ali. Njegov smrću dolazi do konačne islamske podjele na sunite i šijite."
+          "year": 1920,
+          "text": "Plebiscit u Južnoj Koruškoj"
         },
         {
           "year": 732,
-          "text": "U bitci kod Toursa Karlo Martel je pobijedio drugu ( i posljednju) arapsku invaziju Francuske."
+          "text": "Bitka kod Poitiersa BITKA kod Poitiersa, poznata i kao bitka kod Toursa, odigrala se u listopadu 732. godine izme&#x111;u frana&#x10D;kih snaga pod vodstvom Charlesa Martela i muslimanske vojske predvo&#x111;ene Abd al-Rahmanom."
         },
         {
-          "year": 1741,
-          "text": "Odigrala se bitka kod Brunkeberga."
+          "year": 1954,
+          "text": "Patentiran ribički kolotur 10. LISTOPADA 1954. u Ameri&#x10D;ki ured za patente stigao je Hrvat s otoka Bra&#x10D;a koji je izumio vrlo jednostavnu stvar - kolotur za izvla&#x10D;enje mre&#x17E;a."
         },
         {
-          "year": 1846,
-          "text": "Engleski astonom William Lassell otkrio je Triton, najveći Neptunov satelit"
+          "year": 1944,
+          "text": "Ubijena Palmina Piplović RAT SE U Splitu bli&#x17E;io kraju. Bli&#x17E;io se kraju u cijeloj Europi, ali svi su znali da se Hitler ne&#x107;e tako lako predati."
         },
         {
-          "year": 1964,
-          "text": "Otvorene su Olimpijske igre u Tokiju."
+          "year": 2003,
+          "text": "Premijerno prikazan Kill Bill: Volume 1 10. LISTOPADA 2003. godine u kina je stigao Tarantinov osvetni&#x10D;ki klasik Kill Bill: Volume 1."
         },
         {
-          "year": 1967,
-          "text": "Potpisan je sporazum o vanjskom svemiru kojim se zabranjuje postavljanje oružja za masovno uništenje u svemir."
+          "year": 2014,
+          "text": "U kina je stigao Whiplash 10. LISTOPADA 2014. godine u kina je stigao hvaljeni film Whiplash, koji je J. K. Simmonsu donio Oscara za najboljeg sporednog glumca."
         },
         {
-          "year": 1971,
-          "text": "U Austriji je na izborima za Nacionalno vijece SPÖ (Socijalistička stranka Austrije) prvi put dobila više od 50 posto glasova."
-        },
-        {
-          "year": 1991,
-          "text": "Za vrijeme srpske agresije na Hrvatsku, srpske postrojbe su počinile pogrom u selu Lovasu, ubivši 40 Hrvata civila, a 14 je ozlijeđeno."
+          "year": 1997,
+          "text": "U kinima se počeo prikazivati Kralj pornića 10. LISTOPADA 1997. godine u kinima se po&#x10D;ela prikazivati drama Kralj porni&#x107;a (Boogie Nights), u re&#x17E;iji Paula Thomasa Andersona."
         }
       ]
     },
@@ -11345,12 +11297,24 @@
           "text": "Zadarska rezolucija PO&#x10C;ETKOM 20. stolje&#x107;a Hrvatska je bila dio Austro-Ugarske Monarhije, u vremenu kada su ja&#x10D;ale politi&#x10D;ke napetosti i te&#x17E;nje za ve&#x107;om samostalno&#x161;&#x107;u."
         },
         {
+          "year": 1997,
+          "text": "Premijera filma \"Đavolji odvjetnik\" TRILER s Keanuom Reevesom i Alom Pacinom ostvario je velik uspjeh unato&#x10D; podijeljenim reakcijama kriti&#x10D;ara."
+        },
+        {
+          "year": 2012,
+          "text": "Počelo prikazivanje druge sezone serije \"American Horror Story\" SEZONA smje&#x161;tena u jezivu psihijatrijsku ustanovu privukla je milijune gledatelja i brojne pohvale kriti&#x10D;ara."
+        },
+        {
           "year": 1929,
           "text": "Poveo je prosvjed protiv talijanizacije, pa je osuđen. Upucali su ga s 25 metaka"
         },
         {
           "year": 1892,
           "text": "1943."
+        },
+        {
+          "year": 1972,
+          "text": "Eminem"
         },
         {
           "year": 1929,
@@ -11376,44 +11340,24 @@
           "text": "Prodaja Aljaske ALJASKA je na dana&#x161;nji dan 1867. slu&#x17E;beno postala dio SAD-a."
         },
         {
-          "year": 1991,
-          "text": "Azerbajdžan proglasio neovisnost AZERBAJD&#x17D;AN, zemlja na kri&#x17E;i&#x161;tu Europe i Azije, proglasio je neovisnost 18. listopada 1991. godine, &#x10D;ime je okon&#x10D;ao sovjetsku dominaciju i otvorio put prema suvremenoj dr&#x17E;avnosti."
-        },
-        {
-          "year": 1386,
-          "text": "Osnovano najstarije njemačko sveučilište DANA 18. listopada 1386. osnovano je Sveu&#x10D;ili&#x161;te Heidelberg, najstarije sveu&#x10D;ili&#x161;te u dana&#x161;njoj Njema&#x10D;koj, poznato i pod slu&#x17E;benim nazivom Ruprecht-Karls-Universit&#xE4;t."
-        },
-        {
           "year": 1748,
           "text": "Završava Rat za austrijsko nasljeđe RAT ZA AUSTRIJSKO naslje&#x111;e zanimljiva je pri&#x10D;a o pre&#x17E;ivljavanju kraljice Marije Terezije"
+        },
+        {
+          "year": 1991,
+          "text": "Azerbajdžan proglasio neovisnost AZERBAJD&#x17D;AN, zemlja na kri&#x17E;i&#x161;tu Europe i Azije, proglasio je neovisnost 18. listopada 1991. godine, &#x10D;ime je okon&#x10D;ao sovjetsku dominaciju i otvorio put prema suvremenoj dr&#x17E;avnosti."
         },
         {
           "year": 1945,
           "text": "Vjenčali se Juan i Eva Peron VJEN&#x10C;ANJE Evite i Juana Per&#xF3;na 1945. ozna&#x10D;ilo je po&#x10D;etak utjecajnog politi&#x10D;kog partnerstva koje je trajno promijenilo argentinsko dru&#x161;tvo kroz peronizam."
         },
         {
-          "year": 1939,
-          "text": "Kennedyjev ubojica ubijen je pred novinarima na ulici. I danas žive teorije zavjere"
+          "year": 2002,
+          "text": "Premijera filma \"Krug\" NAKON ovog filma obi&#x10D;an telefonski poziv vi&#x161;e nije zvu&#x10D;ao tako bezazleno."
         },
         {
-          "year": 1939,
-          "text": "1963."
-        },
-        {
-          "year": 1898,
-          "text": "1955."
-        },
-        {
-          "year": 1663,
-          "text": "1736."
-        },
-        {
-          "year": 1931,
-          "text": "1931."
-        },
-        {
-          "year": 1941,
-          "text": "1941."
+          "year": 2013,
+          "text": "U kina stigao film \"12 Years a Slave\" FILM Stevea McQueena iz 2013. godine temelji se na autobiografiji Solomona Northupa."
         }
       ]
     },
@@ -13007,8 +12951,8 @@
           "text": "Nestanak D.B. Coopera BILO je to 24. studenog 1971. godine, a nepoznati mu&#x161;karac, kasnije poznat kao D. B. Cooper, imao je kartu u jednom smjeru na letu za Seattle."
         },
         {
-          "year": 1963,
-          "text": "Kennedyjev ubojica ubijen je pred novinarima na ulici. I danas žive teorije zavjere"
+          "year": 1946,
+          "text": "Ubijao je žene svakih mjesec dana. Ubio ih je preko 30 prije nego što je zaustavljen"
         },
         {
           "year": 1946,
@@ -13019,16 +12963,16 @@
           "text": "1677."
         },
         {
-          "year": 1963,
-          "text": "1963."
-        },
-        {
           "year": 1948,
           "text": "1948."
         },
         {
           "year": 1991,
           "text": "1991."
+        },
+        {
+          "year": 1963,
+          "text": "1963."
         }
       ]
     },
