@@ -1,6 +1,6 @@
 {
   "source": "DHMZ",
-  "updated_at": "2026-10-18T15:55:00.607279+00:00",
+  "updated_at": "2026-10-18T20:48:40.698609+00:00",
   "warnings": [
     {
       "day": "today",
@@ -560,19 +560,21 @@
   ],
   "rainfall_text": [],
   "adriatic_text": [
-    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 18.10.2026. u 12 sati",
+    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 18.10.2026. u 19 sati",
+    "Tijekom noći na sjevernom Jadranu ponegdje je moguća magla.",
     "Nad Jadranom se zadržava anticiklonalno polje.",
     "Vremenska prognoza za Jadran za prvih 12 sati",
-    "Tiho ili uglavnom jugo, na sjevernom i južnom Jadranu i bura 4-14, poslijepodne na otvorenom moru sjevernog Jadrana jugo do 16 čvorova. More 1-2, poslijepodne na otvorenom sjevernog Jadrana moguće i 3. Vidljivost 20 km. Pretežno vedro, ponegdje uz umjerenu naoblaku.",
-    "Tiho ili uglavnom slabo do umjereno jugo, na sjevernom i južnom Jadranu i bura. More mirno ili malo valovito. Pretežno vedro, ponegdje uz umjerenu naoblaku."
+    "Tiho ili uglavnom jugo, na sjevernom i južnom Jadranu i bura 4-14 čvorova. More 1-2, još u početku na otvorenom moru sjevernog Jadrana moguće i 3. Vidljivost 20 km, tijekom noći na sjevernom Jadranu ponegdje moguća manje od 1 km zbog magle. Pretežno vedro, ponegdje uz umjerenu naoblaku.",
+    "Tiho ili uglavnom slabo do umjereno jugo, na sjevernom i južnom Jadranu i bura, a poslijepodne na južnom Jadranu sjeverozapadni vjetar. More mirno ili malo valovito. Pretežno vedro, ponegdje uz umjerenu naoblaku."
   ],
   "sailors_text": [
-    "VREMENSKO IZVJEŠĆE, dan 18.10.2026 u 12:00 sati",
+    "VREMENSKO IZVJEŠĆE, dan 18.10.2026 u 18:00 sati",
+    "Tijekom noći na sjevernom Jadranu ponegdje je moguća magla.",
     "Nad Jadranom se zadržava anticiklonalno polje.",
-    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 19.10.2026 u 12 sati",
-    "Tiho ili uglavnom SE i NE vjetar 4-14, poslijepodne na otvorenom moru SE do 16 čvorova. More 1-2, danas na otvorenom moguće i 3. Vidljivost 20 km. Pretežno vedro, ponegdje uz umjerenu naoblaku.",
+    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 19.10.2026 u 18 sati",
+    "Tiho ili uglavnom SE i NE vjetar 4-14. More 1-2, još u početku na otvorenom moguće 3. Vidljivost 20 km, u noći ponegdje manja od 1 km zbog magle. Pretežno vedro, ponegdje uz umjerenu naoblaku.",
     "Tiho ili uglavnom SE vjetar 4-14 čvorova. More 1-2. Vidljivost 20 km. Pretežno vedro, ponegdje uz umjerenu naoblaku.",
-    "Tiho ili uglavnom SE i NE vjetar 4-14 čvorova. More 1-2. Vidljivost 20 km. Pretežno vedro, ponegdje uz umjerenu naoblaku."
+    "Tiho ili uglavnom SE i NE, sutra poslijepodne NW vjetar 4-14 čvorova. More 1-2. Vidljivost 20 km. Pretežno vedro, ponegdje uz umjerenu naoblaku."
   ],
   "croatia_forecast_text": []
 }
