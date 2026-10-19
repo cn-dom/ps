@@ -1,6 +1,6 @@
 {
   "source": "DHMZ",
-  "updated_at": "2026-10-19T13:24:33.792327+00:00",
+  "updated_at": "2026-10-19T20:36:44.819507+00:00",
   "warnings": [
     {
       "day": "today",
@@ -665,7 +665,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Narančasto upozorenje za vjetar",
-      "description": "Jako, mjestimice vrlo jako jugo. Najjači udari vjetra 35-50 čvorova  (65-95 km/h)",
+      "description": "Jako, mjestimice vrlo jako jugo, navečer južni vjetar. Najjači udari vjetra 35-50 čvorova  (65-95 km/h)",
       "severity": "Severe",
       "urgency": "Future",
       "areas": [
@@ -725,7 +725,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Orange wind warning",
-      "description": "Strong, locally near gale SE wind. Maximum wind gusts 35-50 knot (65-95 km/h)",
+      "description": "Strong, locally near gale SE, at night S wind. Maximum wind gusts 35-50 knot (65-95 km/h)",
       "severity": "Severe",
       "urgency": "Future",
       "areas": [
@@ -960,18 +960,21 @@
   ],
   "rainfall_text": [],
   "adriatic_text": [
-    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 19.10.2026. u 12 sati",
+    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 19.10.2026. u 19 sati",
+    "U noći i ujutro je moguća magla. Sutra poslijepodne mjestimice udari juga 35-40 čvorova.",
     "Nad Jadranom se zadržava anticiklonalno polje, a očekuje se približavanje doline s frontalnim sustavom sa zapada.",
     "Vremenska prognoza za Jadran za prvih 12 sati",
-    "Tiho ili vjetar promjenjivog smjera 4-12 čvorova. More 1-2. Vidljivost 10-20 km, u noći moguća manja od 1 km zbog magle. Pretežno vedro.",
-    "Tiho ili slab vjetar promjenjivog smjera. Od jutra jugo u jačanju na slabo do umjereno, na sjevernom i srednjem Jadranu mjestimice pojačano. More mirno ili malo valovito, sutra prijepodne i umjereno valovito. U noći i ujutro je moguća magla. Pretežno vedro."
+    "Tiho ili vjetar promjenjivog smjera 4-12 čvorova. More 1-2. Vidljivost 10-20 km, u noći i ujutro moguća manja od 1 km zbog magle. Pretežno vedro, ponegdje umjerena naoblaka.",
+    "Jugo u jačanju na pojačano do jako. More malo do umjereno valovito, poslijepodne na sjevernom i srednjem Jadranu i valovito. Ujutro je moguća magla. Pretežno vedro, ponegdje umjerena naoblaka, sredinom dana na krajnjem sjeveru moguća kiša."
   ],
   "sailors_text": [
-    "VREMENSKO IZVJEŠĆE, dan 19.10.2026 u 12:00 sati",
+    "VREMENSKO IZVJEŠĆE, dan 19.10.2026 u 18:00 sati",
+    "U noći i ujutro je moguća magla. Sutra poslijepodne mjestimice udari SE vjetra 35-40 čvorova.",
     "Nad Jadranom se zadržava anticiklonalno polje, a očekuje se približavanje doline s frontalnim sustavom sa zapada.",
-    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 20.10.2026 u 12 sati",
-    "Tiho ili vjetar promjenjivog smjera 4-12 čvorova. Od jutra SE vjetar u jačanju na 10-20 čvorova. More 1-2, sutra prijepodne 2-3. Vidljivost 10-20 km, u noći i ujutro moguća manja od 1 km zbog magle. Pretežno vedro.",
-    "Tiho ili vjetar promjenjivog smjera 4-12 čvorova. Od jutra SE vjetar u jačanju na 6-16 čvorova. More 1-2, sutra prijepodne 2-3. Vidljivost 10-20 km, u noći i ujutro moguća manja od 1 km zbog magle. Pretežno vedro."
+    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 20.10.2026 u 18 sati",
+    "Tiho ili vjetar promjenjivog smjera 4-12 čvorova. Od jutra SE vjetar u jačanju na 10-20, poslijepodne do 24 čvora. More 1-2, sutra prijepodne 2-3, poslijepodne 3-4. Vidljivost 10-20 km, u noći i ujutro moguća manja od 1 km zbog magle. Pretežno vedro, sutra sredinom dana uz umjerenu naoblaku na krajnjem sjeveru moguća kiša.",
+    "Tiho ili vjetar promjenjivog smjera 4-12 čvorova. Od jutra SE vjetar u jačanju na 10-20, poslijepodne do 24 čvora. More 1-2, sutra prijepodne 2-3, poslijepodne 3-4. Vidljivost 10-20 km, u noći i ujutro moguća manja od 1 km zbog magle. Pretežno vedro, ponegdje umjerena naoblaka.",
+    "Tiho ili vjetar promjenjivog smjera 4-12 čvorova. Od jutra SE vjetar u jačanju na 6-16, poslijepodne 12-22 čvora. More 1-2, od prijepodneva 2-3. Vidljivost 10-20 km, u noći i ujutro moguća manja od 1 km zbog magle. Pretežno vedro, ponegdje umjerena naoblaka."
   ],
   "croatia_forecast_text": []
 }
