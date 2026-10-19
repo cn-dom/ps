@@ -1,6 +1,6 @@
 {
   "source": "DHMZ",
-  "updated_at": "2026-10-19T04:46:29.464868+00:00",
+  "updated_at": "2026-10-19T13:24:33.792327+00:00",
   "warnings": [
     {
       "day": "today",
@@ -10,6 +10,16 @@
       "urgency": "Future",
       "areas": [
         "Zagrebačka"
+      ]
+    },
+    {
+      "day": "today",
+      "event": "Žuto upozorenje za maglu",
+      "description": "Vidljivost mjestimice značajno smanjena zbog guste magle.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Brodsko-posavska"
       ]
     },
     {
@@ -59,6 +69,16 @@
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
+        "Brodsko-posavska"
+      ]
+    },
+    {
+      "day": "today",
+      "event": "Yellow fog warning",
+      "description": "Significantly reduced visibility in places caused by dense fog.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
         "Sisačko-moslavačka"
       ]
     },
@@ -83,9 +103,239 @@
       ]
     },
     {
+      "day": "today",
+      "event": "Zeleno upozorenje za vjetar",
+      "description": "Nema upozorenja!",
+      "severity": "Minor",
+      "urgency": "Future",
+      "areas": [
+        "Primorsko-goranska",
+        "Ličko-senjska",
+        "Zadarska",
+        "Šibensko-kninska",
+        "Splitsko-dalmatinska",
+        "Istarska",
+        "Dubrovačko-neretvanska",
+        "Grad Zagreb",
+        "Bjelovarsko-bilogorska",
+        "Virovitičko-podravska",
+        "Požeško-slavonska",
+        "Brodsko-posavska",
+        "Osječko-baranjska",
+        "Vukovarsko-srijemska",
+        "Karlovačka",
+        "Sisačko-moslavačka",
+        "Međimurska",
+        "Varaždinska",
+        "Koprivničko-križevačka",
+        "Krapinsko-zagorska",
+        "Zagrebačka"
+      ]
+    },
+    {
+      "day": "today",
+      "event": "Zeleno upozorenje za kišu",
+      "description": "Nema upozorenja!",
+      "severity": "Minor",
+      "urgency": "Future",
+      "areas": [
+        "Primorsko-goranska",
+        "Ličko-senjska",
+        "Zadarska",
+        "Šibensko-kninska",
+        "Splitsko-dalmatinska",
+        "Istarska",
+        "Dubrovačko-neretvanska",
+        "Grad Zagreb",
+        "Bjelovarsko-bilogorska",
+        "Virovitičko-podravska",
+        "Požeško-slavonska",
+        "Brodsko-posavska",
+        "Osječko-baranjska",
+        "Vukovarsko-srijemska",
+        "Karlovačka",
+        "Sisačko-moslavačka",
+        "Međimurska",
+        "Varaždinska",
+        "Koprivničko-križevačka",
+        "Krapinsko-zagorska",
+        "Zagrebačka"
+      ]
+    },
+    {
+      "day": "today",
+      "event": "Zeleno upozorenje za snijeg/poledicu",
+      "description": "Nema upozorenja!",
+      "severity": "Minor",
+      "urgency": "Future",
+      "areas": [
+        "Primorsko-goranska",
+        "Ličko-senjska",
+        "Zadarska",
+        "Šibensko-kninska",
+        "Splitsko-dalmatinska",
+        "Istarska",
+        "Dubrovačko-neretvanska",
+        "Grad Zagreb",
+        "Bjelovarsko-bilogorska",
+        "Virovitičko-podravska",
+        "Požeško-slavonska",
+        "Brodsko-posavska",
+        "Osječko-baranjska",
+        "Vukovarsko-srijemska",
+        "Karlovačka",
+        "Sisačko-moslavačka",
+        "Međimurska",
+        "Varaždinska",
+        "Koprivničko-križevačka",
+        "Krapinsko-zagorska",
+        "Zagrebačka"
+      ]
+    },
+    {
+      "day": "today",
+      "event": "Zeleno upozorenje za grmljavinsku oluju",
+      "description": "Nema upozorenja!",
+      "severity": "Minor",
+      "urgency": "Future",
+      "areas": [
+        "Primorsko-goranska",
+        "Ličko-senjska",
+        "Zadarska",
+        "Šibensko-kninska",
+        "Splitsko-dalmatinska",
+        "Istarska",
+        "Dubrovačko-neretvanska",
+        "Grad Zagreb",
+        "Bjelovarsko-bilogorska",
+        "Virovitičko-podravska",
+        "Požeško-slavonska",
+        "Brodsko-posavska",
+        "Osječko-baranjska",
+        "Vukovarsko-srijemska",
+        "Karlovačka",
+        "Sisačko-moslavačka",
+        "Međimurska",
+        "Varaždinska",
+        "Koprivničko-križevačka",
+        "Krapinsko-zagorska",
+        "Zagrebačka"
+      ]
+    },
+    {
+      "day": "today",
+      "event": "Zeleno upozorenje za maglu",
+      "description": "Nema upozorenja!",
+      "severity": "Minor",
+      "urgency": "Future",
+      "areas": [
+        "Primorsko-goranska",
+        "Ličko-senjska",
+        "Zadarska",
+        "Šibensko-kninska",
+        "Splitsko-dalmatinska",
+        "Istarska",
+        "Dubrovačko-neretvanska",
+        "Grad Zagreb",
+        "Bjelovarsko-bilogorska",
+        "Virovitičko-podravska",
+        "Požeško-slavonska",
+        "Brodsko-posavska",
+        "Osječko-baranjska",
+        "Vukovarsko-srijemska",
+        "Karlovačka",
+        "Sisačko-moslavačka",
+        "Međimurska",
+        "Varaždinska",
+        "Koprivničko-križevačka",
+        "Krapinsko-zagorska",
+        "Zagrebačka"
+      ]
+    },
+    {
+      "day": "today",
+      "event": "Zeleno upozorenje za hladnoću",
+      "description": "Nema upozorenja!",
+      "severity": "Minor",
+      "urgency": "Future",
+      "areas": [
+        "Primorsko-goranska",
+        "Ličko-senjska",
+        "Zadarska",
+        "Šibensko-kninska",
+        "Splitsko-dalmatinska",
+        "Istarska",
+        "Dubrovačko-neretvanska",
+        "Grad Zagreb",
+        "Bjelovarsko-bilogorska",
+        "Virovitičko-podravska",
+        "Požeško-slavonska",
+        "Brodsko-posavska",
+        "Osječko-baranjska",
+        "Vukovarsko-srijemska",
+        "Karlovačka",
+        "Sisačko-moslavačka",
+        "Međimurska",
+        "Varaždinska",
+        "Koprivničko-križevačka",
+        "Krapinsko-zagorska",
+        "Zagrebačka"
+      ]
+    },
+    {
+      "day": "today",
+      "event": "Zeleno upozorenje za vrućinu",
+      "description": "Nema upozorenja!",
+      "severity": "Minor",
+      "urgency": "Future",
+      "areas": [
+        "Primorsko-goranska",
+        "Ličko-senjska",
+        "Zadarska",
+        "Šibensko-kninska",
+        "Splitsko-dalmatinska",
+        "Istarska",
+        "Dubrovačko-neretvanska",
+        "Grad Zagreb",
+        "Bjelovarsko-bilogorska",
+        "Virovitičko-podravska",
+        "Požeško-slavonska",
+        "Brodsko-posavska",
+        "Osječko-baranjska",
+        "Vukovarsko-srijemska",
+        "Karlovačka",
+        "Sisačko-moslavačka",
+        "Međimurska",
+        "Varaždinska",
+        "Koprivničko-križevačka",
+        "Krapinsko-zagorska",
+        "Zagrebačka"
+      ]
+    },
+    {
       "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
       "description": "Na obali i otocima jako jugo s olujnim udarima.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Primorsko-goranska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za kišu",
+      "description": "Lokalno obilna kiša.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Primorsko-goranska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za grmljavinsku oluju",
+      "description": "Mjestimice mogući izraženiji pljuskovi praćeni grmljavinom.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -104,6 +354,16 @@
     },
     {
       "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za grmljavinsku oluju",
+      "description": "Mjestimice mogući izraženiji pljuskovi praćeni grmljavinom.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Istarska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
       "description": "Na obali i otocima jako jugo s olujnim udarima.",
       "severity": "Moderate",
@@ -114,8 +374,28 @@
     },
     {
       "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za grmljavinsku oluju",
+      "description": "Mjestimice mogući izraženiji pljuskovi praćeni grmljavinom.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Ličko-senjska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Na obali i otocima jako jugo s olujnim udarima.",
+      "description": "Na obali i otocima jako jugo s olujnim udarima, prema večeri u okretanju na južni i jugozapadni vjetar.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Zadarska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za grmljavinsku oluju",
+      "description": "Mjestimice mogući izraženiji pljuskovi praćeni grmljavinom.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -125,7 +405,17 @@
     {
       "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Na obali i otocima jako jugo s olujnim udarima.",
+      "description": "Na obali i otocima jako jugo s olujnim udarima, prema večeri u okretanju na južni i jugozapadni vjetar.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Šibensko-kninska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za grmljavinsku oluju",
+      "description": "Mjestimice mogući izraženiji pljuskovi praćeni grmljavinom.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -135,7 +425,17 @@
     {
       "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Na obali i otocima jako jugo s olujnim udarima.",
+      "description": "Na obali i otocima jako jugo s olujnim udarima, prema večeri u okretanju na južni i jugozapadni vjetar.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Splitsko-dalmatinska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za grmljavinsku oluju",
+      "description": "Mjestimice izraženiji pljuskovi praćeni grmljavinom. Moguća obilna kiša u kratkom vremenu.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -145,7 +445,17 @@
     {
       "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Jako jugo s olujnim udarima.",
+      "description": "Jako jugo s olujnim udarima, prema večeri u okretanju na južni i jugozapadni vjetar.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Dubrovačko-neretvanska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za grmljavinsku oluju",
+      "description": "Mjestimice izraženiji pljuskovi praćeni grmljavinom. Moguća obilna kiša u kratkom vremenu.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -164,8 +474,38 @@
     },
     {
       "day": "day_after_tomorrow",
+      "event": "Yellow rain warning",
+      "description": "Heavy rain locally.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Primorsko-goranska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow thunderstorm warning",
+      "description": "Severe thundershowers locally possible.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Primorsko-goranska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
       "description": "Strong jugo (SE wind) along the coast and on islands.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Istarska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow thunderstorm warning",
+      "description": "Severe thundershowers locally possible.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -184,8 +524,28 @@
     },
     {
       "day": "day_after_tomorrow",
+      "event": "Yellow thunderstorm warning",
+      "description": "Severe thundershowers locally possible.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Ličko-senjska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
-      "description": "Strong jugo (SE wind) along the coast and on islands.",
+      "description": "Along the coast and on islands strong jugo (SE wind), in the evening turning to S and SW wind.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Zadarska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow thunderstorm warning",
+      "description": "Severe thundershowers locally possible.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -195,7 +555,17 @@
     {
       "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
-      "description": "Strong jugo (SE wind) along the coast and on islands.",
+      "description": "Along the coast and on islands strong jugo (SE wind), in the evening turning to S and SW wind.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Šibensko-kninska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow thunderstorm warning",
+      "description": "Severe thundershowers locally possible.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -205,7 +575,17 @@
     {
       "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
-      "description": "Strong jugo (SE wind) along the coast and on islands.",
+      "description": "Along the coast and on islands strong jugo (SE wind), in the evening turning to S and SW wind.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Splitsko-dalmatinska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow thunderstorm warning",
+      "description": "Severe thundershowers locally possible. Heavy rain in short time possible.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -215,7 +595,17 @@
     {
       "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
-      "description": "Strong jugo (SE wind).",
+      "description": "Strong jugo (SE wind), towards evening turning to S and SW wind.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Dubrovačko-neretvanska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow thunderstorm warning",
+      "description": "Severe thundershowers locally possible. Heavy rain in short time possible.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -570,17 +960,18 @@
   ],
   "rainfall_text": [],
   "adriatic_text": [
-    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 19.10.2026. u 06 sati",
-    "Nad Jadranom se zadržava anticiklonalno polje.",
+    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 19.10.2026. u 12 sati",
+    "Nad Jadranom se zadržava anticiklonalno polje, a očekuje se približavanje doline s frontalnim sustavom sa zapada.",
     "Vremenska prognoza za Jadran za prvih 12 sati",
-    "Tiho ili vjetar promjenjivog smjera do 10 čvorova. More 1-2. Vidljivost oko 20 km. Pretežno vedro, ponegdje uz umjerenu naoblaku.",
-    "Tiho ili slab vjetar promjenjivog smjera. More mirno ili malo valovito. Pretežno vedro."
+    "Tiho ili vjetar promjenjivog smjera 4-12 čvorova. More 1-2. Vidljivost 10-20 km, u noći moguća manja od 1 km zbog magle. Pretežno vedro.",
+    "Tiho ili slab vjetar promjenjivog smjera. Od jutra jugo u jačanju na slabo do umjereno, na sjevernom i srednjem Jadranu mjestimice pojačano. More mirno ili malo valovito, sutra prijepodne i umjereno valovito. U noći i ujutro je moguća magla. Pretežno vedro."
   ],
   "sailors_text": [
-    "VREMENSKO IZVJEŠĆE, dan 19.10.2026 u 06:00 sati",
-    "Nad Jadranom se zadržava anticiklonalno polje.",
-    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 20.10.2026 u 06 sati",
-    "Tiho ili vjetar promjenjivog smjera do 10 čvorova. More 1-2. Vidljivost oko 20 km. Pretežno vedro, ponegdje uz umjerenu naoblaku."
+    "VREMENSKO IZVJEŠĆE, dan 19.10.2026 u 12:00 sati",
+    "Nad Jadranom se zadržava anticiklonalno polje, a očekuje se približavanje doline s frontalnim sustavom sa zapada.",
+    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 20.10.2026 u 12 sati",
+    "Tiho ili vjetar promjenjivog smjera 4-12 čvorova. Od jutra SE vjetar u jačanju na 10-20 čvorova. More 1-2, sutra prijepodne 2-3. Vidljivost 10-20 km, u noći i ujutro moguća manja od 1 km zbog magle. Pretežno vedro.",
+    "Tiho ili vjetar promjenjivog smjera 4-12 čvorova. Od jutra SE vjetar u jačanju na 6-16 čvorova. More 1-2, sutra prijepodne 2-3. Vidljivost 10-20 km, u noći i ujutro moguća manja od 1 km zbog magle. Pretežno vedro."
   ],
   "croatia_forecast_text": []
 }
