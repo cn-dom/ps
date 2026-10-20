@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-10-19T09:06:56.335Z",
+  "updated_at": "2026-10-20T08:43:24.841Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2437,18 +2437,9 @@
     },
     "02-18": {
       "date": "02-18",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1358,
-          "text": "U Zadru sklopljen glasoviti Zadarski mir između Mletačke Republike i ugarsko-hrvatskog kralja Ludovika I. Anžuvinca kojim su se Mlečani odrekli Dalmacije."
-        },
-        {
-          "year": 2008,
-          "text": "Afganistan postao prva država koja je priznala nezavisnost Kosova."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-19": {
       "date": "02-19",
@@ -5553,12 +5544,12 @@
           "text": "Ana Kurnjikova"
         },
         {
-          "year": 1942,
-          "text": "2011."
-        },
-        {
           "year": 1835,
           "text": "1903."
+        },
+        {
+          "year": 1952,
+          "text": "Liam Neeson"
         },
         {
           "year": 1993,
@@ -5643,12 +5634,12 @@
           "text": "Johnny Depp"
         },
         {
-          "year": 1825,
-          "text": "1825."
-        },
-        {
           "year": 1924,
           "text": "1924."
+        },
+        {
+          "year": 1825,
+          "text": "1825."
         }
       ]
     },
@@ -8013,12 +8004,12 @@
           "text": "Charli XCX"
         },
         {
-          "year": 1973,
-          "text": "1973."
-        },
-        {
           "year": 1934,
           "text": "1934."
+        },
+        {
+          "year": 1973,
+          "text": "1973."
         }
       ]
     },
@@ -8353,12 +8344,12 @@
           "text": "Roy Keane"
         },
         {
-          "year": 1874,
-          "text": "1964."
-        },
-        {
           "year": 1960,
           "text": "Antonio Banderas"
+        },
+        {
+          "year": 1874,
+          "text": "1964."
         },
         {
           "year": 1991,
@@ -11422,28 +11413,28 @@
           "text": "Bila je strah i trepet Jugoslavije, nakon raspada životarila je u bijedi"
         },
         {
+          "year": 1780,
+          "text": "1825."
+        },
+        {
           "year": 1770,
           "text": "1855."
         },
         {
-          "year": 1770,
-          "text": "1856."
-        },
-        {
-          "year": 1780,
-          "text": "1825."
+          "year": 1882,
+          "text": "1956."
         },
         {
           "year": 2013,
           "text": "2013."
         },
         {
-          "year": 2011,
-          "text": "2011."
-        },
-        {
           "year": 1964,
           "text": "1964."
+        },
+        {
+          "year": 2011,
+          "text": "2011."
         }
       ]
     },
@@ -12353,24 +12344,56 @@
     },
     "11-10": {
       "date": "11-10",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
+      "source": "Index Kalendar",
+      "source_url": "https://www.index.hr/kalendar?datum=1011",
       "events": [
         {
           "year": 1444,
-          "text": "U bitki kod Varne osmanske snage porazile su vojsku hrvatsko-ugarskog kralja Vladislava I. koji je i sam poginuo."
+          "text": "Bitka kod Varne"
         },
         {
-          "year": 1775,
-          "text": "Kongres SAD-a osnovao američke marince."
+          "year": 2023,
+          "text": "U kina je stigao film The Marvels SUPERHEROJSKI film The Marvels (u Hrvatskoj distribuiran pod naslovom Marveli) u kinima se po&#x10D;eo prikazivati 10. studenoga 2023. godine kao nastavak filma Captain Marvel te kao svojevrsna to&#x10D;ka u kojoj se spajaju filmovi i serije Marvelovog filmskog svemira (MCU)."
         },
         {
-          "year": 1871,
-          "text": "Davida Livingstonea, koji se smatrao nestalim, pronašao je Henry Morton Stanley usred Afrike i navodno pozdravio riječima: „Dr. Livingstone, pretpostavljam?”"
+          "year": 1202,
+          "text": "Križari započinju opsadu Zadra NA DANA&#x160;NJI dan kri&#x17E;ari su napali kr&#x161;&#x107;anski grad Zadar."
+        },
+        {
+          "year": 2018,
+          "text": "Najluđi UFC prekid TOG DANA vi&#x111;en je najlu&#x111;i prekid u povijesti UFC-a."
         },
         {
           "year": 1991,
-          "text": "Pad obrane Bogdanovaca, nakon kojeg je Vukovar ostao odsječen, jer je presječen tzv. kukuruzni put, jedina komunikacija Vukovara sa slobodnim dijelom Hrvatske. am: [http://narod.hr/hrvatska/obiljezena-23-godisnjica-sloma-obrane-bogdanovaca/ Obilježena 23. godišnjica sloma obrane Bogdanovaca], narod.hr, 10. studenoga 2014."
+          "text": "Pad Bogdanovaca DANA 10. studenoga 1991. godine, nakon &#x10D;etrdeset dana opsade, palo je selo Bogdanovci - mjesto koje je do posljednjeg trenutka bilo posljednji &#x161;tit pred Vukovarom i simbol otpora koji se pamti kao jedno od najtragi&#x10D;nijih poglavlja Domovinskog rata."
+        },
+        {
+          "year": 1942,
+          "text": "Započeo snajperski pohod Vasilija Zajceva NA DANA&#x160;NJI dan, 10. studenoga 1942., zapo&#x10D;eo je najsmrtonosniji period u karijeri Vasilija Grigorjevi&#x10D;a Zajceva, legendarnog sovjetskog snajperista iz bitke za Staljingrad."
+        },
+        {
+          "year": 1871,
+          "text": "Henry Morton Stanley pronašao Davida Livingstonea DANA 10. studenoga 1871. godine, na obali jezera Tanganjika, u mjestu Ujiji u dana&#x161;njoj Tanzaniji, dogodio se jedan od najpoznatijih susreta u povijesti istra&#x17E;ivanja."
+        },
+        {
+          "year": 1982,
+          "text": "Vodio je SSSR. U zadnjim danima života i vlasti donio je katastrofalnu odluku"
+        },
+        {
+          "year": 1977,
+          "text": "2009."
+        },
+        {
+          "year": 1919,
+          "text": "2013."
+        },
+        {
+          "year": 1888,
+          "text": "1972."
+        },
+        {
+          "year": 1982,
+          "text": "1982."
         }
       ]
     },
