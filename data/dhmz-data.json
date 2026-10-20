@@ -1,6 +1,6 @@
 {
   "source": "DHMZ",
-  "updated_at": "2026-10-20T14:20:31.691470+00:00",
+  "updated_at": "2026-10-20T19:19:06.143942+00:00",
   "warnings": [
     {
       "day": "today",
@@ -394,6 +394,26 @@
     },
     {
       "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za vjetar",
+      "description": "Mjestimice pojačana bura. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Sjeverna Dalmacija"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za vjetar",
+      "description": "Mjestimice pojačana bura. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Srednja Dalmacija"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
       "description": "Locally strong SW wind, shifting to NE and N wind. Maximum wind gusts 35-50 knot (65-95 km/h)",
       "severity": "Moderate",
@@ -420,6 +440,26 @@
       "urgency": "Future",
       "areas": [
         "Velebit channel"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow wind warning",
+      "description": "Locally fresh NE wind. Maximum wind gusts 35-40 knot (65-75 km/h)",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "North Dalmatia region"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow wind warning",
+      "description": "Locally fresh NE wind. Maximum wind gusts 35-40 knot (65-75 km/h)",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Middle Dalmatia region"
       ]
     },
     {
@@ -650,21 +690,21 @@
   ],
   "rainfall_text": [],
   "adriatic_text": [
-    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 20.10.2026. u 12 sati",
-    "Mjestimice udari juga 35-45 čvorova. U noći i prijepodne na sjevernom i srednjem, a sutra prijepodne i na južnom Jadranu moguće more 5. Moguće su nevere, uglavnom sutra.",
-    "Jadranu se sa zapada približava dolina s frontalnim poremećajem.",
+    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 20.10.2026. u 19 sati",
+    "Mjestimice udari juga, a sutra od prijepodneva na južnom, poslijepodne i dijelu srednjeg Jadrana i južnog vjetra 35-45 čvorova. Moguće more 5. Moguće su nevere, uglavnom sutra.",
+    "Očekuje se premještanje doline s frontalnim poremećajem preko Jadrana.",
     "Vremenska prognoza za Jadran za prvih 12 sati",
-    "Jugo u jačanju na 12-24, u noći na sjevernom i srednjem 16-32 čvora, a na južnom Jadranu 10-20, u noći do 26 čvorova. More u jačanju na 3-4, na sjevernom i srednjem Jadranu u noći 5. Vidljivost 10-20 km. Postupno naoblačenje, na krajnjem sjeveru Jadrana, a prema kraju dana i drugdje mjestimice kiša, a mogući su i pljuskovi s grmljavinom, uglavnom na sjevernom Jadranu.",
-    "Pojačano do jako, ponegdje i vrlo jako jugo. More umjereno valovito i valovito, na sjevernom i srednjem, a prijepodne i na južnom Jadranu i jače valovito. Promjenljivo do pretežno oblačno, moguća je kiša te pljuskovi s grmljavinom."
+    "Jugo 12-26, na sjevernom i srednjem Jadranu u jačanju na 16-32 čvora. More 3-4, na sjevernom i srednjem Jadranu ponegdje 5. Vidljivost 10-20 km. Postupno naoblačenje, moguća je kiša, a uglavnom sutra i pljuskovi s grmljavinom.",
+    "Pojačano do jako, ponegdje i vrlo jako jugo, poslijepodne će na sjevernom i dijelu srednjeg Jadrana oslabjeti te okretati na umjeren do pojačan južni i jugozapadni vjetar. Na južnom i na ostatku srednjeg Jadrana jako i vrlo jako jugo i južni vjetar. More umjereno valovito, na južnom i dijelu srednjeg, a još prijepodne na sjevernom i srednjem Jadranu i jače valovito. Promjenljivo do pretežno oblačno, mjestimice kiša, pljuskovi i grmljavina."
   ],
   "sailors_text": [
-    "VREMENSKO IZVJEŠĆE, dan 20.10.2026 u 12:00 sati",
-    "Mjestimice udari SE vjetra 35-45 čvorova. U noći i prijepodne na sjevernom i srednjem, a sutra prijepodne i na južnom Jadranu moguće more 5. Moguće su nevere, uglavnom sutra.",
-    "Jadranu se sa zapada približava dolina s frontalnim poremećajem.",
-    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 21.10.2026 u 12 sati",
-    "Vjetar SE u jačanju na 12-24, u noći 16-32 čvora. More u jačanju na 3-4, u noći i prijepodne 5. Vidljivost 10-20 km. Postupno naoblačenje, na krajnjem sjeveru, a prema kraju dana i drugdje mjestimice kiša, a mogući su i pljuskovi s grmljavinom, uglavnom sutra.",
-    "Vjetar SE u jačanju na 12-24, u noći 16-32 čvora. More u jačanju na 3-4, u noći i prijepodne 5. Vidljivost 10-20 km. Pretežno vedro, ponegdje s umjerenom naoblakom, prema kraju dana naoblačenje, moguća je kiša, a uglavnom sutra i pljuskovi s grmljavinom.",
-    "Vjetar SE u jačanju na 10-20, u noći do 26, sutra prijepodne 16-32 čvora. More 2-3, prema kraju dana 3-4, sutra prijepodne ponegdje i 5. Vidljivost 10-20 km. Pretežno vedro, ponegdje s umjerenom naoblakom, prema kraju dana naoblačenje, moguća je kiša, a uglavnom sutra i pljuskovi s grmljavinom."
+    "VREMENSKO IZVJEŠĆE, dan 20.10.2026 u 18:00 sati",
+    "Mjestimice udari SE, a sutra od prijepodneva na južnom, poslijepodne i dijelu srednjeg Jadrana i S vjetra 35-45 čvorova. Moguće more 5. Moguće su nevere, uglavnom sutra.",
+    "Očekuje se premještanje doline s frontalnim poremećajem preko Jadrana.",
+    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 21.10.2026 u 18 sati",
+    "Vjetar SE 12-26, u jačanju na 16-32 čvora. Sutra poslijepodne vjetar će postupno oslabjeti i okretati na S i SW 10-20 čvorova. More 3-4, u noći i prijepodne ponegdje 5. Vidljivost 10-20 km. Promjenljivo do pretežno oblačno, mjestimice kiša, a mogući su i pljuskovi s grmljavinom, uglavnom sutra.",
+    "Vjetar SE 12-26, u jačanju na 16-32 čvora, sutra poslijepodne na sjeveru područja vjetar će postupno oslabjeti i okretati na S i SW 10-20 čvorova. More 3-4, ponegdje 5. Vidljivost 10-20 km. Postupno naoblačenje, moguća je kiša, a uglavnom sutra i pljuskovi s grmljavinom.",
+    "Vjetar SE 12-26 čvorova. Sutra prijepodne vjetar SE i S u jačanju na 16-32 čvora. More 3-4, od prijepodneva ponegdje 5. Vidljivost 10-20 km. Postupno naoblačenje, moguća je kiša, a uglavnom sutra i pljuskovi s grmljavinom."
   ],
   "croatia_forecast_text": []
 }
