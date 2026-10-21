@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-10-20T08:43:24.841Z",
+  "updated_at": "2026-10-21T08:44:06.331Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2437,9 +2437,18 @@
     },
     "02-18": {
       "date": "02-18",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1358,
+          "text": "U Zadru sklopljen glasoviti Zadarski mir između Mletačke Republike i ugarsko-hrvatskog kralja Ludovika I. Anžuvinca kojim su se Mlečani odrekli Dalmacije."
+        },
+        {
+          "year": 2008,
+          "text": "Afganistan postao prva država koja je priznala nezavisnost Kosova."
+        }
+      ]
     },
     "02-19": {
       "date": "02-19",
@@ -2805,12 +2814,12 @@
           "text": "2016."
         },
         {
-          "year": 2008,
-          "text": "2008."
-        },
-        {
           "year": 1882,
           "text": "1882."
+        },
+        {
+          "year": 2008,
+          "text": "2008."
         }
       ]
     },
@@ -11468,12 +11477,8 @@
           "text": "Osnovana indijska država Azad Hind, saveznica Sila osovine AZAD Hind bila je politi&#x10D;ka i vojna struktura osnovana 21. listopada 1943. u Singapuru pod vodstvom Subhasa Chandre Bosea."
         },
         {
-          "year": 1939,
-          "text": "Oca su mu ubile ustaše, a on je postao jedan od najboljih hrvatskih tenisača ikada"
-        },
-        {
-          "year": 1939,
-          "text": "2023."
+          "year": 1833,
+          "text": "Ono što je izumio užasavalo ga je, pa se odlučio posvetiti nagradi za mir i znanost"
         },
         {
           "year": 1833,
@@ -11482,6 +11487,10 @@
         {
           "year": 1983,
           "text": "2008."
+        },
+        {
+          "year": 1939,
+          "text": "2023."
         },
         {
           "year": 1916,
@@ -11907,12 +11916,8 @@
           "text": "Ubijena Martha Elizabeth Moxley DANA 30. listopada 1975. u elitnom predjelu Belle Havena u Greenwichu, savezna dr&#x17E;ava Connecticut, brutalno je ubijena 15-godi&#x161;nja Martha Elizabeth Moxley."
         },
         {
-          "year": 1859,
-          "text": "Omraženi ministar ubijen je za ručkom. Bilo je jasno da Monarhija umire"
-        },
-        {
-          "year": 1859,
-          "text": "1916."
+          "year": 1960,
+          "text": "Bio je živuće nogometno božanstvo. Za mnoge je najveći ikada"
         },
         {
           "year": 1960,
@@ -11921,6 +11926,10 @@
         {
           "year": 1825,
           "text": "1871."
+        },
+        {
+          "year": 1859,
+          "text": "1916."
         },
         {
           "year": 1930,
@@ -13554,12 +13563,8 @@
           "text": "Potpisan mir između Španjolske i SAD-a, Španjolska prestala biti svjetska sila &#x160;PANJOLSKO-AMERI&#x10C;KI rat iz 1898. bio je kratak, ali presudan sukob koji je ozna&#x10D;io kraj jedne epohe i po&#x10D;etak nove globalne sile."
         },
         {
-          "year": 1896,
-          "text": "Ono što je izumio užasavalo ga je, pa se odlučio posvetiti nagradi za mir i znanost"
-        },
-        {
-          "year": 1896,
-          "text": "1896."
+          "year": 1991,
+          "text": "Kako je Karlo Metikoš početkom šezdesetih u Parizu postao Matt Collins"
         },
         {
           "year": 1991,
@@ -13568,6 +13573,10 @@
         {
           "year": 1999,
           "text": "1999."
+        },
+        {
+          "year": 1896,
+          "text": "1896."
         }
       ]
     },
@@ -13933,12 +13942,12 @@
           "text": "Alberto Tomba"
         },
         {
-          "year": 2023,
-          "text": "2023."
-        },
-        {
           "year": 1442,
           "text": "1442."
+        },
+        {
+          "year": 2023,
+          "text": "2023."
         }
       ]
     },
