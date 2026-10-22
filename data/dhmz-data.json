@@ -1,6 +1,6 @@
 {
   "source": "DHMZ",
-  "updated_at": "2026-10-22T11:58:18.244767+00:00",
+  "updated_at": "2026-10-22T17:14:18.347683+00:00",
   "warnings": [
     {
       "day": "today",
@@ -670,21 +670,21 @@
   ],
   "rainfall_text": [],
   "adriatic_text": [
-    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 22.10.2026. u 12 sati",
-    "Mjestimice udari bure 35-40, još u početku podno Velebita do 50 čvorova, sutra će oslabiti. Još danas manja mogućnost za nevere.",
-    "Dolina s frontalnim poremećajem se premješta preko Jadrana dalje na istok.",
+    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 22.10.2026. u 19 sati",
+    "Još noćas na sjevernom Jadranu mjestimice udari bure 35-40 čvorova. Još danas na južnom i dijelu srednjeg Jadrana manja mogućnost za nevere.",
+    "Dolina s frontalnim poremećajem odmiče od Jadrana dalje na istok, a sa sjeverozapada se približava nova dolina.",
     "Vremenska prognoza za Jadran za prvih 12 sati",
-    "Bura 10-20 čvorova. Još u početku podno Velebita bura 14-28, a na jugu Jadrana jugozapadni vjetar 10-20 čvorova. More 2-3, samo ponegdje 4. Vidljivost 10-20 km. Još u početku promjenljivo oblačno s mjestimičnom kišom, pljuskovima i grmljavinom, zatim razvedravanje, najprije na sjeveru Jadrana.",
-    "Slaba do pojačana, podno Velebita samo mjestimice jaka bura, a na otvorenom moru slab do umjeren sjeverozapadni vjetar. Vjetar će postupno oslabiti na slab. More malo do umjereno valovito. Pretežno vedro."
+    "Bura, na otvorenom moru mjestimice sjeverozapadni vjetar 6-16, na sjevernom Jadranu do 20, na širem senjskom području do 26 čvorova, oslabit će na 4-12, na širem senjskom području do 16 čvorova. More 2-3, još u početku manja mogućnost za 4. Razvedravanje, još danas na južnom i dijelu srednjeg Jadrana postoji mogućnost za kišu, pljusak i grmljavinu.",
+    "Tiho ili slabo jugo, potkraj dana na sjevernom Jadranu umjereno do pojačano. More u smirivanju na malo valovito, potkraj dana na sjevernom Jadranu malo do umjereno valovito. Pretežno vedro, potkraj dana na sjevernom Jadranu novo naoblačenje i zatim kiša."
   ],
   "sailors_text": [
-    "VREMENSKO IZVJEŠĆE, dan 22.10.2026 u 12:00 sati",
-    "Mjestimice udari NE vjetra 35-40, još u početku podno Velebita do 50 čvorova, sutra će oslabiti. Još danas manja mogućnost za nevere.",
-    "Dolina s frontalnim poremećajem se premješta preko Jadrana dalje na istok.",
-    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 23.10.2026 u 12 sati",
-    "NE vjetar 10-20, podno Velebita do 28 čvorova, postupno će oslabiti na 4-12 čvorova. Sutra sredinom dana na jugu područja SE vjetar 4-12 čvorova. More 2-3, samo ponegdje 4, u smirivanju na 1-2. Vidljivost 10-20 km. Još u početku promjenljivo oblačno s mjestimičnom kišom, pljuskovima i grmljavinom, tijekom poslijepodneva postupno razvedravanje. Sutra sredinom dana novo prolazno naoblačenje.",
-    "NE, na otvorenom moru mjestimice NW vjetar 10-20 čvorova će sutra postupno sasvim oslabiti. More 2-3, na sjeveru područja je još u početku moguće 4, sutra uz obalu i na sjeveru područja u postupnom smirivanju na 1-2. Vidljivost 10-20 km. Još u početku promjenljivo oblačno s mjestimičnom kišom, pljuskovima i grmljavinom, potkraj dana i u noći postupno razvedravanje.",
-    "SW u okretanju na NW, uz obalu NE vjetar 10-20 čvorova, sutra će slabiti na 4-12, na jugu područja do 16 čvorova. More 2-3, još je u početku na otvorenom moguće 4. Vidljivost 10-20 km. Promjenljivo oblačno s mjestimičnom kišom, pljuskovima i grmljavinom, potkraj dana i u noći postupno razvedravanje."
+    "VREMENSKO IZVJEŠĆE, dan 22.10.2026 u 18:00 sati",
+    "Još noćas na sjevernom Jadranu mjestimice udari NE vjetra 35-40 čvorova. Još danas na južnom i dijelu srednjeg Jadrana manja mogućnost za nevere.",
+    "Dolina s frontalnim poremećajem odmiče od Jadrana dalje na istok, a sa sjeverozapada se približava nova dolina.",
+    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 23.10.2026 u 18 sati",
+    "NE vjetar 10-20, na širem senjskom području do 26 čvorova će tijekom noći sasvim oslabiti. Sutra SE vjetar u postupnom jačanju na 10-20 čvorova. More 2-3, još u početku manja mogućnost za 4, u smirivanju na 1-2, sutra poslijepodne opet u jačanju na 2-3. Vidljivost 10-20 km. Pretežno vedro, sutra potkraj dana novo naoblačenje i zatim mjestimice kiša.",
+    "NE, na otvorenom moru mjestimice NW vjetar 6-16 čvorova, tijekom noći će sasvim oslabiti. Sutra tiho ili SE i SW vjetar 4-12 čvorova. More 2-3, još u početku manja mogućnost za 4, u smirivanju na 1-2. Vidljivost 10-20 km. Razvedravanje, još danas na jugu područja postoji mogućnost za kišu, pljusak i grmljavinu.",
+    "NE, na otvorenom moru mjestimice NW vjetar 6-16 čvorova, tijekom noći će sasvim oslabiti. Sutra tiho ili NW i SW vjetar 4-12 čvorova. More 2-3, još u početku manja mogućnost za 4, u smirivanju na 1-2. Vidljivost 10-20 km. Razvedravanje, još danas postoji mogućnost za kišu, pljusak i grmljavinu."
   ],
   "croatia_forecast_text": []
 }
