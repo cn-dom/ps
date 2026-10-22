@@ -1,6 +1,6 @@
 {
   "source": "DHMZ",
-  "updated_at": "2026-10-22T17:14:18.347683+00:00",
+  "updated_at": "2026-10-22T21:40:03.997061+00:00",
   "warnings": [
     {
       "day": "today",
@@ -395,7 +395,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Jako jugo  od sredine dana u okretanju na jaku buru. Najjači udari vjetra 35-50 čvorova  (65-95 km/h)",
+      "description": "Jako jugo  od sredine dana u okretanju na jaku buru. Najjači udari vjetra 35-45 čvorova  (65-85 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -435,7 +435,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
-      "description": "Strong SE wind from the midday turning to strong NE wind. Maximum wind gusts 35-50 knots (65-95 km/h)",
+      "description": "Strong SE wind from the midday turning to strong NE wind. Maximum wind gusts 35-45 knots (65-85 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
