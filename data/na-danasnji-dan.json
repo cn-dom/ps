@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-10-23T08:41:57.653Z",
+  "updated_at": "2026-10-24T08:16:39.420Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2437,18 +2437,9 @@
     },
     "02-18": {
       "date": "02-18",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1358,
-          "text": "U Zadru sklopljen glasoviti Zadarski mir između Mletačke Republike i ugarsko-hrvatskog kralja Ludovika I. Anžuvinca kojim su se Mlečani odrekli Dalmacije."
-        },
-        {
-          "year": 2008,
-          "text": "Afganistan postao prva država koja je priznala nezavisnost Kosova."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-19": {
       "date": "02-19",
@@ -4185,12 +4176,12 @@
           "text": "1794."
         },
         {
-          "year": 1841,
-          "text": "1873."
-        },
-        {
           "year": 1937,
           "text": "2014."
+        },
+        {
+          "year": 1941,
+          "text": "2022."
         }
       ]
     },
@@ -8756,8 +8747,8 @@
           "text": "2023."
         },
         {
-          "year": 1921,
-          "text": "1991."
+          "year": 1963,
+          "text": "John Stamos"
         },
         {
           "year": 1662,
@@ -10108,6 +10099,10 @@
         {
           "year": 1970,
           "text": "1970."
+        },
+        {
+          "year": 1931,
+          "text": "1931."
         }
       ]
     },
@@ -10199,24 +10194,36 @@
     },
     "09-21": {
       "date": "09-21",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
+      "source": "Index Kalendar",
+      "source_url": "https://www.index.hr/kalendar?datum=2109",
       "events": [
         {
+          "year": 1991,
+          "text": "Rušenje aviona JNA nad Šibenikom"
+        },
+        {
+          "year": 1993,
+          "text": "Rapaićev legendarni gol Dinamu NA DANA&#x160;NJI dan 1993. godine Hajduk i Croatia, kako se tada zvao Dinamo, igrali su na Poljudu. U 81. minuti, pri rezultatu 2:2, Ivan Katalini&#x107; je umjesto defenzivca Stipe Andrija&#x161;evi&#x107;a uveo ofenzivca Milana Rapai&#x107;a."
+        },
+        {
+          "year": 2007,
+          "text": "Premijerno prikazan film Into the Wild 21. RUJNA 2007. godine u ameri&#x10D;ka kina stigao je film U divljini (Into the Wild), inspiriran istinitom pri&#x10D;om o Christopheru McCandlessu, mladom idealistu koji je odbacio konvencionalni &#x17E;ivot i zaputio se u divljinu Aljaske."
+        },
+        {
+          "year": 1975,
+          "text": "U kinima se počeo prikazivati film Pasje poslijepodne 21. RUJNA 1975. godine u ameri&#x10D;ka kina stigao je film Pasje poslijepodne (Dog Day Afternoon), kriminalisti&#x10D;ka drama redatelja Sidneyja Lumeta."
+        },
+        {
+          "year": 1975,
+          "text": "Prvi put emitirani Gruntovčani TELEVIZIJSKA serija \"Gruntov&#x10D;ani\" premijerno je emitirana 21. rujna 1975. godine na tada&#x161;njoj Televiziji Zagreb."
+        },
+        {
+          "year": 1991,
+          "text": "Pad Petrinje OBRANA Petrinje u rujnu 1991. godine bila je jedno od najdramati&#x10D;nijih poglavlja Domovinskog rata na Banovini."
+        },
+        {
           "year": 1937,
-          "text": "J.R.R. Tolkien izdao knjigu Hobit."
-        },
-        {
-          "year": 1991,
-          "text": "osnovan Glavni stožer Oružanih snaga Republike Hrvatske Leon Rizmaul: [http://www.hrvatski-vojnik.hr/hrvatski-vojnik/1542007/vremeplov.asp Vremeplov. Osnovan Glavni stožer Hrvatske vojske. 21. rujna 1773.] , Hrvatski vojnik, broj 154, rujan 2007."
-        },
-        {
-          "year": 1991,
-          "text": "Velikosrpske snage nakon pokolja i progona hrvatskog stanovništva u okolnim selima i 20 dana borbe, okupirali Petrinju. rž: [http://narod.hr/kultura/pad-petrinje-pod-napadom-jna-paravojske-21-rujna-1991 Na današnji dan. Pad Petrinje pod napadom JNA i paravojske – 21. rujna 1991.], narod.hr, 21. rujna 2015. rž: [http://narod.hr/hrvatska/21-rujna-1991-petrinja-okupacija-i-zlocini-u-gradu Na današnji dan. 21. rujna 1991. Petrinja – okupacija i zločini u gradu], narod.hr, 21. rujna 2015."
-        },
-        {
-          "year": 1991,
-          "text": "Na povratku sa stranačkog skupa HSP-a u Križevcima, hrvatski policajci ubili su Antu Paradžika. daniponosa.hrt.hr: [http://daniponosa.hrt.hr/dani-ponosa/124/ubijen-ante-paradzik Ubijen Ante Paradžik] , HRT, rujan 2016."
+          "text": "Objavljen Hobit ROMAN \"Hobit, ili Tamo i natrag\" J. R. R. Tolkiena, objavljen 21. rujna 1937. godine, predstavlja jedan od najva&#x17E;nijih trenutaka u povijesti fantasy knji&#x17E;evnosti."
         }
       ]
     },
@@ -11586,6 +11593,10 @@
           "text": "Premijerno prikazan John Wick 24. LISTOPADA 2014. godine premijerno je prikazan John Wick, akcijski film o osveti biv&#x161;eg pla&#x107;enika koji je neo&#x10D;ekivano postao jedan od najutjecajnijih akcijskih naslova 21. stolje&#x107;a."
         },
         {
+          "year": 2025,
+          "text": "Premijerno prikazan film Gattaca 24. LISTOPADA 1997. godine premijeru je imao film Gattaca, redatelja i scenarista Andrewa Niccola, koji je donio hladnu, minimalisti&#x10D;ku i uznemiruju&#x107;e uvjerljivu viziju budu&#x107;nosti u kojoj genetika odre&#x111;uje sudbinu, a slobodna volja postaje luksuz."
+        },
+        {
           "year": 1947,
           "text": "Walt Disney svjedočio protiv komunista GODINE 1947. Sjedinjene Ameri&#x10D;ke Dr&#x17E;ave bile su u jeku Crvene panike - razdoblja straha od komunisti&#x10D;kog utjecaja koji je zahvatio politiku, dru&#x161;tvo i kulturu."
         },
@@ -11594,36 +11605,28 @@
           "text": "Počela Bitka kod Kobarida BITKA kod Kobarida, poznata i kao Dvanaesta bitka na So&#x10D;i ili Caporettska ofenziva, trajala je od 24. listopada do 9. studenoga 1917. i predstavljala jednu od najupe&#x10D;atljivijih pobjeda Sredi&#x161;njih sila u Prvom svjetskom ratu."
         },
         {
-          "year": 2025,
-          "text": "Premijerno prikazan film Gattaca 24. LISTOPADA 1997. godine premijeru je imao film Gattaca, redatelja i scenarista Andrewa Niccola, koji je donio hladnu, minimalisti&#x10D;ku i uznemiruju&#x107;e uvjerljivu viziju budu&#x107;nosti u kojoj genetika odre&#x111;uje sudbinu, a slobodna volja postaje luksuz."
+          "year": 1946,
+          "text": "Zemlja prvi put fotografirana iz Svemira PRVA fotografija Zemlje snimljena iz svemira nastala je 24. listopada 1946. godine, samo godinu i pol nakon zavr&#x161;etka Drugog svjetskog rata."
         },
         {
           "year": 1989,
           "text": "Egon Krenz postao čelnik DDR-a. Posljednji čelnik Istočne Njemačke EGON Krenz, posljednji generalni sekretar Socijalisti&#x10D;ke partije jedinstva Njema&#x10D;ke (SED) i predsjednik Dr&#x17E;avnog vije&#x107;a Njema&#x10D;ke Demokratske Republike (DDR), ostao je kontroverzna li&#x10D;nost njema&#x10D;ke povijesti."
         },
         {
-          "year": 1946,
-          "text": "Zemlja prvi put fotografirana iz Svemira PRVA fotografija Zemlje snimljena iz svemira nastala je 24. listopada 1946. godine, samo godinu i pol nakon zavr&#x161;etka Drugog svjetskog rata."
-        },
-        {
-          "year": 1972,
-          "text": "S palicom u rukama ispisao je povijest sporta i borbe protiv rasizma"
-        },
-        {
           "year": 1937,
           "text": "2018."
         },
         {
-          "year": 1972,
-          "text": "1972."
+          "year": 1873,
+          "text": "1873."
         },
         {
           "year": 1944,
           "text": "1944."
         },
         {
-          "year": 1873,
-          "text": "1873."
+          "year": 1972,
+          "text": "1972."
         }
       ]
     },
