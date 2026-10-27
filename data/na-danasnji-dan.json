@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-10-26T09:09:45.240Z",
+  "updated_at": "2026-10-27T09:11:06.981Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -1724,9 +1724,54 @@
     },
     "02-03": {
       "date": "02-03",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1488,
+          "text": "Portugalac Bartolomeu Dias oplovio je Rt Dobre Nade na jugu Afrike i iskrcao se u zaljevu Mossel."
+        },
+        {
+          "year": 1509,
+          "text": "Bitka kod Diua završava portugalskom pomorskom pobjedom protiv gudžaratsko-egipatsko-osmansko-mletačko-dubrovačkog saveza."
+        },
+        {
+          "year": 1924,
+          "text": "Održana je prva utakmica u Hrvatskoj u hokeju na ledu prema „kanadskim pravilima“, a odigrali su je HAŠK i Zagrebačko klizačko društvo."
+        },
+        {
+          "year": 1959,
+          "text": "U zrakoplovnoj nesreći u blizini mjesta Clear Lake u Iowi poginula tri velikana rock'n'rolla: Buddy Holly, Ritchie Valens i Big Bopper, događaj poznat kao \"Dan kad je glazba umrla\"."
+        },
+        {
+          "year": 1967,
+          "text": "Izvršena posljednja smrtna kazna u Australiji."
+        },
+        {
+          "year": 1972,
+          "text": "Otvorene su prve zimske olimpijske igre u Aziji (Sapporo, Japan)."
+        },
+        {
+          "year": 1841,
+          "text": "Osnovano Hrvatsko-slavonsko gospodarsko društvo."
+        },
+        {
+          "year": 1998,
+          "text": "Tragedija u Cavaleseu (Italija) - NATO-ov vojni zrakoplov u niskom letu prekinuo kabele žičare i uzrokovao smrt 20 osoba u jednoj kabini žičare."
+        },
+        {
+          "year": 2009,
+          "text": "Pred Međunarodnim sudom pravde riješen spor oko granice na moru između Rumunjske i Ukrajine."
+        },
+        {
+          "year": 2015,
+          "text": "Međunarodni sud pravde u Haagu odbacio je tužbu Hrvatske protiv Srbije za genocid, kao i protutužbu Srbije protiv Hrvatske."
+        },
+        {
+          "year": 2017,
+          "text": "U Zagrebu je osnovan Veliki orijent Hrvatske"
+        }
+      ]
     },
     "02-04": {
       "date": "02-04",
@@ -6605,16 +6650,16 @@
           "text": "Tom Cruise"
         },
         {
-          "year": 1918,
-          "text": "1918."
-        },
-        {
           "year": 1971,
           "text": "1971."
         },
         {
           "year": 1935,
           "text": "1935."
+        },
+        {
+          "year": 1918,
+          "text": "1918."
         }
       ]
     },
@@ -11669,8 +11714,16 @@
       "source_url": "https://www.index.hr/kalendar?datum=2710",
       "events": [
         {
+          "year": 1996,
+          "text": "Premijera filma \"Romeo i Julija\""
+        },
+        {
+          "year": 2006,
+          "text": "Počelo prikazivanje horora \"Slagalica strave III\" U BRITANSKIM kinima &#x10D;ak je pet gledatelja izgubilo svijest tijekom projekcija."
+        },
+        {
           "year": 939,
-          "text": "Umro kralj Athelstan"
+          "text": "Umro kralj Athelstan &#xC6;THELSTAN, sin Edwarda Starijeg i unuk slavnog Alfreda Velikog, smatra se prvim vladarom koji je ujedinio Englesku pod jednom krunom."
         },
         {
           "year": 1995,
@@ -11689,20 +11742,20 @@
           "text": "Napoleon svečano ušao u Berlin U JESEN 1806. godine, nakon &#x161;to je u samo jednom danu uni&#x161;tio prusku vojsku u bitkama kod Jene i Auerstedta, Napoleon Bonaparte uputio se prema Berlinu."
         },
         {
-          "year": 1858,
-          "text": "Najmlađi američki predsjednik izgradio je jedan od najvažnijih kanala na svijetu"
+          "year": 1844,
+          "text": "Osmanski sultan objavio je džihad protiv Antante premda je bio protiv rata"
         },
         {
-          "year": 1858,
-          "text": "1919."
+          "year": 1844,
+          "text": "1918."
         },
         {
           "year": 1728,
           "text": "1779."
         },
         {
-          "year": 1936,
-          "text": "2013."
+          "year": 1858,
+          "text": "1919."
         },
         {
           "year": 1962,
