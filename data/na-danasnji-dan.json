@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-10-27T09:11:06.981Z",
+  "updated_at": "2026-10-28T09:52:26.269Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -1539,42 +1539,9 @@
     },
     "01-31": {
       "date": "01-31",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1808,
-          "text": "Napoleonov maršal Auguste Marmont ukinuo Dubrovačku Republiku. [https://magazin.hrt.hr/575530/31-sijecnja-1808-pad-dubrovacke-republike Magazin HRT] 31. siječnja 1808. - Pad Dubrovačke Republike 31. siječnja 2020. (pristupljeno 1. veljače 2020.)"
-        },
-        {
-          "year": 1876,
-          "text": "SAD je naredio svim američkim starosjediocima da odu u rezervate."
-        },
-        {
-          "year": 1941,
-          "text": "Pomorska bitka između otoka Lastova i Sušca između 3 talijanska broda i nepoznate podmornice."
-        },
-        {
-          "year": 1946,
-          "text": "Novim Ustavom Federativne Narodne Republike Jugoslavije upostavljeno je republikansko ustrojstvo države te potvrđena konstitutivnost šest sastavnih republika: Bosna i Hercegovina, Crna Gora, Hrvatska, Makedonija, Slovenija i Srbija."
-        },
-        {
-          "year": 1958,
-          "text": "Prvi američki satelit, Explorer I, uspješno poslan u orbitu."
-        },
-        {
-          "year": 1961,
-          "text": "Čimpanza Ham na palubi Mercury-Redstonea 2 postala je prvi viši primat u vanjskom svemiru."
-        },
-        {
-          "year": 1971,
-          "text": "Nakon 19 godina stanovnici Istočnog i Zapadnog Berlina ponovno su mogli međusobno komunicirati telefonom."
-        },
-        {
-          "year": 2020,
-          "text": "Velika Britanija napustila Europsku uniju."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-01": {
       "date": "02-01",
@@ -2203,66 +2170,9 @@
     },
     "02-12": {
       "date": "02-12",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1502,
-          "text": "Vasco da Gama krenuo na svoje drugo putovanje prema Indiji"
-        },
-        {
-          "year": 1689,
-          "text": "Britanski parlament donio zaključak kako je kralj Jakov II., nakon što je pobjegao u Francusku, abdicirao te je (parlament) proglasio Mariju II. za novu englesku kraljicu"
-        },
-        {
-          "year": 1818,
-          "text": "Čile je pod vodstvom generala Bernardoa O'Higginsa formalno proglasio nezavisnost od Španjolske"
-        },
-        {
-          "year": 1832,
-          "text": "Ekvador anektirao Otočje Galápagos"
-        },
-        {
-          "year": 1909,
-          "text": "Osnovano je National Association for the Advancement of Colored People, jedno od najstarijih i najutjecajnijih organizacija za građanska prava u SAD-u."
-        },
-        {
-          "year": 1912,
-          "text": "Abdicirao posljednji kineski car Pu Yi"
-        },
-        {
-          "year": 1924,
-          "text": "Premjerno izvedena Rapsodija u plavom Georgea Gershwina"
-        },
-        {
-          "year": 1948,
-          "text": "Održavanjem prve sjednice Narodnog odbora grad Rijeka je ponovno ujedinjen (Rijeka i Sušak) i osnovan je Kotar Rijeka."
-        },
-        {
-          "year": 1960,
-          "text": "Chuck Berry u studiju 'Chess' snima \"Bye, Bye Johnny\", \"Jaguar And Thunderbird\", \"Drifting Blues\" i druge skladbe."
-        },
-        {
-          "year": 1961,
-          "text": "Lansirana sonda Venera 1"
-        },
-        {
-          "year": 2001,
-          "text": "NEAR Shoemaker spustio se na Eros, postavši prva svemirska letjelica koja je sletjela na neki asteroid"
-        },
-        {
-          "year": 2002,
-          "text": "U Haagu počelo suđenje bivšem predsjedniku Jugoslavije Slobodanu Miloševiću"
-        },
-        {
-          "year": 2010,
-          "text": "U kanadskom Vancouveru započele XXI. Zimske olimpijske igre."
-        },
-        {
-          "year": 2016,
-          "text": "Povijesni susret pape Franje i moskovskog patrijarha Kirila na Kubi"
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-13": {
       "date": "02-13",
@@ -2437,9 +2347,18 @@
     },
     "02-18": {
       "date": "02-18",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1358,
+          "text": "U Zadru sklopljen glasoviti Zadarski mir između Mletačke Republike i ugarsko-hrvatskog kralja Ludovika I. Anžuvinca kojim su se Mlečani odrekli Dalmacije."
+        },
+        {
+          "year": 2008,
+          "text": "Afganistan postao prva država koja je priznala nezavisnost Kosova."
+        }
+      ]
     },
     "02-19": {
       "date": "02-19",
@@ -8743,12 +8662,12 @@
           "text": "Bill Clinton"
         },
         {
-          "year": 1969,
-          "text": "2023."
-        },
-        {
           "year": 1963,
           "text": "John Stamos"
+        },
+        {
+          "year": 1883,
+          "text": "1971."
         },
         {
           "year": 1662,
@@ -11714,8 +11633,12 @@
       "source_url": "https://www.index.hr/kalendar?datum=2710",
       "events": [
         {
+          "year": 1962,
+          "text": "Zapovjednik sovjetske podmornice odbio zapovijed o ispaljivanju nuklearnog torpeda"
+        },
+        {
           "year": 1996,
-          "text": "Premijera filma \"Romeo i Julija\""
+          "text": "Premijera filma \"Romeo i Julija\" SHAKESPEAREOVA pri&#x10D;a dobila je sasvim novo lice, ali zadr&#x17E;ala svoj tragi&#x10D;ni zavr&#x161;etak."
         },
         {
           "year": 2006,
@@ -11728,10 +11651,6 @@
         {
           "year": 1995,
           "text": "Na velika platna stigao film Napuštajući Las Vegas KRAJEM 1995. na velika je platna stiglo jedno od najpotresnijih djela ameri&#x10D;kog nezavisnog filma - Napu&#x161;taju&#x107;i Las Vegas (Leaving Las Vegas), u re&#x17E;iji Mikea Figgisa."
-        },
-        {
-          "year": 1962,
-          "text": "Zapovjetnik sovjetske podmornice odbio zapovijed o ispaljivanju nuklearnog torpeda DANAS, kad se opet govori o nuklearnom oru&#x17E;ju, dometu raketa i napetostima izme&#x111;u Moskve i Washingtona, Kubanska kriza ostaje podsjetnik koliko je svijet bio blizu katastrofe."
         },
         {
           "year": 1539,
@@ -11769,48 +11688,32 @@
       "source_url": "https://www.index.hr/kalendar?datum=2810",
       "events": [
         {
-          "year": 1918,
-          "text": "Nastanak Čehoslovačke"
-        },
-        {
           "year": 1922,
-          "text": "Marš na Rim NA DANA&#x160;NJI dan 1922. godine dogodio se Mar&#x161; na Rim, organizirane demonstracije pod pokroviteljstvom talijanskih fa&#x161;ista koje su dovele Mussolinija na vlast."
-        },
-        {
-          "year": 1958,
-          "text": "Angelo Giuseppe Roncalli izabran za papu. Nazvao se Ivan XXIII. ANGELO Giuseppe Roncalli ro&#x111;en je 25. studenoga 1881. u malom selu Sotto il Monte kod Bergama u sjevernoj Italiji."
+          "text": "Marš na Rim"
         },
         {
           "year": 1962,
           "text": "Kraj Kubanske krize NA DANA&#x160;NJI dan Kennedy i Hru&#x161;&#x10D;ov postigli su sporazum i Kubanska kriza je zavr&#x161;ila."
         },
         {
+          "year": 1918,
+          "text": "Nastanak Čehoslovačke NA DANA&#x160;NJI dan stvorena je &#x10C;ehoslova&#x10D;ka na ru&#x161;evinama biv&#x161;e Austro-Ugarske."
+        },
+        {
+          "year": 1958,
+          "text": "Angelo Giuseppe Roncalli izabran za papu. Nazvao se Ivan XXIII. ANGELO Giuseppe Roncalli ro&#x111;en je 25. studenoga 1881. u malom selu Sotto il Monte kod Bergama u sjevernoj Italiji."
+        },
+        {
+          "year": 2005,
+          "text": "Premijera filma \"Slagalica strave II\" NASTAVAK je donio jo&#x161; opasnije igre, neo&#x10D;ekivane preokrete i impresivnu zaradu."
+        },
+        {
           "year": 312,
           "text": "Bitka na Milvijskom mostu BITKA na Milvijskom mostu, koja se odigrala 28. listopada 312. godine, bila je jedan od klju&#x10D;nih trenutaka rimske i europske povijesti"
         },
         {
-          "year": 1886,
-          "text": "Svečano otvoren Kip slobode DANA 28. listopada 1886. u New Yorkskom zaljevu slu&#x17E;beno je otkriven Kip slobode"
-        },
-        {
-          "year": 1950,
-          "text": "Osnovana Torcida TORCIDU su 1950. godine, po uzoru na brazilske fanati&#x10D;ne navija&#x10D;e, osnovali splitski studenti u Zagrebu."
-        },
-        {
-          "year": 1930,
-          "text": "Od utrka je napravio globalni spektakl. Karijera mu je krcata kontroverzama"
-        },
-        {
-          "year": 1930,
-          "text": "Bernie Ecclestone"
-        },
-        {
-          "year": 1955,
-          "text": "Bill Gates"
-        },
-        {
-          "year": 2023,
-          "text": "2023."
+          "year": 2011,
+          "text": "Počelo prikazivanje serije \"Grimm\" BAJKE bra&#x107;e Grimm poslu&#x17E;ile su kao inspiracija za mra&#x10D;an svijet prepun nadnaravnih bi&#x107;a."
         }
       ]
     },
