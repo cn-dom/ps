@@ -1,6 +1,6 @@
 {
   "source": "DHMZ",
-  "updated_at": "2026-10-28T20:19:36.033383+00:00",
+  "updated_at": "2026-10-29T01:00:34.428403+00:00",
   "warnings": [
     {
       "day": "today",
@@ -65,7 +65,17 @@
     {
       "day": "today",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Ujutro pa ponovno navečer pojačana, mjestimice jaka bura. Najjači udari vjetra 35-45 čvorova  (65-85 km/h)",
+      "description": "Mjestimice pojačana i jaka bura. Najjači udari vjetra 35-45 čvorova  (65-85 km/h)",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Zapadna obala Istre"
+      ]
+    },
+    {
+      "day": "today",
+      "event": "Žuto upozorenje za vjetar",
+      "description": "Jaka, ponegdje vrlo jaka bura. Najjači udari vjetra 35-55 čvorova  (65-100 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -74,9 +84,9 @@
     },
     {
       "day": "today",
-      "event": "Žuto upozorenje za vjetar",
-      "description": "Ujutro pa ponovno navečer pojačana, mjestimice jaka bura. Najjači udari vjetra 35-45 čvorova  (65-85 km/h)",
-      "severity": "Moderate",
+      "event": "Narančasto upozorenje za vjetar",
+      "description": "Jaka, ponegdje olujna bura. Najjači udari vjetra 35-70 čvorova  (65-130 km/h)",
+      "severity": "Severe",
       "urgency": "Future",
       "areas": [
         "Velebitski kanal"
@@ -85,7 +95,7 @@
     {
       "day": "today",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Ujutro pa ponovno navečer mjestimice pojačana bura. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
+      "description": "Pojačana, ponegdje jaka bura. Najjači udari vjetra 35-45 čvorova  (65-85 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -95,7 +105,7 @@
     {
       "day": "today",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Ujutro pa ponovno navečer mjestimice pojačana bura. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
+      "description": "Pojačana, ponegdje jaka bura. Najjači udari vjetra 35-45 čvorova  (65-85 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -105,7 +115,7 @@
     {
       "day": "today",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Ujutro pa ponovno navečer mjestimice pojačana bura. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
+      "description": "Ponegdje pojačana bura. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -115,7 +125,17 @@
     {
       "day": "today",
       "event": "Yellow wind warning",
-      "description": "In the morning and again in the evening fresh, locally strong NE wind. Maximum wind gusts 35-45 knots (65-85 km/h)",
+      "description": "Fresh, locally strong NE wind. Maximum wind gusts 35-45 knots (65-85 km/h)",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "West Istrian coast"
+      ]
+    },
+    {
+      "day": "today",
+      "event": "Yellow wind warning",
+      "description": "Strong, locally near gale NE wind. Maximum wind gusts 35-55 knots (65-100 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -124,9 +144,9 @@
     },
     {
       "day": "today",
-      "event": "Yellow wind warning",
-      "description": "In the morning and again in the evening fresh, locally strong NE wind. Maximum wind gusts 35-45 knot (65-85 km/h)",
-      "severity": "Moderate",
+      "event": "Orange wind warning",
+      "description": "Strong, locally gale NE wind. Maximum wind gusts 35-70 knots (65-130 km/h)",
+      "severity": "Severe",
       "urgency": "Future",
       "areas": [
         "Velebit channel"
@@ -135,7 +155,7 @@
     {
       "day": "today",
       "event": "Yellow wind warning",
-      "description": "In the morning and again in the evening fresh NE wind. Maximum wind gusts 35-40 knots (65-75 km/h)",
+      "description": "Fresh, locally strong NE wind. Maximum wind gusts 35-45 knots (65-85 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -145,7 +165,7 @@
     {
       "day": "today",
       "event": "Yellow wind warning",
-      "description": "In the morning and again in the evening fresh NE wind. Maximum wind gusts 35-40 knots (65-75 km/h)",
+      "description": "Fresh, locally strong NE wind. Maximum wind gusts 35-45 knots (65-85 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -155,7 +175,7 @@
     {
       "day": "today",
       "event": "Yellow wind warning",
-      "description": "In the morning and again in the evening fresh NE wind. Maximum wind gusts 35-40 knots (65-75 km/h)",
+      "description": "Locally fresh NE wind. Maximum wind gusts 35-40 knots (65-75 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -225,7 +245,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Mjestimice jaka bura. Najjači udari vjetra 35-45 čvorova  (65-85 km/h)",
+      "description": "Jaka i vrlo jaka bura. Najjači udari vjetra 35-55 čvorova  (65-100 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -235,7 +255,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Mjestimice vrlo jaka bura. Najjači udari vjetra 35-60 čvorova  (65-110 km/h)",
+      "description": "Jaka i vrlo jaka bura. Najjači udari vjetra 35-55 čvorova  (65-100 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -244,9 +264,9 @@
     },
     {
       "day": "day_after_tomorrow",
-      "event": "Narančasto upozorenje za vjetar",
-      "description": "Mjestimice olujna bura. Najjači udari vjetra 35-70 čvorova  (65-130 km/h)",
-      "severity": "Severe",
+      "event": "Žuto upozorenje za vjetar",
+      "description": "Vrlo jaka bura. Najjači udari vjetra 35-60 čvorova  (65-110 km/h)",
+      "severity": "Moderate",
       "urgency": "Future",
       "areas": [
         "Velebitski kanal"
@@ -255,7 +275,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Mjestimice jaka bura. Najjači udari vjetra 35-45 čvorova  (65-85 km/h)",
+      "description": "Pojačana do jaka bura. Najjači udari vjetra 35-45 čvorova  (65-85 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -285,7 +305,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
-      "description": "Locally strong NE wind. Maximum wind gusts 35-45 knots (65-85 km/h)",
+      "description": "Strong, locally near gale NE wind. Maximum wind gusts 35-55 knot (65-100 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -295,7 +315,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
-      "description": "Locally near gale force NE wind. Maximum wind gusts 35-60 knots (65-110 km/h)",
+      "description": "Strong, locally near gale NE wind. Maximum wind gusts 35-55 knot (65-100 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -304,9 +324,9 @@
     },
     {
       "day": "day_after_tomorrow",
-      "event": "Orange wind warning",
-      "description": "Locally gale force NE wind. Maximum wind gusts 35-70 knots (65-130 km/h)",
-      "severity": "Severe",
+      "event": "Yellow wind warning",
+      "description": "Locally near gale NE wind. Maximum wind gusts 35-60 knot (65-110 km/h)",
+      "severity": "Moderate",
       "urgency": "Future",
       "areas": [
         "Velebit channel"
@@ -315,7 +335,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
-      "description": "Locally strong wind. Maximum wind gusts 35-45 knots (65-85 km/h)",
+      "description": "Fresh, locally strong NE wind. Maximum wind gusts 35-45 knot (65-85 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -325,7 +345,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
-      "description": "In the morning and evening locally fresh NE wind. Maximum wind gusts 35-40 knots (65-75 km/h)",
+      "description": "In the morning and evening locally fresh NE wind. Maximum wind gusts 35-40 knot (65-75 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -335,7 +355,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
-      "description": "In the morning and evening locally fresh NE wind. Maximum wind gusts 35-40 knots (65-75 km/h)",
+      "description": "In the morning and evening locally fresh NE wind. Maximum wind gusts 35-40 knot (65-75 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
