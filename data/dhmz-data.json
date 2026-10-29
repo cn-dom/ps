@@ -1,6 +1,6 @@
 {
   "source": "DHMZ",
-  "updated_at": "2026-10-29T10:03:11.951672+00:00",
+  "updated_at": "2026-10-29T18:30:05.771338+00:00",
   "warnings": [
     {
       "day": "today",
@@ -590,21 +590,21 @@
   ],
   "rainfall_text": [],
   "adriatic_text": [
-    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 29.10.2026. u 06 sati",
-    "Mjestimični udari bure 35-40, podno Velebita do 65 čvorova.",
-    "Nad Jadranom se sa sjevera pruža anticiklonalni greben, ali očekuje se formiranje visinske ciklone koja će podržavati kruženje vlažnog i nestabilnog zraka.",
+    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 29.10.2026. u 19 sati",
+    "Mjestimice udari bure 35-45 čvorova, na sjevernom Jadranu do 55, a podno Velebita i do 70 čvorova. Sutra ujutro na južnom Jadranu mjestimice mogući neverini.",
+    "Nad Jadranom se sa sjevera pruža anticiklonalni greben, dok po visini kruži vlažan i nestabilan zrak.",
     "Vremenska prognoza za Jadran za prvih 12 sati",
-    "Bura 10-20, na sjevernom i dijelu srednjeg Jadrana do 26, podno Velebita do 36 čvorova. Sredinom dana će na južnom i dijelu srednjeg Jadrana slabiti i okrenuti na sjeverozapadni vjetar 8-18 čvorova, potkraj dana opet bura 10-20 čvorova. More 2-3, na otvorenom mjestimice 4, uglavnom na sjevernom Jadranu. Vidljivost 20 km. Promjenjivo oblačno, na sjevernom i otvorenom dijelu srednjeg Jadrana manja mogućnost za kišu.",
-    "Umjerena do jaka, podno Velebita mjestimice olujna bura. More malo do umjereno valovito, na otvorenom ponegdje valovito. Promjenjivo oblačno, na sjevernom i otvorenom dijelu srednjeg Jadrana manja mogućnost za kišu."
+    "Bura, još u početku na dijelu srednjeg te južnog Jadrana i sjeverozapadni vjetar, 10-20 čvorova, bura mjestimice do 26, a podno Velebita i do 38 čvorova. More 2-3, ponegdje 4. Vidljivost 20 km. Promjenjivo oblačno, mjestimice uz mogućnost za kišu.",
+    "Umjerena do jaka, na sjevernom Jadranu mjestimice vrlo jaka, a podno Velebita i olujna bura. More malo do umjereno valovito, ponegdje i valovito. Promjenjivo oblačno, mjestimice uz kišu, a na južnom Jadranu i pljuskove s grmljavinom."
   ],
   "sailors_text": [
-    "VREMENSKO IZVJEŠĆE, dan 29.10.2026 u 06:00 sati",
-    "Mjestimični udari NE vjetra 35-40, podno Velebita do 65 čvorova.",
-    "Nad Jadranom se sa sjevera pruža anticiklonalni greben, ali očekuje se formiranje visinske ciklone koja će podržavati kruženje vlažnog i nestabilnog zraka.",
-    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 30.10.2026 u 06 sati",
-    "NE vjetar 10-20, južno i istočno od Istre do 26, podno Velebita do 36 čvorova. More 3-4. Vidljivost 20 km. Promjenjivo oblačno uz malu mogućnost za kišu.",
-    "NE vjetar 10-20 čvorova, sredinom dana će malo oslabiti i na jugu područja okrenuti na NW 8-18 čvorova, potkraj dana opet NE 10-20, na sjeveru područja do 24 čvora. More 2-3, na otvorenom je moguće 4. Vidljivost 20 km. Promjenjivo oblačno uz malu mogućnost za kišu na otvorenom moru.",
-    "NE vjetar 10-20, na krajnjem jugu do 24 čvora, sredinom dana će malo oslabiti i okrenuti na NW 8-18 čvorova, potkraj dana opet NE 10-20 čvorova. More 2-3, na otvorenom je moguće 4. Vidljivost 20 km. Promjenljivo oblačno."
+    "VREMENSKO IZVJEŠĆE, dan 29.10.2026 u 18:00 sati",
+    "Mjestimice udari NE vjetra 35-45 čvorova, na sjevernom Jadranu do 55, a podno Velebita i do 70 čvorova. Sutra ujutro na južnom Jadranu mjestimice mogući neverini.",
+    "Nad Jadranom se sa sjevera pruža anticiklonalni greben, dok po visini kruži vlažan i nestabilan zrak.",
+    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 30.10.2026 u 18 sati",
+    "NE vjetar 10-20 čvorova, mjestimice do 28, a podno Velebita i do 38 čvorova. More 3-4. Vidljivost 20 km. Promjenjivo oblačno uz malu mogućnost za kišu.",
+    "NE, još u početku na jugu područja NW vjetar, 10-20 čvorova, NE mjestimice do 24 čvora. More 2-3, na otvorenom ponegdje 4. Vidljivost 20 km. Promjenjivo oblačno uz mogućnost za kišu na otvorenom moru, a sutra i na jugu područja.",
+    "NE, na otvorenom moru NW vjetar, 10-20, na krajnjem jugu NE mjestimice do 24 čvora, sutra poslijepodne na sjeveru područja će malo oslabjeti. More 2-3, na otvorenom ponegdje 4. Vidljivost 20 km. Promjenljivo oblačno, sutra ujutro mjestimice moguća kiša, te pljuskovi s grmljavinom."
   ],
   "croatia_forecast_text": []
 }
