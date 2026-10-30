@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-10-29T10:12:49.167Z",
+  "updated_at": "2026-10-30T10:14:42.828Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2136,9 +2136,70 @@
     },
     "02-11": {
       "date": "02-11",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1531,
+          "text": "Henrik VIII. na čelu Anglikanske crkve."
+        },
+        {
+          "year": 1852,
+          "text": "Bokelj Ivan Visin isplovio iz Antwerpena na brodu Splendido. Kad je 7 godina kasnije doplovio u Trst, postao je prvi Hrvat koji je oplovio svijet. Učino je to za vlastiti račun i o vlastitu trošku."
+        },
+        {
+          "year": 1855,
+          "text": "Krunidba etiopskog kralja Tevodrosa II."
+        },
+        {
+          "year": 1858,
+          "text": "Gospa se ukazala u Lurdu, djevojčici Bernardici Suobirous."
+        },
+        {
+          "year": 1873,
+          "text": "Španjolski kralj Amadeo I. je abdicirao, proglasio na Cortes Generales da je španjolski narod \"neukrotiv,\" i zatim napustio zemlju."
+        },
+        {
+          "year": 1906,
+          "text": "Papa Pio X. objavio encikliku Vehementer Nos."
+        },
+        {
+          "year": 1919,
+          "text": "Friedrich Ebert izabran za predsjednika republike u Njemačkoj."
+        },
+        {
+          "year": 1929,
+          "text": "Potpisan je prvi Lateranski sporazum kojim je Vatikan uspostavljen kao nezavisna suverena enklava unutar Italije"
+        },
+        {
+          "year": 1963,
+          "text": "Beatlesi su započeli snimanje svojeg prvog albuma pod nazivom Please Please Me"
+        },
+        {
+          "year": 1979,
+          "text": "Ajatolah Homeini preuzeo je vlast u Iranu, te je na posljetku postao vrhovni vođa Islamske republike."
+        },
+        {
+          "year": 1990,
+          "text": "Anti-apartheid aktivist Nelson Mandela, 27-godišnji politički zatvorenik, pušten je iz zatvora izvan Cape Towna, Južna Afrika."
+        },
+        {
+          "year": 1994,
+          "text": "Papa Ivan Pavao II. osnovao Papinsku akademiju za život"
+        },
+        {
+          "year": 2011,
+          "text": "Nakon masovnih prosvjeda, egipatski predsjednik Hosni Mubarak je podnio ostavku"
+        },
+        {
+          "year": 2013,
+          "text": "Vatikan objavljuje da se papa Benedikt XVI. odriče službe, zbog svoje poodmakle dobi"
+        },
+        {
+          "year": 2020,
+          "text": "Svjetska zdravstvena organizacija proglasila je pandemiju koronavirusa"
+        }
+      ]
     },
     "02-12": {
       "date": "02-12",
@@ -3940,16 +4001,16 @@
           "text": "Bio je jedan od najvećih genijalaca koje je dalo čovječanstvo"
         },
         {
-          "year": 1729,
-          "text": "1796."
-        },
-        {
           "year": 1943,
           "text": "2020."
         },
         {
           "year": 1892,
           "text": "1918."
+        },
+        {
+          "year": 1972,
+          "text": "Dwayne Johnson"
         },
         {
           "year": 1519,
@@ -6188,12 +6249,12 @@
           "text": "1954."
         },
         {
-          "year": 1899,
-          "text": "1977."
+          "year": 1972,
+          "text": "Zinedine Zidane"
         },
         {
           "year": 1972,
-          "text": "Zinedine Zidane"
+          "text": "Selma Blair"
         }
       ]
     },
@@ -10986,12 +11047,8 @@
           "text": "Počeo Drugi vatikanski koncil DRUGI vatikanski koncil (1962.&#x2013;1965.), poznat i kao Vatican II, bio je 21. ekumenski koncil Katoli&#x10D;ke crkve i jedan od najzna&#x10D;ajnijih doga&#x111;aja u njezinoj modernoj povijesti."
         },
         {
-          "year": 1871,
-          "text": "Razočaran hrvatskom politikom podigao bunu koja ga je ubrzo koštala života"
-        },
-        {
-          "year": 1871,
-          "text": "1871."
+          "year": 2000,
+          "text": "Bio je hrvatska senzacija. Šogor ga je ubio zbog obiteljske svađe oko imovine"
         },
         {
           "year": 2000,
@@ -11000,6 +11057,10 @@
         {
           "year": 2008,
           "text": "2008."
+        },
+        {
+          "year": 1946,
+          "text": "1946."
         }
       ]
     },
@@ -11772,6 +11833,10 @@
           "text": "U kinima se počela prikazivati Slagalica strave 29. LISTOPADA 2004. godine svjetska je publika upoznala film koji &#x107;e trajno obilje&#x17E;iti moderni horor. Film Slagalica strave (Saw), redateljski prvijenac Jamesa Wana i scenarista Leigha Whannella, u kina je stigao gotovo neprimjetno, no ubrzo je postao globalni fenomen."
         },
         {
+          "year": 1969,
+          "text": "Uspostavljena prva komunikacija između dva udaljena računala (Početak interneta) DANA 29. listopada 1969. godine dogodilo se ne&#x161;to &#x161;to &#x107;e zauvijek promijeniti na&#x10D;in na koji ljudi komuniciraju, rade i dolaze do informacija."
+        },
+        {
           "year": 1911,
           "text": "Proslavio se senzacionalnim naslovima, promijenio je novinarstvo. Tko je Pulitzer?"
         },
@@ -11807,52 +11872,32 @@
       "source_url": "https://www.index.hr/kalendar?datum=3010",
       "events": [
         {
-          "year": 1918,
-          "text": "Osmansko Carstvo potpisuje kapitulaciju"
-        },
-        {
           "year": 1517,
-          "text": "Luther objavio svojih 95 teza u Wittenbergu NA DANA&#x160;NJI dan 1517. godine Luther je na vratima sveu&#x10D;ili&#x161;ta objesio popis od 95 teza u kojem kritizira ulogu Crkve u dru&#x161;tvu."
+          "text": "Luther objavio svojih 95 teza u Wittenbergu"
         },
         {
-          "year": 1757,
-          "text": "Bitka kod Rossbacha BITKA kod Rossbacha bila je jedna od najve&#x107;ih bitaka u Sedmogodi&#x161;njem ratu, a omogu&#x107;ila je Fridriku da opstane."
+          "year": 1998,
+          "text": "Početak prikazivanja filma \"Generacija X\" SUKOB oko zavr&#x161;ne monta&#x17E;e prerastao je u jednu od bizarnijih sva&#x111;a u Hollywoodu."
+        },
+        {
+          "year": 1918,
+          "text": "Osmansko Carstvo potpisuje kapitulaciju NA DANA&#x160;NJI dan Osmansko Carstvo potpisalo je kapitulaciju u Prvom svjetskom ratu."
         },
         {
           "year": 1938,
           "text": "Orson Welles na radiju čitao Rat svjetova i izazvao paniku u SAD-u KAKO je emisija na radiju izazvala paniku u SAD-u."
         },
         {
+          "year": 2019,
+          "text": "Premijera filma \"Doctor Sleep\" FILM je spojio dvije razli&#x10D;ite verzije \"Isijavanja\"."
+        },
+        {
+          "year": 1757,
+          "text": "Bitka kod Rossbacha BITKA kod Rossbacha bila je jedna od najve&#x107;ih bitaka u Sedmogodi&#x161;njem ratu, a omogu&#x107;ila je Fridriku da opstane."
+        },
+        {
           "year": 758,
           "text": "Arapi napali kineski grad Guangzhou U OSMOM stolje&#x107;u kinesko Carstvo Tang bilo je jedno od najmo&#x107;nijih i najbogatijih na svijetu, a grad Guangzhou, poznat i kao Kanton, bio je njegov prozor prema moru."
-        },
-        {
-          "year": 1975,
-          "text": "Ubijena Martha Elizabeth Moxley DANA 30. listopada 1975. u elitnom predjelu Belle Havena u Greenwichu, savezna dr&#x17E;ava Connecticut, brutalno je ubijena 15-godi&#x161;nja Martha Elizabeth Moxley."
-        },
-        {
-          "year": 1960,
-          "text": "Bio je živuće nogometno božanstvo. Za mnoge je najveći ikada"
-        },
-        {
-          "year": 1960,
-          "text": "2020."
-        },
-        {
-          "year": 1825,
-          "text": "1871."
-        },
-        {
-          "year": 1859,
-          "text": "1916."
-        },
-        {
-          "year": 1930,
-          "text": "1930."
-        },
-        {
-          "year": 1796,
-          "text": "1796."
         }
       ]
     },
