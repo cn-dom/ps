@@ -1,6 +1,6 @@
 {
   "source": "DHMZ",
-  "updated_at": "2026-10-31T12:39:09.494563+00:00",
+  "updated_at": "2026-10-31T19:19:56.120036+00:00",
   "warnings": [
     {
       "day": "today",
@@ -65,7 +65,7 @@
     {
       "day": "today",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Mjestimice pojačana bura. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
+      "description": "Pojačana, mjestimice jaka bura. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -75,7 +75,7 @@
     {
       "day": "today",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Mjestimice vrlo jaka bura. Najjači udari vjetra 35-55 čvorova  (65-100 km/h)",
+      "description": "Mjestimice jaka bura. Najjači udari vjetra 35-50 čvorova  (65-95 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -125,7 +125,7 @@
     {
       "day": "today",
       "event": "Yellow wind warning",
-      "description": "Locally fresh NE wind. Maximum wind gusts 35-40 knots (65-75 km/h)",
+      "description": "Fresh, locally strong NE wind. Maximum wind gusts 35-40 knots (65-75 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -135,7 +135,7 @@
     {
       "day": "today",
       "event": "Yellow wind warning",
-      "description": "Locally near gale NE wind. Maximum wind gusts 35-55 knots (65-100 km/h)",
+      "description": "Locally strong NE wind. Maximum wind gusts 35-50 knots (65-95 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -690,21 +690,21 @@
   ],
   "rainfall_text": [],
   "adriatic_text": [
-    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 31.10.2026. u 12 sati",
-    "Mjestimice udari bure 35-50, podno Velebita i do 70 čvorova. Na srednjem i južnom, sutra prema sredini dana i sjevernom Jadranu mjestimice neverini.",
+    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 31.10.2026. u 19 sati",
+    "Mjestimice udari bure 35-50, sutra od sredine dana na sjevernom Jadranu mjestimice do 60, podno Velebita i do 70 čvorova. Sutra poslijepodne na otvorenom moru sjevernog Jadrana moguće more 5. Na srednjem i južnom, sutra prema sredini dana i sjevernom Jadranu mjestimice neverini.",
     "Nad Jadranom se sa sjevera pruža anticiklonalni greben, dok se južnije proteže plitka dolina.",
     "Vremenska prognoza za Jadran za prvih 12 sati",
-    "Bura, na otvorenom moru srednjeg i južnog Jadrana i sjeverozapadni vjetar 10-20, bura mjestimice do 24, podno Velebita i do 38 čvorova. More 2-3, ponegdje 4. Vidljivost 10-20 km. Promjenjivo oblačno, mjestimice uz kišu i pljuskove s grmljavinom. Na sjevernom Jadranu malo do umjereno oblačno, mjestimice moguća kiša.",
-    "Umjerena do jaka, podno Velebita i vrlo jaka i olujna bura. Na otvorenom moru srednjeg i južnog Jadrana i slab do umjeren, mjestimice pojačan sjeverozapadni vjetar. More umjereno valovito i valovito. Promjenjivo oblačno, mjestimice moguća kiša, na srednjem i južnom, a prema sredini dana i sjevernom Jadranu i pljuskovi s grmljavinom"
+    "Bura, na otvorenom moru srednjeg i južnog Jadrana i sjeverozapadni vjetar 10-20, na sjevernom i srednjem Jadranu do 26, podno Velebita i do 38 čvorova. More 2-3, na sjevernom i otvorenom srednjeg Jadrana 3-4. Vidljivost 10-20 km. Promjenjivo oblačno, ponegdje moguća kiša, a na srednjem i južnom Jadranu i pljuskovi s grmljavinom.",
+    "Umjerena do pojačana, mjestimice jaka, na sjevernom Jadranu poslijepodne ponegdje i vrlo jaka bura. Podno Velebita pojačana do jaka, mjestimice vrlo jaka i olujna bura. Na otvorenom moru srednjeg i južnog Jadrana i slab do umjeren, mjestimice pojačan sjeverozapadni vjetar. More malo do umjereno valovito, na otvorenom srednjeg i valovito, a poslijepodne na otvorenom sjevernog Jadrana moguće i jače valovito. Promjenjivo oblačno, mjestimice moguća kiša i pljuskovi s grmljavinom."
   ],
   "sailors_text": [
-    "VREMENSKO IZVJEŠĆE, dan 31.10.2026 u 12:00 sati",
-    "Mjestimice udari NE vjetra 35-50, podno Velebita i do 70 čvorova. Na srednjem i južnom, sutra prema sredini dana i sjevernom Jadranu mjestimice neverini.",
+    "VREMENSKO IZVJEŠĆE, dan 31.10.2026 u 18:00 sati",
+    "Mjestimice udari NE vjetra 35-50, sutra od sredine dana na sjevernom Jadranu mjestimice do 60, a podno Velebita i do 70 čvorova. Sutra poslijepodne na otvorenom moru sjevernog Jadrana moguće more 5. Na srednjem i južnom, sutra prema sredini dana i sjevernom Jadranu mjestimice neverini.",
     "Nad Jadranom se sa sjevera pruža anticiklonalni greben, dok se južnije proteže plitka dolina.",
-    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 01.11.2026 u 12 sati",
-    "Vjetar NE 10-20, mjestimice do 26, podno Velebita i do 38 čvorova. More 3-4. Vidljivost 10-20 km. Malo do umjereno oblačno, mjestimice je moguća kiša, a sutra prema sredini dana uz promjenjivu naoblaku i pljusak s grmljavinom.",
-    "Vjetar NE, na otvorenom moru i NW 10-20, NE mjestimice do 24 čvora. More 2-3, na otvorenom 3-4. Vidljivost 10-20 km. Promjenjivo oblačno, mjestimice kiša, a moguć je i pljusak s grmljavinom.",
-    "Vjetar NE, na otvorenom moru i NW 8-18, NE sutra mjestimice do 22 čvora. More 2-3, na otvorenom ponegdje 4. Vidljivost 10-20 km. Promjenjivo oblačno, mjestimice kiša i pljuskovi s grmljavinom."
+    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 01.11.2026 u 18 sati",
+    "Vjetar NE 12-26, sutra od sredine dana mjestimice do 32. Podno Velebita NE vjetar 14-28, ponegdje i do 38 čvorova. More 3-4, sutra poslijepodne na otvorenom moguće i 5. Vidljivost 10-20 km. Promjenjivo oblačno, mjestimice moguća kiša, a sutra prema sredini dana i pljusak s grmljavinom.",
+    "Vjetar NE, na otvorenom i NW 8-18, NE mjestimice do 24 čvora. More 2-3, na otvorenom 3-4. Vidljivost 10-20 km. Promjenjivo oblačno, mjestimice moguća kiša i pljuskovi s grmljavinom.",
+    "Vjetar NE, na otvorenom i NW 8-18, u drugom dijelu noći i prijepodne mjestimice do 22 čvora. More 2-3. Vidljivost 10-20 km. Promjenjivo oblačno, mjestimice moguća kiša i pljuskovi s grmljavinom."
   ],
   "croatia_forecast_text": []
 }
