@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-10-30T10:14:42.828Z",
+  "updated_at": "2026-10-31T09:49:15.838Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2360,53 +2360,15 @@
     },
     "02-15": {
       "date": "02-15",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1573,
-          "text": "U Zagrebu je pogubljen Ambroz Gubec, vođa seljačke bune."
-        },
-        {
-          "year": 1942,
-          "text": "U snažnom vojnom udaru Japanci su osvojili Singapur, nakon čega je zarobljeno više od 80 000 indijskih, australskih i britanskih vojnika."
-        },
-        {
-          "year": 1991,
-          "text": "Osnovana je 164. brigada HV, Starigrad iz sastava 112. brigade"
-        },
-        {
-          "year": 1997,
-          "text": "Osnovan Hrvatski auto i karting savez, nakon razdvajanja Hrvatskog auto i moto športskog saveza (HAMŠS) na Hrvatski auto i karting savez i Hrvatski motociklistički savez."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-16": {
       "date": "02-16",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1852,
-          "text": "U Zagrebu je održana prva sjednica Trgovačko-obrtničke komore, koja će postati Hrvatska gospodarska komora"
-        },
-        {
-          "year": 1846,
-          "text": "U Zagrebu je otvorena nova bolnica koja zamjenjuje dotadašnje ubožnice i postaje osnova današnje bolnice [http://www.kbsm.hr \"Sestre milosrdnice\"] ."
-        },
-        {
-          "year": 1904,
-          "text": "U Maksimiru u Zagrebu izmjereno 95 cm snijega koji je neprekidno padao tri dana."
-        },
-        {
-          "year": 1978,
-          "text": "Ward Christensen stvorio je CBBS, prvi računalni elektronski oglasni sustav, tijekom mećave u Chicagu"
-        },
-        {
-          "year": 2003,
-          "text": "Započeta je Wikipedija na hrvatskom jeziku. [https://hr.m.wikipedia.org/w/index.php?diff=prev&oldid=1&title=Glavna_stranica Glavna stranica] Wikipedija. Pristupljeno 10. travnja 2025."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-17": {
       "date": "02-17",
@@ -2452,9 +2414,78 @@
     },
     "02-19": {
       "date": "02-19",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1291,
+          "text": "Potpisan sporazum iz Tarascona."
+        },
+        {
+          "year": 1594,
+          "text": "Sigismund III., kralj Poljsko-litavske Unije, okrunjen je za kralja Švedske."
+        },
+        {
+          "year": 1674,
+          "text": "Treći englesko-nizozemski rat završio je potpisivanjem Westminsterskog sporazuma."
+        },
+        {
+          "year": 1826,
+          "text": "Rodio se Matija Mesić, povjesničar i prvi rektor zagrebačkog sveučilišta."
+        },
+        {
+          "year": 1910,
+          "text": "Manchester United odigrao prvu utakmicu na Old Traffordu."
+        },
+        {
+          "year": 1935,
+          "text": "Sibinjske žrtve; u sibinjskom kraju režim Kraljevine Jugoslavije ubio hrvatske seljake."
+        },
+        {
+          "year": 1939,
+          "text": "Talijanske vojne jedinice u Adis Abebi počinile masakr u znak odmazde zbog neuspjelog atentata na potkralja maršala Grazianija."
+        },
+        {
+          "year": 1942,
+          "text": "Zračni napadi na Darwin, glavni grad Sjevernog Teritorija, Australija uništili su 242 bombardera i lovaca japanske carske mornarice."
+        },
+        {
+          "year": 1942,
+          "text": "Potpisana je U.S. Executive Order 9066, odobrivši premještaj i zatvaranje 112.000 japanskih Amerikanaca."
+        },
+        {
+          "year": 1945,
+          "text": "Započela bitka za Iwo Jimu."
+        },
+        {
+          "year": 1982,
+          "text": "Probni let Boeinga 757."
+        },
+        {
+          "year": 1986,
+          "text": "U okviru sovjetskog svemirskog programa lansirana je svemirska postaja Mir, prva dugoročna istraživačka postaja u svemiru."
+        },
+        {
+          "year": 1990,
+          "text": "osnovan Istarski demokratski sabor."
+        },
+        {
+          "year": 1996,
+          "text": "Institut za suvremenu povijest postao dio Hrvatskog instituta za povijest."
+        },
+        {
+          "year": 1999,
+          "text": "Posljednji koncert Animatora u klubu Kulušić."
+        },
+        {
+          "year": 2002,
+          "text": "Objavljen album Don't Worry About Me Joeyja Ramonea."
+        },
+        {
+          "year": 2020,
+          "text": "Zoran Milanović prisegnuo za Predsjednika Republike Hrvatske."
+        }
+      ]
     },
     "02-20": {
       "date": "02-20",
@@ -2888,16 +2919,16 @@
           "text": "1721."
         },
         {
-          "year": 1975,
-          "text": "1975."
-        },
-        {
           "year": 1889,
           "text": "1889."
         },
         {
           "year": 1994,
           "text": "1994."
+        },
+        {
+          "year": 1964,
+          "text": "1964."
         }
       ]
     },
@@ -11907,28 +11938,28 @@
       "source_url": "https://www.index.hr/kalendar?datum=3110",
       "events": [
         {
-          "year": 1954,
-          "text": "Tramvajska nesreća u Zagrebu, poginulo je 19 ljudi"
+          "year": 1940,
+          "text": "Završava Bitka za Britaniju"
         },
         {
           "year": 1951,
           "text": "Označen prvi pješački prijelaz PRVI pje&#x161;a&#x10D;ki prijelaz u povijesti obilje&#x17E;en je u Ujedinjenom Kraljevstvu 31. listopada 1951. godine, u gradu Sloughu, zapadno od Londona."
         },
         {
-          "year": 1991,
-          "text": "U Dubrovnik uplovio humanitarni konvoj Libertas DANA 31. listopada 1991. godine u luku Gru&#x17E; u Dubrovniku uplovio je konvoj od 29 brodova i brodica, poznat kao Konvoj \"Libertas\"."
-        },
-        {
-          "year": 1940,
-          "text": "Završava Bitka za Britaniju NA DANA&#x160;NJI dan Hitler povla&#x10D;i snage Luftwaffea te obustavlja napad na Britaniju."
+          "year": 1954,
+          "text": "Tramvajska nesreća u Zagrebu, poginulo je 19 ljudi NA DANA&#x160;NJI dan 1954. godine dogodila se najte&#x17E;a tramvajska nesre&#x107;a u povijesti Hrvatske."
         },
         {
           "year": 1755,
           "text": "Potres u Portugalu GLAVNI grad Portugala 1755. pogodio je razoran potres popra&#x107;en tsunamijem i po&#x17E;arima."
         },
         {
-          "year": 1851,
-          "text": "Zovu ga crnogorskim Mažuranićem, od svoje zemlje napravio je modernu državu"
+          "year": 1991,
+          "text": "U Dubrovnik uplovio humanitarni konvoj Libertas DANA 31. listopada 1991. godine u luku Gru&#x17E; u Dubrovniku uplovio je konvoj od 29 brodova i brodica, poznat kao Konvoj \"Libertas\"."
+        },
+        {
+          "year": 1887,
+          "text": "Kina bi s njim bila potpuno drugačija. Komunisti su ga potukli u ratu i protjerali"
         },
         {
           "year": 1887,
@@ -11939,12 +11970,12 @@
           "text": "1851."
         },
         {
-          "year": 1984,
-          "text": "1984."
+          "year": 1966,
+          "text": "1966."
         },
         {
-          "year": 1926,
-          "text": "1926."
+          "year": 1993,
+          "text": "1993."
         }
       ]
     },
@@ -12478,12 +12509,8 @@
           "text": "Potopljen britanski nosač aviona HMS Ark Royal HMS ARK Royal bio je jedan od najpoznatijih britanskih nosa&#x10D;a zrakoplova u prvim godinama Drugog svjetskog rata. Izgra&#x111;en u brodogradili&#x161;tu Cammell Laird u Birkenheadu, porinut je 1937., a u slu&#x17E;bu je u&#x161;ao sljede&#x107;e godine."
         },
         {
-          "year": 1813,
-          "text": "Zovu ga crnogorskim Mažuranićem, od svoje zemlje napravio je modernu državu"
-        },
-        {
-          "year": 1813,
-          "text": "1851."
+          "year": 1986,
+          "text": "Donio je prvu pobjedu Ferrariju. Jedan od zadnjih trijumfa ostvario je u Opatiji"
         },
         {
           "year": 1718,
@@ -12492,6 +12519,10 @@
         {
           "year": 1810,
           "text": "1906."
+        },
+        {
+          "year": 1813,
+          "text": "1851."
         },
         {
           "year": 1986,
@@ -12692,16 +12723,16 @@
           "text": "Premijerno prikazan Let iznad kukavičjeg gnijezda LET IZNAD kukavi&#x10D;jeg gnijezda (One Flew Over the Cuckoo&#x2019;s Nest) premijerno je prikazan 19. studenoga 1975. godine i ubrzo je postao jedno od najutjecajnijih filmskih ostvarenja u povijesti ameri&#x10D;ke kinematografije."
         },
         {
-          "year": 1917,
-          "text": "Vladala je čvrsto, učinila je od Indije nuklearnu silu. Ubili su je tjelohranitelji"
-        },
-        {
-          "year": 1917,
-          "text": "1984."
+          "year": 1703,
+          "text": "Priča o Čovjeku sa željeznom maskom misterij je i stoljećima kasnije"
         },
         {
           "year": 1831,
           "text": "1881."
+        },
+        {
+          "year": 1917,
+          "text": "1984."
         },
         {
           "year": 1703,
