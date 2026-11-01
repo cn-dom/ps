@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-10-31T09:49:15.838Z",
+  "updated_at": "2026-11-01T10:39:17.112Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2026,54 +2026,9 @@
     },
     "02-09": {
       "date": "02-09",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1573,
-          "text": "Presudna bitka između plemića i seljačke vojske pod vodstvom Matije Gupca kod Stubičkih Toplica, kojom je seljačka buna propala"
-        },
-        {
-          "year": 1621,
-          "text": "Kardinal Alessandro Ludovisi izabran za papu i uzeo je ime Grgur XV."
-        },
-        {
-          "year": 1825,
-          "text": "Elektori u SAD-u izabrali Johna Quincyja Adamsa za novog američkog predsjednika kojem će mandat početi 4. ožujka"
-        },
-        {
-          "year": 1861,
-          "text": "Predstavnici konvencije u gradu Montgomery proglasili su Jeffersona Davisa privremenim predsjednikom Konfederativnih Država Amerike"
-        },
-        {
-          "year": 1895,
-          "text": "Odbojka je izumljena na YMCA-u u Holyokeu, Massachusetts"
-        },
-        {
-          "year": 1900,
-          "text": "Dwight Davis utemeljio tenisko natjecanje Davisov kup"
-        },
-        {
-          "year": 1934,
-          "text": "Stvoren Balkanski pakt"
-        },
-        {
-          "year": 1938,
-          "text": "Velika tragedija u Sretnicama kad je u požaru izgorjelo 29 svatova. [http://www.brotnjo.info/2019/02/09/prije-81-godinu-vatra-je-na-sretnicama-progutala-29-svatova/ Brotnjo.info] Župa Kruševo: Prije 81 godinu vatra je na Sretnicama progutala 29 svatova, 9. veljače 2019. (pristupljeno 16. travnja 2019.)"
-        },
-        {
-          "year": 1943,
-          "text": "Drugi svjetski rat: završila je bitka kod Guadalcanala na Solomonskim otocima"
-        },
-        {
-          "year": 1968,
-          "text": "Nizozemska princeza Beatrix otvorila podzemnu željeznicu Rotterdamu."
-        },
-        {
-          "year": 2018,
-          "text": "U Pyeongchangu otvorene su Zimske olimpijske igre"
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-10": {
       "date": "02-10",
@@ -2360,15 +2315,53 @@
     },
     "02-15": {
       "date": "02-15",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1573,
+          "text": "U Zagrebu je pogubljen Ambroz Gubec, vođa seljačke bune."
+        },
+        {
+          "year": 1942,
+          "text": "U snažnom vojnom udaru Japanci su osvojili Singapur, nakon čega je zarobljeno više od 80 000 indijskih, australskih i britanskih vojnika."
+        },
+        {
+          "year": 1991,
+          "text": "Osnovana je 164. brigada HV, Starigrad iz sastava 112. brigade"
+        },
+        {
+          "year": 1997,
+          "text": "Osnovan Hrvatski auto i karting savez, nakon razdvajanja Hrvatskog auto i moto športskog saveza (HAMŠS) na Hrvatski auto i karting savez i Hrvatski motociklistički savez."
+        }
+      ]
     },
     "02-16": {
       "date": "02-16",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1852,
+          "text": "U Zagrebu je održana prva sjednica Trgovačko-obrtničke komore, koja će postati Hrvatska gospodarska komora"
+        },
+        {
+          "year": 1846,
+          "text": "U Zagrebu je otvorena nova bolnica koja zamjenjuje dotadašnje ubožnice i postaje osnova današnje bolnice [http://www.kbsm.hr \"Sestre milosrdnice\"] ."
+        },
+        {
+          "year": 1904,
+          "text": "U Maksimiru u Zagrebu izmjereno 95 cm snijega koji je neprekidno padao tri dana."
+        },
+        {
+          "year": 1978,
+          "text": "Ward Christensen stvorio je CBBS, prvi računalni elektronski oglasni sustav, tijekom mećave u Chicagu"
+        },
+        {
+          "year": 2003,
+          "text": "Započeta je Wikipedija na hrvatskom jeziku. [https://hr.m.wikipedia.org/w/index.php?diff=prev&oldid=1&title=Glavna_stranica Glavna stranica] Wikipedija. Pristupljeno 10. travnja 2025."
+        }
+      ]
     },
     "02-17": {
       "date": "02-17",
@@ -2414,78 +2407,9 @@
     },
     "02-19": {
       "date": "02-19",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1291,
-          "text": "Potpisan sporazum iz Tarascona."
-        },
-        {
-          "year": 1594,
-          "text": "Sigismund III., kralj Poljsko-litavske Unije, okrunjen je za kralja Švedske."
-        },
-        {
-          "year": 1674,
-          "text": "Treći englesko-nizozemski rat završio je potpisivanjem Westminsterskog sporazuma."
-        },
-        {
-          "year": 1826,
-          "text": "Rodio se Matija Mesić, povjesničar i prvi rektor zagrebačkog sveučilišta."
-        },
-        {
-          "year": 1910,
-          "text": "Manchester United odigrao prvu utakmicu na Old Traffordu."
-        },
-        {
-          "year": 1935,
-          "text": "Sibinjske žrtve; u sibinjskom kraju režim Kraljevine Jugoslavije ubio hrvatske seljake."
-        },
-        {
-          "year": 1939,
-          "text": "Talijanske vojne jedinice u Adis Abebi počinile masakr u znak odmazde zbog neuspjelog atentata na potkralja maršala Grazianija."
-        },
-        {
-          "year": 1942,
-          "text": "Zračni napadi na Darwin, glavni grad Sjevernog Teritorija, Australija uništili su 242 bombardera i lovaca japanske carske mornarice."
-        },
-        {
-          "year": 1942,
-          "text": "Potpisana je U.S. Executive Order 9066, odobrivši premještaj i zatvaranje 112.000 japanskih Amerikanaca."
-        },
-        {
-          "year": 1945,
-          "text": "Započela bitka za Iwo Jimu."
-        },
-        {
-          "year": 1982,
-          "text": "Probni let Boeinga 757."
-        },
-        {
-          "year": 1986,
-          "text": "U okviru sovjetskog svemirskog programa lansirana je svemirska postaja Mir, prva dugoročna istraživačka postaja u svemiru."
-        },
-        {
-          "year": 1990,
-          "text": "osnovan Istarski demokratski sabor."
-        },
-        {
-          "year": 1996,
-          "text": "Institut za suvremenu povijest postao dio Hrvatskog instituta za povijest."
-        },
-        {
-          "year": 1999,
-          "text": "Posljednji koncert Animatora u klubu Kulušić."
-        },
-        {
-          "year": 2002,
-          "text": "Objavljen album Don't Worry About Me Joeyja Ramonea."
-        },
-        {
-          "year": 2020,
-          "text": "Zoran Milanović prisegnuo za Predsjednika Republike Hrvatske."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-20": {
       "date": "02-20",
@@ -11993,20 +11917,20 @@
           "text": "Nikola II. postao zadnji ruski car NIKOLA II. bio je posljednji ruski car koji je vladao u doba dru&#x161;tvene napetosti i revolucija. Postao je ruski car nakon smrti o&#x10D;eve smrti 1894. godine i vladao do Februarske revolucije 1917. godine."
         },
         {
-          "year": 1520,
-          "text": "Početak putovanja kroz Maggellanov tjesnac DANA 1. studenoga 1520. godine flota portugalskog moreplovca Fern&#xE3;a de Magalh&#xE3;esa, poznatog kao Magellan, uplovila je u prolaz koji &#x107;e kasnije ponijeti njegovo ime - Magellanov tjesnac."
-        },
-        {
           "year": 1800,
           "text": "John Adams uselio u Bijelu kuću KADA je John Adams 1. studenoga 1800. godine uselio u Bijelu ku&#x107;u, Washington D.C. jo&#x161; je bio grad u nastajanju - blatnjave ulice, nedovr&#x161;ene zgrade i neure&#x111;eni okoli&#x161; okru&#x17E;ivali su novo sredi&#x161;te ameri&#x10D;ke vlasti."
         },
         {
-          "year": 1503,
-          "text": "Papa Julije II. izabran na najkraćoj konklavi ikad DANA 1. studenog 1503. godine rimski kardinali izabrali su za papu Giuliana della Roverea, &#x10D;ovjeka koji &#x107;e u povijesti ostati poznat kao papa Julije II. Izbor je bio nevjerojatno brz, konklava je trajala manje od deset sati, &#x161;to je &#x10D;ini najkra&#x107;om u povijesti Katoli&#x10D;ke crkve."
+          "year": 1520,
+          "text": "Početak putovanja kroz Maggellanov tjesnac DANA 1. studenoga 1520. godine flota portugalskog moreplovca Fern&#xE3;a de Magalh&#xE3;esa, poznatog kao Magellan, uplovila je u prolaz koji &#x107;e kasnije ponijeti njegovo ime - Magellanov tjesnac."
         },
         {
           "year": 1999,
           "text": "Tuđman se zadnji put pojavio u javnosti POSLJEDNJA javna pojava Franje Tu&#x111;mana zabilje&#x17E;ena je 1. studenoga 1999. godine."
+        },
+        {
+          "year": 1963,
+          "text": "Otvoren najveći radioteleskop na svijetu PRVOG studenoga 1963. godine na sjeveru Portorika, nedaleko od grada Areciba, otvoren je najve&#x107;i radioteleskop na svijetu."
         }
       ]
     },
