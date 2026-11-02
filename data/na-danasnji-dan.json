@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-01T10:39:17.112Z",
+  "updated_at": "2026-11-02T11:27:41.849Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2026,9 +2026,54 @@
     },
     "02-09": {
       "date": "02-09",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1573,
+          "text": "Presudna bitka između plemića i seljačke vojske pod vodstvom Matije Gupca kod Stubičkih Toplica, kojom je seljačka buna propala"
+        },
+        {
+          "year": 1621,
+          "text": "Kardinal Alessandro Ludovisi izabran za papu i uzeo je ime Grgur XV."
+        },
+        {
+          "year": 1825,
+          "text": "Elektori u SAD-u izabrali Johna Quincyja Adamsa za novog američkog predsjednika kojem će mandat početi 4. ožujka"
+        },
+        {
+          "year": 1861,
+          "text": "Predstavnici konvencije u gradu Montgomery proglasili su Jeffersona Davisa privremenim predsjednikom Konfederativnih Država Amerike"
+        },
+        {
+          "year": 1895,
+          "text": "Odbojka je izumljena na YMCA-u u Holyokeu, Massachusetts"
+        },
+        {
+          "year": 1900,
+          "text": "Dwight Davis utemeljio tenisko natjecanje Davisov kup"
+        },
+        {
+          "year": 1934,
+          "text": "Stvoren Balkanski pakt"
+        },
+        {
+          "year": 1938,
+          "text": "Velika tragedija u Sretnicama kad je u požaru izgorjelo 29 svatova. [http://www.brotnjo.info/2019/02/09/prije-81-godinu-vatra-je-na-sretnicama-progutala-29-svatova/ Brotnjo.info] Župa Kruševo: Prije 81 godinu vatra je na Sretnicama progutala 29 svatova, 9. veljače 2019. (pristupljeno 16. travnja 2019.)"
+        },
+        {
+          "year": 1943,
+          "text": "Drugi svjetski rat: završila je bitka kod Guadalcanala na Solomonskim otocima"
+        },
+        {
+          "year": 1968,
+          "text": "Nizozemska princeza Beatrix otvorila podzemnu željeznicu Rotterdamu."
+        },
+        {
+          "year": 2018,
+          "text": "U Pyeongchangu otvorene su Zimske olimpijske igre"
+        }
+      ]
     },
     "02-10": {
       "date": "02-10",
@@ -11213,8 +11258,8 @@
           "text": "\"Otkriven\" div iz Cardiffa DANA 16. listopada 1869. godine dvojica radnika kopala su bunar na farmi Williama Newella u Cardiffu, malom mjestu u ameri&#x10D;koj saveznoj dr&#x17E;avi New York."
         },
         {
-          "year": 1793,
-          "text": "Marija Antoaneta - priče i mitovi o najpoznatijoj europskoj kraljici"
+          "year": 2007,
+          "text": "Toše Proeski - neprežaljeni slavuj regije"
         },
         {
           "year": 1908,
@@ -11229,16 +11274,16 @@
           "text": "1859."
         },
         {
-          "year": 1793,
-          "text": "1793."
-        },
-        {
           "year": 2007,
           "text": "2007."
         },
         {
           "year": 1991,
           "text": "1991."
+        },
+        {
+          "year": 1730,
+          "text": "1730."
         }
       ]
     },
@@ -11956,16 +12001,16 @@
           "text": "Završila Bitka kod Lüleburgaza BITKA kod L&#xFC;leburgaza, poznata i kao Bitka kod L&#xFC;leburgaz-Bunarhisara, odigrala se od 28. listopada do 2. studenoga 1912. godine u isto&#x10D;noj Trakiji, na podru&#x10D;ju dana&#x161;nje europske Turske."
         },
         {
-          "year": 1766,
-          "text": "Njegovim djelovanjem poražen je Napoleon, odgođena je Italija, a Austrija je vladala"
-        },
-        {
-          "year": 1766,
-          "text": "1857."
+          "year": 1755,
+          "text": "Marija Antoaneta - priče i mitovi o najpoznatijoj europskoj kraljici"
         },
         {
           "year": 1755,
           "text": "1793."
+        },
+        {
+          "year": 1766,
+          "text": "1857."
         }
       ]
     },
@@ -13950,8 +13995,8 @@
           "text": "Nakon 72 dana spašeni preživjeli iz aviona koji je pao u Andama DANA 13. listopada 1972. godine, let 571 Urugvajskih zra&#x10D;nih snaga sru&#x161;io se u Andama, nose&#x107;i 45 putnika i &#x10D;lanova posade, uklju&#x10D;uju&#x107;i ragbija&#x161;ku mom&#x10D;ad Old Christians Cluba iz Montevidea."
         },
         {
-          "year": 1857,
-          "text": "Njegovim djelovanjem poražen je Napoleon, odgođena je Italija, a Austrija je vladala"
+          "year": 1959,
+          "text": "Plavi anđeo \"izdao\" je Barcelonu. Guardiola ga je stavio u svoju idealnu ekipu"
         },
         {
           "year": 1959,
@@ -13966,12 +14011,12 @@
           "text": "1235."
         },
         {
-          "year": 1857,
-          "text": "1857."
-        },
-        {
           "year": 1650,
           "text": "1650."
+        },
+        {
+          "year": 1857,
+          "text": "1857."
         }
       ]
     },
