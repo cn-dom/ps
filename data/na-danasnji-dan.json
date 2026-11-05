@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-03T11:04:44.833Z",
+  "updated_at": "2026-11-05T11:12:53.337Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -1578,9 +1578,86 @@
     },
     "02-01": {
       "date": "02-01",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1748,
+          "text": "Novi Sad ukazom carice Marije Terezije dobio je status slobodnog kraljevskog grada."
+        },
+        {
+          "year": 1793,
+          "text": "Revolucionarna Francuska, nepuna dva tjedna poslije pogubljenja kralja Luja XVI., objavila rat Velikoj Britaniji i Nizozemskoj."
+        },
+        {
+          "year": 1796,
+          "text": "Glavni grad Gornje Kanade premješten je iz Newarka (sada Niagara-on-the-Lake) u York (sada Toronto), koji je procijenjen manje ranjivim na napad Sjedinjenih Država."
+        },
+        {
+          "year": 1884,
+          "text": "Izdan je prvi svezak Oxfordova engleskog rječnika."
+        },
+        {
+          "year": 1896,
+          "text": "Praizvedba Puccinijeve opere La bohème u Torinu (Italija)."
+        },
+        {
+          "year": 1918,
+          "text": "Rusija usvojila Gregorijanski kalendar."
+        },
+        {
+          "year": 1918,
+          "text": "Počeo je ustanak bokeljskih mornara u Boki kotorskoj."
+        },
+        {
+          "year": 1946,
+          "text": "Norveški političar Trygve Lie izabran je za prvog generalnog tajnika UN-a."
+        },
+        {
+          "year": 1958,
+          "text": "Egipat i Sirija ujedinjeni su u Ujedinjenu Arapsku Republiku."
+        },
+        {
+          "year": 1974,
+          "text": "U požaru u 25-katnoj uredskoj zgradi \"Joelma\" u São Paulu (Brazil) poginulo je 189 osoba."
+        },
+        {
+          "year": 1979,
+          "text": "Iranski vjerski vođa ajatolah Ruholah Homeini, vratio se u zemlju iz Pariza, poslije 15 godina izgnanstva, koje je uglavnom proveo u Iraku."
+        },
+        {
+          "year": 1990,
+          "text": "JNA izvela tenkove na ulice kosovskih gradova, a borbeni avioni nadlijetali Prištinu kako bi bile ugušeni prosvjedi kosovskih Albanaca. Tom prigodom je poginulo 27 Albanaca, a više od 100 ljudi je ranjeno."
+        },
+        {
+          "year": 1993,
+          "text": "Bitka za Kašić u Domovinskom ratu."
+        },
+        {
+          "year": 2003,
+          "text": "NASA-in Space Shuttle Columbia raskomadao se nad Teksasom tijekom povratka u Zemljinu atmosferu u svojoj 28. i završnoj misiji."
+        },
+        {
+          "year": 2005,
+          "text": "Stupio je na snagu Sporazum o stabilizaciji i pridruživanju što ga je Hrvatska potpisala s Europskom unijom."
+        },
+        {
+          "year": 2009,
+          "text": "Jóhanna Sigurðardóttir izabrana je za premijera Islanda, čime je postala prva premijerka u povijesti te države i prva homoseksualka na čelu neke države."
+        },
+        {
+          "year": 2009,
+          "text": "U moskovskoj katedrali Krista Spasitelja ustoličen je Mitropolit Kiril kao 16. po redu patrijarh Moskve i cijele Rusije."
+        },
+        {
+          "year": 2018,
+          "text": "U gvatemalskim prašumama arheolozi su otkrili preko 60 000 majanskih građevina. [https://news.nationalgeographic.com/2018/02/maya-laser-lidar-guatemala-pacunam/ news.nationalgeographic.com] , \"Exclusive: Laser Scans Reveal Maya \"Megalopolis\" Below Guatemalan Jungle\", objavljeno 1. veljače 2018., pristupljeno 8. ožujka 2018. [http://www.bbc.com/news/world-latin-america-42916261 www.bbc.com], \"Sprawling Maya network discovered under Guatemala jungle\", objavljeno 2. veljače 2018., pristupljeno 8. ožujka 2018. [http://www.index.hr/vijesti/clanak/ispod-dzungle-u-gvatemali-otkriveno-60-000-majanskih-gradjevina/1023657.aspx www.index.hr], \"U Gvatemali pronađeno 60 000 majanskih struktura: \"Ovo je najveće otkriće u 150 godina\"\", objavljeno 3. veljače 2018., pristupljeno 8. ožujka 2018."
+        },
+        {
+          "year": 2020,
+          "text": "Tijekom epidemije koronavirusa objavljen je prvi smrtni slučaj bolesti COVID-19 izvan Kine, na Filipinima."
+        }
+      ]
     },
     "02-02": {
       "date": "02-02",
@@ -1910,9 +1987,42 @@
     },
     "02-08": {
       "date": "02-08",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1075,
+          "text": "Mletački dužd Dominik Silvije protjerao Normane iz dalmatinskih gradova koji su mu se svečano obvezali da nikada više neće dovoditi Normane ili strance u Dalmaciju."
+        },
+        {
+          "year": 1587,
+          "text": "Škotska kraljica Marija Stuart pogubljena je u dvorcu Fotheringhay zbog sumnje na upletenost u Babingtonovu zavjeru radi ubojstva svoje rođakinje kraljice Elizabete I. od Engleske"
+        },
+        {
+          "year": 1843,
+          "text": "Potres na Gvadalupi"
+        },
+        {
+          "year": 1904,
+          "text": "Započeo je Rusko-japanski rat iznenadnim torpednim napadom japanskih brodova na ruske brodove blizu današnjeg Lüshunkoua (Kina)"
+        },
+        {
+          "year": 1984,
+          "text": "Otvorene XIV. Zimske olimpijske igre u Sarajevu"
+        },
+        {
+          "year": 1992,
+          "text": "Otvorene XVI. Zimske olimpijske igre u francuskom Albertvilleu na kojoj je po prvi put nastupila i neovisna Hrvatska, a zastavu je nosio Tomislav Čižmešija"
+        },
+        {
+          "year": 2002,
+          "text": "Otvorene XIX. Zimske olimpijske igre u Salt Lake Cityju"
+        },
+        {
+          "year": 2009,
+          "text": "U mađarskom gradu Balatonfured, huligani su ubili rumunjskog rukometnog reprezentativca Mariana Cozmu, a teško su ranili hrvatskog rukometnog reprezentativca Ivana Pešića i srpskog rukometnog reprezentativca Žarka Šešuma."
+        }
+      ]
     },
     "02-09": {
       "date": "02-09",
@@ -2026,9 +2136,70 @@
     },
     "02-11": {
       "date": "02-11",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1531,
+          "text": "Henrik VIII. na čelu Anglikanske crkve."
+        },
+        {
+          "year": 1852,
+          "text": "Bokelj Ivan Visin isplovio iz Antwerpena na brodu Splendido. Kad je 7 godina kasnije doplovio u Trst, postao je prvi Hrvat koji je oplovio svijet. Učino je to za vlastiti račun i o vlastitu trošku."
+        },
+        {
+          "year": 1855,
+          "text": "Krunidba etiopskog kralja Tevodrosa II."
+        },
+        {
+          "year": 1858,
+          "text": "Gospa se ukazala u Lurdu, djevojčici Bernardici Suobirous."
+        },
+        {
+          "year": 1873,
+          "text": "Španjolski kralj Amadeo I. je abdicirao, proglasio na Cortes Generales da je španjolski narod \"neukrotiv,\" i zatim napustio zemlju."
+        },
+        {
+          "year": 1906,
+          "text": "Papa Pio X. objavio encikliku Vehementer Nos."
+        },
+        {
+          "year": 1919,
+          "text": "Friedrich Ebert izabran za predsjednika republike u Njemačkoj."
+        },
+        {
+          "year": 1929,
+          "text": "Potpisan je prvi Lateranski sporazum kojim je Vatikan uspostavljen kao nezavisna suverena enklava unutar Italije"
+        },
+        {
+          "year": 1963,
+          "text": "Beatlesi su započeli snimanje svojeg prvog albuma pod nazivom Please Please Me"
+        },
+        {
+          "year": 1979,
+          "text": "Ajatolah Homeini preuzeo je vlast u Iranu, te je na posljetku postao vrhovni vođa Islamske republike."
+        },
+        {
+          "year": 1990,
+          "text": "Anti-apartheid aktivist Nelson Mandela, 27-godišnji politički zatvorenik, pušten je iz zatvora izvan Cape Towna, Južna Afrika."
+        },
+        {
+          "year": 1994,
+          "text": "Papa Ivan Pavao II. osnovao Papinsku akademiju za život"
+        },
+        {
+          "year": 2011,
+          "text": "Nakon masovnih prosvjeda, egipatski predsjednik Hosni Mubarak je podnio ostavku"
+        },
+        {
+          "year": 2013,
+          "text": "Vatikan objavljuje da se papa Benedikt XVI. odriče službe, zbog svoje poodmakle dobi"
+        },
+        {
+          "year": 2020,
+          "text": "Svjetska zdravstvena organizacija proglasila je pandemiju koronavirusa"
+        }
+      ]
     },
     "02-12": {
       "date": "02-12",
@@ -2212,9 +2383,30 @@
     },
     "02-16": {
       "date": "02-16",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1852,
+          "text": "U Zagrebu je održana prva sjednica Trgovačko-obrtničke komore, koja će postati Hrvatska gospodarska komora"
+        },
+        {
+          "year": 1846,
+          "text": "U Zagrebu je otvorena nova bolnica koja zamjenjuje dotadašnje ubožnice i postaje osnova današnje bolnice [http://www.kbsm.hr \"Sestre milosrdnice\"] ."
+        },
+        {
+          "year": 1904,
+          "text": "U Maksimiru u Zagrebu izmjereno 95 cm snijega koji je neprekidno padao tri dana."
+        },
+        {
+          "year": 1978,
+          "text": "Ward Christensen stvorio je CBBS, prvi računalni elektronski oglasni sustav, tijekom mećave u Chicagu"
+        },
+        {
+          "year": 2003,
+          "text": "Započeta je Wikipedija na hrvatskom jeziku. [https://hr.m.wikipedia.org/w/index.php?diff=prev&oldid=1&title=Glavna_stranica Glavna stranica] Wikipedija. Pristupljeno 10. travnja 2025."
+        }
+      ]
     },
     "02-17": {
       "date": "02-17",
@@ -2260,120 +2452,21 @@
     },
     "02-19": {
       "date": "02-19",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1291,
-          "text": "Potpisan sporazum iz Tarascona."
-        },
-        {
-          "year": 1594,
-          "text": "Sigismund III., kralj Poljsko-litavske Unije, okrunjen je za kralja Švedske."
-        },
-        {
-          "year": 1674,
-          "text": "Treći englesko-nizozemski rat završio je potpisivanjem Westminsterskog sporazuma."
-        },
-        {
-          "year": 1826,
-          "text": "Rodio se Matija Mesić, povjesničar i prvi rektor zagrebačkog sveučilišta."
-        },
-        {
-          "year": 1910,
-          "text": "Manchester United odigrao prvu utakmicu na Old Traffordu."
-        },
-        {
-          "year": 1935,
-          "text": "Sibinjske žrtve; u sibinjskom kraju režim Kraljevine Jugoslavije ubio hrvatske seljake."
-        },
-        {
-          "year": 1939,
-          "text": "Talijanske vojne jedinice u Adis Abebi počinile masakr u znak odmazde zbog neuspjelog atentata na potkralja maršala Grazianija."
-        },
-        {
-          "year": 1942,
-          "text": "Zračni napadi na Darwin, glavni grad Sjevernog Teritorija, Australija uništili su 242 bombardera i lovaca japanske carske mornarice."
-        },
-        {
-          "year": 1942,
-          "text": "Potpisana je U.S. Executive Order 9066, odobrivši premještaj i zatvaranje 112.000 japanskih Amerikanaca."
-        },
-        {
-          "year": 1945,
-          "text": "Započela bitka za Iwo Jimu."
-        },
-        {
-          "year": 1982,
-          "text": "Probni let Boeinga 757."
-        },
-        {
-          "year": 1986,
-          "text": "U okviru sovjetskog svemirskog programa lansirana je svemirska postaja Mir, prva dugoročna istraživačka postaja u svemiru."
-        },
-        {
-          "year": 1990,
-          "text": "osnovan Istarski demokratski sabor."
-        },
-        {
-          "year": 1996,
-          "text": "Institut za suvremenu povijest postao dio Hrvatskog instituta za povijest."
-        },
-        {
-          "year": 1999,
-          "text": "Posljednji koncert Animatora u klubu Kulušić."
-        },
-        {
-          "year": 2002,
-          "text": "Objavljen album Don't Worry About Me Joeyja Ramonea."
-        },
-        {
-          "year": 2020,
-          "text": "Zoran Milanović prisegnuo za Predsjednika Republike Hrvatske."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-20": {
       "date": "02-20",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1935,
-          "text": "Vrbske žrtve; režim Kraljevine Jugoslavije mučki ubio hrvatske seljake iz Gornje Vrbe i Ruščiće u Slavonskom Brodu"
-        },
-        {
-          "year": 1951,
-          "text": "Meteorit težak 1,9 kg pao je u Molunatu, 40 km od Dubrovnika. Dobio je službeni naziv \"Dubrovnik\"."
-        },
-        {
-          "year": 1960,
-          "text": "The Rocking Kings sviraju s tada 17-godišnjim gitaristom Jamesom Marshallom Hendrixom (kasnije poznat kao Jimi), u njegovu rodnom gradu Seattleu u Washington Hallu. Jimi svira na svojoj prvoj gitari Supro Ozark."
-        },
-        {
-          "year": 1986,
-          "text": "Silvio Berlusconi kupio talijanski nogometni klub AC Milan"
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-21": {
       "date": "02-21",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1431,
-          "text": "Počelo suđenje Ivani Orleanskoj"
-        },
-        {
-          "year": 1437,
-          "text": "Umro škotski kralj James I."
-        },
-        {
-          "year": 1848,
-          "text": "Objavljen Komunistički manifest"
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-22": {
       "date": "02-22",
@@ -4045,12 +4138,12 @@
           "text": "1792."
         },
         {
-          "year": 2024,
-          "text": "2024."
-        },
-        {
           "year": 1821,
           "text": "1821."
+        },
+        {
+          "year": 2024,
+          "text": "2024."
         }
       ]
     },
@@ -11978,12 +12071,12 @@
       "source_url": "https://www.index.hr/kalendar?datum=0411",
       "events": [
         {
-          "year": 1918,
-          "text": "Talijanska okupacija istočnog Jadrana"
+          "year": 1922,
+          "text": "Otkrivena Tutankamonova grobnica"
         },
         {
-          "year": 2016,
-          "text": "Na Netflix je stigla Kruna 4. STUDENOGA 2016. godine premijerno je prikazana Kruna (The Crown), Netflixova ambiciozna povijesna serija koja je od prvog dana osvojila publiku."
+          "year": 1918,
+          "text": "Talijanska okupacija istočnog Jadrana NA DANA&#x160;NJI dan talijanska je vojska okupirala isto&#x10D;nu obalu Jadrana - po&#x17E;uren je proces ujedinjenja sa Srbijom."
         },
         {
           "year": 2000,
@@ -11991,23 +12084,27 @@
         },
         {
           "year": 2016,
+          "text": "Na Netflix je stigla Kruna 4. STUDENOGA 2016. godine premijerno je prikazana Kruna (The Crown), Netflixova ambiciozna povijesna serija koja je od prvog dana osvojila publiku."
+        },
+        {
+          "year": 2016,
           "text": "U kinima se počeo prikazivati Greben spašenih 4. STUDENOGA 2016. godine u ameri&#x10D;ka kina stigao je Greben spa&#x161;enih (Hacksaw Ridge), film u re&#x17E;iji Mela Gibsona temeljen na istinitoj pri&#x10D;i o Desmondu Dossu, vojnom bolni&#x10D;aru ameri&#x10D;ke vojske u Drugom svjetskom ratu i prvom vojniku koji je dobio Medalju &#x10D;asti iako je odbio nositi oru&#x17E;je."
         },
         {
-          "year": 1972,
-          "text": "Jednog od najboljih driblera ikada bijesni navijači gađali su svinjskom glavom"
+          "year": 1731,
+          "text": "Rodila je trojicu francuskih kraljeva. Srećom, umrla je prije kaosa Revolucije"
         },
         {
-          "year": 1972,
-          "text": "Luis Figo"
-        },
-        {
-          "year": 1969,
-          "text": "Matthew McConaughey"
+          "year": 1731,
+          "text": "1767."
         },
         {
           "year": 1960,
           "text": "1991."
+        },
+        {
+          "year": 1972,
+          "text": "Luis Figo"
         }
       ]
     },
@@ -12017,32 +12114,32 @@
       "source_url": "https://www.index.hr/kalendar?datum=0511",
       "events": [
         {
-          "year": 1982,
-          "text": "Film Rambo krenuo u široku distribuciju po kinima"
+          "year": 1907,
+          "text": "Zagreb dobio električnu rasvjetu"
         },
         {
-          "year": 2014,
-          "text": "U kina je stigao Interstellar 5. STUDENOGA 2014. godine u kinima se po&#x10D;eo prikazivati Interstellar, znanstvenofantasti&#x10D;ni film u re&#x17E;iji Christophera Nolana, koji je uspio spojiti teorije moderne astrofizike s intimnom, ljudskom pri&#x10D;om o o&#x10D;instvu, nadi i moralnoj cijeni opstanka."
+          "year": 1982,
+          "text": "Film Rambo krenuo u široku distribuciju po kinima KADA je film First Blood (u Hrvatskoj poznat kao Rambo) stigao u kina 22. listopada 1982. godine, nitko nije mogao predvidjeti da &#x107;e pri&#x10D;a o usamljenom ratnom veteranu prerasti u jednu od najprepoznatljivijih filmskih saga svih vremena."
         },
         {
           "year": 1987,
           "text": "Suzavac na Poljudu NA UTAKMICI izme&#x111;u Hajduka i Marseillea ba&#x10D;en suzavac."
         },
         {
-          "year": 1907,
-          "text": "Zagreb dobio električnu rasvjetu ZAGREB po prvi puta dobiva elektri&#x10D;nu rasvjetu 1907. godine."
+          "year": 2014,
+          "text": "U kina je stigao Interstellar 5. STUDENOGA 2014. godine u kinima se po&#x10D;eo prikazivati Interstellar, znanstvenofantasti&#x10D;ni film u re&#x17E;iji Christophera Nolana, koji je uspio spojiti teorije moderne astrofizike s intimnom, ljudskom pri&#x10D;om o o&#x10D;instvu, nadi i moralnoj cijeni opstanka."
         },
         {
-          "year": 1974,
-          "text": "Ozbiljan nogomet počeo je igrati tek u dvadesetima i postao je hrvatska legenda"
-        },
-        {
-          "year": 1974,
-          "text": "Dado Pr&#x161;o"
+          "year": 1938,
+          "text": "Navijači su ga napadali jer nije zvao Maradonu, a on je postao prvak svijeta"
         },
         {
           "year": 1938,
           "text": "2024."
+        },
+        {
+          "year": 1974,
+          "text": "Dado Pr&#x161;o"
         }
       ]
     },
@@ -12646,8 +12743,8 @@
           "text": "Zločin na Ovčari POKOLJ na Ov&#x10D;ari dogodio se u Vukovaru 1991. godine. Ubijeno je preko 250 civila i vojnika."
         },
         {
-          "year": 1991,
-          "text": "Iz pakla Vukovara pozivao je na oprost. Četnici su ga zvjerski ubili"
+          "year": 1975,
+          "text": "U krvavom ratu je došao na vlast, uveo je diktaturu. Bio je blizak Hitleru"
         },
         {
           "year": 1895,
@@ -12662,12 +12759,16 @@
           "text": "1991."
         },
         {
+          "year": 1975,
+          "text": "1975."
+        },
+        {
           "year": 1991,
           "text": "1991."
         },
         {
-          "year": 1975,
-          "text": "1975."
+          "year": 1910,
+          "text": "1910."
         }
       ]
     },
