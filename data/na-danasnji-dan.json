@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-05T11:12:53.337Z",
+  "updated_at": "2026-11-06T11:11:09.547Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2437,18 +2437,9 @@
     },
     "02-18": {
       "date": "02-18",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1358,
-          "text": "U Zadru sklopljen glasoviti Zadarski mir između Mletačke Republike i ugarsko-hrvatskog kralja Ludovika I. Anžuvinca kojim su se Mlečani odrekli Dalmacije."
-        },
-        {
-          "year": 2008,
-          "text": "Afganistan postao prva država koja je priznala nezavisnost Kosova."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-19": {
       "date": "02-19",
@@ -4228,12 +4219,8 @@
           "text": "Izgorio švedski dvorac Tre Kronor DANA 17. svibnja 1697. godine veliki po&#x17E;ar uni&#x161;tio je dvorac Tre Kronor, kraljevsku rezidenciju u Stockholmu u &#x160;vedskoj, koja je stolje&#x107;ima bila sredi&#x161;te &#x161;vedske monarhije."
         },
         {
-          "year": 1840,
-          "text": "Tko je čovjek koji stoji iza baleta za kojim luduju Hrvati?"
-        },
-        {
-          "year": 1840,
-          "text": "1893."
+          "year": 1892,
+          "text": "Je li Tito bio heroj ili zločinac?"
         },
         {
           "year": 1892,
@@ -4242,6 +4229,10 @@
         {
           "year": 1919,
           "text": "1952."
+        },
+        {
+          "year": 1840,
+          "text": "1893."
         }
       ]
     },
@@ -11735,12 +11726,12 @@
           "text": "Premijera filma \"Romeo i Julija\" SHAKESPEAREOVA pri&#x10D;a dobila je sasvim novo lice, ali zadr&#x17E;ala svoj tragi&#x10D;ni zavr&#x161;etak."
         },
         {
-          "year": 2006,
-          "text": "Počelo prikazivanje horora \"Slagalica strave III\" U BRITANSKIM kinima &#x10D;ak je pet gledatelja izgubilo svijest tijekom projekcija."
-        },
-        {
           "year": 939,
           "text": "Umro kralj Athelstan &#xC6;THELSTAN, sin Edwarda Starijeg i unuk slavnog Alfreda Velikog, smatra se prvim vladarom koji je ujedinio Englesku pod jednom krunom."
+        },
+        {
+          "year": 2006,
+          "text": "Počelo prikazivanje horora \"Slagalica strave III\" U BRITANSKIM kinima &#x10D;ak je pet gledatelja izgubilo svijest tijekom projekcija."
         },
         {
           "year": 1995,
@@ -12130,6 +12121,14 @@
           "text": "U kina je stigao Interstellar 5. STUDENOGA 2014. godine u kinima se po&#x10D;eo prikazivati Interstellar, znanstvenofantasti&#x10D;ni film u re&#x17E;iji Christophera Nolana, koji je uspio spojiti teorije moderne astrofizike s intimnom, ljudskom pri&#x10D;om o o&#x10D;instvu, nadi i moralnoj cijeni opstanka."
         },
         {
+          "year": 2003,
+          "text": "Serijski ubojica Gary Ridgway priznao je krivnju za ubojstva 48 žena DANA 5. studenoga 2003. godine ameri&#x10D;ki serijski ubojica Gary Ridgway priznao je krivnju za ubojstva 48 &#x17E;ena."
+        },
+        {
+          "year": 1605,
+          "text": "Otkrivena zavjera protiv engleskog kralja Jakova I., vodio je Guy Fawkes \"REMEMBER, remember the fifth of November\", odnosno \"Sjeti se, sjeti se petog studenoga\", po&#x10D;etak je poznate engleske pjesmice koja podsje&#x107;a na jedan od najslavnijih neuspjelih atentata u povijesti."
+        },
+        {
           "year": 1938,
           "text": "Navijači su ga napadali jer nije zvao Maradonu, a on je postao prvak svijeta"
         },
@@ -12149,20 +12148,28 @@
       "source_url": "https://www.index.hr/kalendar?datum=0611",
       "events": [
         {
-          "year": 1860,
-          "text": "Abraham Lincoln izabran za predsjednika SAD-a"
+          "year": 1985,
+          "text": "Bakin slobodnjak protiv Torina"
         },
         {
-          "year": 1985,
-          "text": "Bakin slobodnjak protiv Torina POGLEDAJTE snimku pogotka iz 1985. godine."
+          "year": 1860,
+          "text": "Abraham Lincoln izabran za predsjednika SAD-a ABRAHAM Lincoln, 16. predsjednik SAD-a, preoblikovao je ameri&#x10D;ku povijest vode&#x107;i zemlju kroz Gra&#x111;anski rat, ukinuv&#x161;i ropstvo Proklamacijom o emancipaciji i postav&#x161;i simbol borbe za jednakost prije nego &#x161;to je tragi&#x10D;no ubijen 1865. godine."
         },
         {
           "year": 1971,
           "text": "Najveća američka podzemna termonuklearna eksplozija &#x160;ESTOG studenoga 1971. u 11 sati po lokalnom vremenu, na udaljenom otoku Amchitka u lancu Aleutskih otoka na Aljasci, izvedena je podzemna termonuklearna eksplozija pod kodnim imenom Project Cannikin."
         },
         {
-          "year": 1861,
-          "text": "Uz pomoć košara za voće stvorio je sport koji danas obožavaju milijuni"
+          "year": 1986,
+          "text": "Velika helikopterska nesreća u Škotskoj, poginulo je 45 osoba DANA 6. studenoga 1986. godine dogodila se najte&#x17E;a nesre&#x107;a civilnog helikoptera u povijesti. Helikopter Boeing 234LR Chinook, koji je prevozio radnike s naftnih platformi u Sjevernom moru, sru&#x161;io se u more nedaleko od Shetlandskog oto&#x10D;ja u &#x160;kotskoj."
+        },
+        {
+          "year": 1494,
+          "text": "Od Osmanskog carstva napravio je silu, bio je strah i trepet Europe"
+        },
+        {
+          "year": 1494,
+          "text": "1566."
         },
         {
           "year": 1861,
@@ -12171,10 +12178,6 @@
         {
           "year": 1935,
           "text": "1990."
-        },
-        {
-          "year": 1494,
-          "text": "1566."
         },
         {
           "year": 1893,
@@ -13075,8 +13078,8 @@
           "text": "Premijera filma \"I Bog stvori ženu\" s Brigitte Bardot BRIGITTE Bardot bila je jedna od najve&#x107;ih filmskih ikona 20. stolje&#x107;a i simbol francuske kinematografije koji je daleko nadma&#x161;io granice filmskog platna."
         },
         {
-          "year": 1939,
-          "text": "Uz pomoć košara za voće stvorio je sport koji danas obožavaju milijuni"
+          "year": 1632,
+          "text": "Slavnog glazbenika usmrtila je vlastita dirigentska palica. Evo priče"
         },
         {
           "year": 1632,
