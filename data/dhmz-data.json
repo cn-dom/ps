@@ -1,6 +1,6 @@
 {
   "source": "DHMZ",
-  "updated_at": "2026-11-08T10:27:56.252806+00:00",
+  "updated_at": "2026-11-08T17:57:03.233532+00:00",
   "warnings": [
     {
       "day": "today",
@@ -305,19 +305,19 @@
   ],
   "rainfall_text": [],
   "adriatic_text": [
-    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 08.11.2026. u 06 sati",
-    "Na južnom i dijelu srednjeg Jadrana mjestimice udari juga 35-40 čvorova. Mogući su neverini. U noći je moguća magla.",
+    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 08.11.2026. u 19 sati",
+    "Plitka ciklona premješta se preko Jadrana na istok.",
     "Vremenska prognoza za Jadran za prvih 12 sati",
-    "Na sjevernom Jadranu bura i sjeverozapadni vjetar 6-16, poslijepodne u slabljenju na 4-10 čvorova. Drugdje jugo 8-18, mjestimice do 22 čvora te na otvorenom moru sjeverozapadnjak 4-14, na srednjem Jadranu do 18 čvorova. More 2-3, na južnom Jadranu ponegdje 4. Vidljivost 10-20 km. Promjenjivo oblačno, mjestimice kiša ili pljuskovi s grmljavinom.",
-    "Slab, u početku samo ponegdje umjeren sjeverozapadni vjetar, na krajnjem jugu Jadrana umjereno do jako jugo. More mirno ili malo valovito, na srednjem Jadranu ponegdje umjereno valovito, a na krajnjem jugu i valovito. U noći je moguća magla. Promjenjivo oblačno, uglavnom na krajnjem jugu Jadrana mjestimice kiša ili pljuskovi s grmljavinom."
+    "Na južnom i dijelu srednjeg Jadrana jugo 6-16, na južnom u početku do 22 čvora. Na sjevernom i dijelu srednjeg Jadrana, a tijekom noći i jutra i drugdje tiho ili vjetar promjenjivog smjera, a na otvorenom moru sjeverozapadnjak do 10 čvorova. More 1-2, na srednjem i južnom Jadranu 2-3, a na otvorenom južnog Jadrana u početku 3-4. Vidljivost 10-20 km. Promjenjivo oblačno, uglavnom na srednjem i južnom Jadranu ponegdje uz kišu ili pljuskove s grmljavinom.",
+    "Tiho ili slab vjetar promjenjivog smjera, a na otvorenom moru slab sjeverozapadnjak. Još u početku na južnom Jadranu slabo do umjereno jugo. More malo do umjereno valovito. Promjenjivo oblačno, uglavnom prema večeri na sjevernom Jadranu ponegdje uz kišu ili pljuskove s grmljavinom."
   ],
   "sailors_text": [
-    "VREMENSKO IZVJEŠĆE, dan 08.11.2026 u 06:00 sati",
-    "Na južnom i dijelu srednjeg Jadrana mjestimice udari SE vjetra 35-40 čvorova. Mogući su neverini. U noći je moguća magla.",
-    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 09.11.2026 u 06 sati",
-    "Vjetar NE i NW 6-16, poslijepodne u slabljenju na 4-10 čvorova. More 2-3, od večeri 1-2. Vidljivost 10-20 km, u noći je moguća manja od 1 km zbog magle. Promjenjivo oblačno, uglavnom još prijepodne mjestimice kiša ili pljuskovi s grmljavinom.",
-    "Vjetar SE, na otvorenom moru NW 8-18, na jugu područja SE do 22 čvora. Prema večeri vjetar NW 4-14 čvorova. More 2-3. Vidljivost 10-20 km, u noći je moguća manja od 1 km zbog magle. Promjenjivo oblačno, uglavnom do večeri mjestimice kiša ili pljuskovi s grmljavinom.",
-    "Vjetar SE 8-18, mjestimice do 22 čvora. Od sredine dana prvo na otvorenom moru vjetar u okretanju na NW 4-14 čvorova. More 2-3, ponegdje 4. Vidljivost 10-20 km, u noći je moguća manja od 1 km zbog magle. Promjenjivo oblačno, mjestimice kiša ili pljuskovi s grmljavinom."
+    "VREMENSKO IZVJEŠĆE, dan 08.11.2026 u 18:00 sati",
+    "Plitka ciklona premješta se preko Jadrana na istok.",
+    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 09.11.2026 u 18 sati",
+    "Tiho ili vjetar promjenjivog smjera, a na otvorenom moru NW do 10 čvorova. More 1-2, na otvorenom 2-3. Vidljivost 10-20 km. Promjenjivo oblačno, uglavnom sutra prema večeri ponegdje uz kišu ili pljuskove s grmljavinom.",
+    "Tiho ili vjetar promjenjivog smjera, a na otvorenom moru NW do 10 čvorova. Još danas na jugu područja SE 6-16 čvorova. More 2-3. Vidljivost 10-20 km. Promjenjivo oblačno, uglavnom još noćas ponegdje uz kišu ili pljuskove s grmljavinom.",
+    "SE 6-16, u početku do 22 čvora. Od sredine noći na sjeveru područja, a prijepodne i drugdje tiho ili vjetar promjenjivog smjera, a na otvorenom moru NW do 10 čvorova. More 2-3, na otvorenom noćas 3-4. Vidljivost 10-20 km. Promjenjivo oblačno, uglavnom još noćas ponegdje uz kišu ili pljuskove s grmljavinom."
   ],
   "croatia_forecast_text": []
 }
