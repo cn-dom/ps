@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-09T11:51:01.633Z",
+  "updated_at": "2026-11-10T11:25:30.329Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2437,15 +2437,93 @@
     },
     "02-18": {
       "date": "02-18",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1358,
+          "text": "U Zadru sklopljen glasoviti Zadarski mir između Mletačke Republike i ugarsko-hrvatskog kralja Ludovika I. Anžuvinca kojim su se Mlečani odrekli Dalmacije."
+        },
+        {
+          "year": 2008,
+          "text": "Afganistan postao prva država koja je priznala nezavisnost Kosova."
+        }
+      ]
     },
     "02-19": {
       "date": "02-19",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1291,
+          "text": "Potpisan sporazum iz Tarascona."
+        },
+        {
+          "year": 1594,
+          "text": "Sigismund III., kralj Poljsko-litavske Unije, okrunjen je za kralja Švedske."
+        },
+        {
+          "year": 1674,
+          "text": "Treći englesko-nizozemski rat završio je potpisivanjem Westminsterskog sporazuma."
+        },
+        {
+          "year": 1826,
+          "text": "Rodio se Matija Mesić, povjesničar i prvi rektor zagrebačkog sveučilišta."
+        },
+        {
+          "year": 1910,
+          "text": "Manchester United odigrao prvu utakmicu na Old Traffordu."
+        },
+        {
+          "year": 1935,
+          "text": "Sibinjske žrtve; u sibinjskom kraju režim Kraljevine Jugoslavije ubio hrvatske seljake."
+        },
+        {
+          "year": 1939,
+          "text": "Talijanske vojne jedinice u Adis Abebi počinile masakr u znak odmazde zbog neuspjelog atentata na potkralja maršala Grazianija."
+        },
+        {
+          "year": 1942,
+          "text": "Zračni napadi na Darwin, glavni grad Sjevernog Teritorija, Australija uništili su 242 bombardera i lovaca japanske carske mornarice."
+        },
+        {
+          "year": 1942,
+          "text": "Potpisana je U.S. Executive Order 9066, odobrivši premještaj i zatvaranje 112.000 japanskih Amerikanaca."
+        },
+        {
+          "year": 1945,
+          "text": "Započela bitka za Iwo Jimu."
+        },
+        {
+          "year": 1982,
+          "text": "Probni let Boeinga 757."
+        },
+        {
+          "year": 1986,
+          "text": "U okviru sovjetskog svemirskog programa lansirana je svemirska postaja Mir, prva dugoročna istraživačka postaja u svemiru."
+        },
+        {
+          "year": 1990,
+          "text": "osnovan Istarski demokratski sabor."
+        },
+        {
+          "year": 1996,
+          "text": "Institut za suvremenu povijest postao dio Hrvatskog instituta za povijest."
+        },
+        {
+          "year": 1999,
+          "text": "Posljednji koncert Animatora u klubu Kulušić."
+        },
+        {
+          "year": 2002,
+          "text": "Objavljen album Don't Worry About Me Joeyja Ramonea."
+        },
+        {
+          "year": 2020,
+          "text": "Zoran Milanović prisegnuo za Predsjednika Republike Hrvatske."
+        }
+      ]
     },
     "02-20": {
       "date": "02-20",
@@ -12305,6 +12383,14 @@
           "text": "Srušen Stari most u Mostaru STARI most granatiranjem je sru&#x161;ilo Hrvatsko vije&#x107;e obrane (HVO) 9. studenog 1993. godine. Pri napadu stradala je cijela stara jezgra u kojoj je bilo nekoliko monumentalnih d&#x17E;amija, medresa i jedini hamam u Hercegovini."
         },
         {
+          "year": 1880,
+          "text": "Razoran potres u Zagrebu U RANO jutro 9. studenoga 1880. godine Zagreb je pogodio jedan od najrazornijih potresa u njegovoj povijesti."
+        },
+        {
+          "year": 2000,
+          "text": "Hrvatska iz polupredsjedničkog prešla u parlamentarni sustav vlasti DANA 9. studenoga 2000. godine Hrvatski sabor donio je jednu od najva&#x17E;nijih ustavnih promjena u povijesti samostalne Hrvatske."
+        },
+        {
           "year": 1960,
           "text": "Bio je jedan od najboljih na svijetu. Danas bi bio još važniji i bolji igrač"
         },
@@ -12328,16 +12414,16 @@
           "text": "Bitka kod Varne"
         },
         {
-          "year": 2023,
-          "text": "U kina je stigao film The Marvels SUPERHEROJSKI film The Marvels (u Hrvatskoj distribuiran pod naslovom Marveli) u kinima se po&#x10D;eo prikazivati 10. studenoga 2023. godine kao nastavak filma Captain Marvel te kao svojevrsna to&#x10D;ka u kojoj se spajaju filmovi i serije Marvelovog filmskog svemira (MCU)."
-        },
-        {
           "year": 1202,
           "text": "Križari započinju opsadu Zadra NA DANA&#x160;NJI dan kri&#x17E;ari su napali kr&#x161;&#x107;anski grad Zadar."
         },
         {
           "year": 2018,
           "text": "Najluđi UFC prekid TOG DANA vi&#x111;en je najlu&#x111;i prekid u povijesti UFC-a."
+        },
+        {
+          "year": 2023,
+          "text": "U kina je stigao film The Marvels SUPERHEROJSKI film The Marvels (u Hrvatskoj distribuiran pod naslovom Marveli) u kinima se po&#x10D;eo prikazivati 10. studenoga 2023. godine kao nastavak filma Captain Marvel te kao svojevrsna to&#x10D;ka u kojoj se spajaju filmovi i serije Marvelovog filmskog svemira (MCU)."
         },
         {
           "year": 1991,
@@ -12356,12 +12442,12 @@
           "text": "Vodio je SSSR. U zadnjim danima života i vlasti donio je katastrofalnu odluku"
         },
         {
-          "year": 1977,
-          "text": "2009."
+          "year": 1923,
+          "text": "1935."
         },
         {
-          "year": 1919,
-          "text": "2013."
+          "year": 1977,
+          "text": "2009."
         },
         {
           "year": 1888,
@@ -13897,12 +13983,8 @@
           "text": "Island priznao Hrvatsku"
         },
         {
-          "year": 1906,
-          "text": "Vodio je SSSR. U zadnjim danima života i vlasti donio je katastrofalnu odluku"
-        },
-        {
-          "year": 1906,
-          "text": "1982."
+          "year": 1957,
+          "text": "Legenda hrvatskih korijena postala je važan dio slavne NBA dinastije"
         },
         {
           "year": 1957,
@@ -13911,6 +13993,10 @@
         {
           "year": 1966,
           "text": "Alberto Tomba"
+        },
+        {
+          "year": 1778,
+          "text": "1851."
         },
         {
           "year": 1442,
@@ -13948,16 +14034,16 @@
           "text": "U kina je stigao film Ratovi zvijezda: Uspon Skywalkera FILM Ratovi zvijezda: Uspon Skywalkera u kina je stigao 20. prosinca 2019. godine kao zavr&#x161;ni &#x10D;in tzv. trilogije sequela i slu&#x17E;beni kraj devetodijelne sage o Skywalkerima."
         },
         {
-          "year": 2009,
-          "text": "Bila je jedna od najvećih zvijezda 90-ih i 2000-ih, život joj je tragično okončan"
-        },
-        {
-          "year": 2009,
-          "text": "2009."
+          "year": 1968,
+          "text": "Pisao je o sirotinji i jadnicima s ruba društva. Jako je aktualan i danas"
         },
         {
           "year": 1968,
           "text": "1968."
+        },
+        {
+          "year": 2009,
+          "text": "2009."
         }
       ]
     },
@@ -14049,24 +14135,24 @@
           "text": "Premijera filma Dobar, loš, zao PREMIJERA filma Dobar, lo&#x161;, zao odr&#x17E;ana je 23. prosinca 1966. u Italiji, pod izvornim naslovom Il buono, il brutto, il cattivo."
         },
         {
-          "year": 2013,
-          "text": "Seljak koji je stvorio najpoznatije oružje ikad"
+          "year": 2022,
+          "text": "Od krađa i lošeg društva do jednog od najomiljenijih hrvatskih pjevača"
         },
         {
           "year": 1954,
           "text": "2000."
         },
         {
-          "year": 2013,
-          "text": "2013."
+          "year": 2022,
+          "text": "2022."
         },
         {
           "year": 1972,
           "text": "1972."
         },
         {
-          "year": 2022,
-          "text": "2022."
+          "year": 2013,
+          "text": "2013."
         }
       ]
     },
