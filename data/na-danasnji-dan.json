@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-10T11:25:30.329Z",
+  "updated_at": "2026-11-11T11:14:12.896Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -1724,54 +1724,9 @@
     },
     "02-03": {
       "date": "02-03",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1488,
-          "text": "Portugalac Bartolomeu Dias oplovio je Rt Dobre Nade na jugu Afrike i iskrcao se u zaljevu Mossel."
-        },
-        {
-          "year": 1509,
-          "text": "Bitka kod Diua završava portugalskom pomorskom pobjedom protiv gudžaratsko-egipatsko-osmansko-mletačko-dubrovačkog saveza."
-        },
-        {
-          "year": 1924,
-          "text": "Održana je prva utakmica u Hrvatskoj u hokeju na ledu prema „kanadskim pravilima“, a odigrali su je HAŠK i Zagrebačko klizačko društvo."
-        },
-        {
-          "year": 1959,
-          "text": "U zrakoplovnoj nesreći u blizini mjesta Clear Lake u Iowi poginula tri velikana rock'n'rolla: Buddy Holly, Ritchie Valens i Big Bopper, događaj poznat kao \"Dan kad je glazba umrla\"."
-        },
-        {
-          "year": 1967,
-          "text": "Izvršena posljednja smrtna kazna u Australiji."
-        },
-        {
-          "year": 1972,
-          "text": "Otvorene su prve zimske olimpijske igre u Aziji (Sapporo, Japan)."
-        },
-        {
-          "year": 1841,
-          "text": "Osnovano Hrvatsko-slavonsko gospodarsko društvo."
-        },
-        {
-          "year": 1998,
-          "text": "Tragedija u Cavaleseu (Italija) - NATO-ov vojni zrakoplov u niskom letu prekinuo kabele žičare i uzrokovao smrt 20 osoba u jednoj kabini žičare."
-        },
-        {
-          "year": 2009,
-          "text": "Pred Međunarodnim sudom pravde riješen spor oko granice na moru između Rumunjske i Ukrajine."
-        },
-        {
-          "year": 2015,
-          "text": "Međunarodni sud pravde u Haagu odbacio je tužbu Hrvatske protiv Srbije za genocid, kao i protutužbu Srbije protiv Hrvatske."
-        },
-        {
-          "year": 2017,
-          "text": "U Zagrebu je osnovan Veliki orijent Hrvatske"
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-04": {
       "date": "02-04",
@@ -2266,38 +2221,9 @@
     },
     "02-13": {
       "date": "02-13",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1358,
-          "text": "Potpisan Zadarski mir kojim je hrvatsko-ugarski kralj Ludovik I. Anžuvinac porazio Mletke i vratio Zadar pod svoje okrilje."
-        },
-        {
-          "year": 1880,
-          "text": "Thomas Edison promatrao je Edisonov učinak, koji je kasnije oblikovao osnovu dioda vakuumskih cijevi Johna Ambrosea Fleminga."
-        },
-        {
-          "year": 1881,
-          "text": "Hubertine Auclert, vođa francuskih sufražetkinja u Parizu, pokrenula je feminističke novine La Citoyenne."
-        },
-        {
-          "year": 1911,
-          "text": "Osnovan HNK Hajduk Split."
-        },
-        {
-          "year": 1945,
-          "text": "Saveznici su započeli s bombardiranjem Dresdena (grad na istoku Njemačke) u kojem je poginulo ljudi."
-        },
-        {
-          "year": 1970,
-          "text": "Švicarski pisac popularne fantastike Erich von Däniken osuđen je zbog prijevara na tri i pol godine zatvora."
-        },
-        {
-          "year": 2001,
-          "text": "potres u Salvadoru, 315 žrtava."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-14": {
       "date": "02-14",
@@ -2527,27 +2453,143 @@
     },
     "02-20": {
       "date": "02-20",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1935,
+          "text": "Vrbske žrtve; režim Kraljevine Jugoslavije mučki ubio hrvatske seljake iz Gornje Vrbe i Ruščiće u Slavonskom Brodu"
+        },
+        {
+          "year": 1951,
+          "text": "Meteorit težak 1,9 kg pao je u Molunatu, 40 km od Dubrovnika. Dobio je službeni naziv \"Dubrovnik\"."
+        },
+        {
+          "year": 1960,
+          "text": "The Rocking Kings sviraju s tada 17-godišnjim gitaristom Jamesom Marshallom Hendrixom (kasnije poznat kao Jimi), u njegovu rodnom gradu Seattleu u Washington Hallu. Jimi svira na svojoj prvoj gitari Supro Ozark."
+        },
+        {
+          "year": 1986,
+          "text": "Silvio Berlusconi kupio talijanski nogometni klub AC Milan"
+        }
+      ]
     },
     "02-21": {
       "date": "02-21",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1431,
+          "text": "Počelo suđenje Ivani Orleanskoj"
+        },
+        {
+          "year": 1437,
+          "text": "Umro škotski kralj James I."
+        },
+        {
+          "year": 1848,
+          "text": "Objavljen Komunistički manifest"
+        }
+      ]
     },
     "02-22": {
       "date": "02-22",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1288,
+          "text": "Nikola IV. postao papom"
+        },
+        {
+          "year": 1632,
+          "text": "Objavljen Galilejev Dijalog o dvama glavnim sustavima svijeta."
+        },
+        {
+          "year": 1819,
+          "text": "Adams-Onísovim sporazumom Španjolska prodala Floridu Sjedinjenim Državama za pet milijuna dolara."
+        },
+        {
+          "year": 1924,
+          "text": "Talijanska vlada donijela Dekret o aneksiji Rijeke Italiji."
+        },
+        {
+          "year": 1942,
+          "text": "Drugi svjetski rat: Predsjednik Franklin Delano Roosevelt naređuje generalu Douglasu MacArthuru povlačenje s Filipina zbog pada američke defenzive."
+        },
+        {
+          "year": 1980,
+          "text": "Sjedinjene Države porazile Sovjetski Savez u olimpijskom hokeju na ledu &ndash; nevjerojatna pobjeda nazvana Čudo na ledu."
+        },
+        {
+          "year": 1958,
+          "text": "Održana 15. dodjela \"Zlatnog globusa\"."
+        },
+        {
+          "year": 1987,
+          "text": "Papa Ivan Pavao II. objavio je encikliku Donum Vitae (hrv. Dar života) o biomedicinskim istraživanjima i reproduktivnim tehnikama. Poruka enciklike je poziv na zaštitu ljudskog života od trenutka začeća."
+        },
+        {
+          "year": 1991,
+          "text": "Hrvatski sabor donio je Rezoluciju o razdruživanju sa SFRJ i Rezoluciju o zaštiti ustavnog poretka Republike Hrvatske."
+        }
+      ]
     },
     "02-23": {
       "date": "02-23",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 303,
+          "text": "Rimski car Dioklecijan izdao edikt o kršćanima čime počinje njihov progon."
+        },
+        {
+          "year": 1267,
+          "text": "Nakon Zlatne bule za plemiće, kralj Bela IV. oslobodio je sve zagrebačke građane plaćanja tridesetine."
+        },
+        {
+          "year": 1875,
+          "text": "Johann Palisa u pulskoj zvjezdarnici otkrio asteroid 143 Adria."
+        },
+        {
+          "year": 1903,
+          "text": "Kuba je dala Zaljev Guantánamo u vječan najam Sjedinjenim Državama."
+        },
+        {
+          "year": 1944,
+          "text": "Staljin je izdao zapovijed da se svi Čečeni presele u Kazahstan. Velik dio od njih pola milijuna pritom je ubijen."
+        },
+        {
+          "year": 1945,
+          "text": "Joe Rosenthal je napravio fotografiju, koja je osvojila Pulitzerovu nagradu, Podizanje zastave na Iwo Jimi, slika koja je kasnije reproducirana kao U.S. Marine Corps War Memorial"
+        },
+        {
+          "year": 1947,
+          "text": "Osnovana je Međunarodna organizacija za standardizaciju, odgovorna za industrijske i komercijalne ISO standarde širom svijeta."
+        },
+        {
+          "year": 1956,
+          "text": "Norma Jeane Mortenson promijenila ime u Marilyn Monroe."
+        },
+        {
+          "year": 1981,
+          "text": "U Španjolskoj izveden pokušaj državnog udara."
+        },
+        {
+          "year": 1992,
+          "text": "Zatvorene zimske olimpijske igre u Albertvillu."
+        },
+        {
+          "year": 1998,
+          "text": "Objavljen prvi Madonnin singl Frozen"
+        },
+        {
+          "year": 2008,
+          "text": "Na pisti zračne luke u Guamu srušio se B-2 Spirit nadimka \"Spirit of Kansas\""
+        }
+      ]
     },
     "02-24": {
       "date": "02-24",
@@ -4035,12 +4077,12 @@
           "text": "1994."
         },
         {
-          "year": 1945,
-          "text": "1945."
-        },
-        {
           "year": 2022,
           "text": "2022."
+        },
+        {
+          "year": 1945,
+          "text": "1945."
         }
       ]
     },
@@ -6582,6 +6624,10 @@
         {
           "year": 2003,
           "text": "2003."
+        },
+        {
+          "year": 1969,
+          "text": "1969."
         }
       ]
     },
@@ -12469,16 +12515,16 @@
           "text": "Kraj Prvog svjetskog rata"
         },
         {
-          "year": 1994,
-          "text": "Premijerno prikazan Intervju s vampirom INTERVJU s vampirom (Interview with a Vampire) premijerno je prikazan 11. studenoga 1994. godine i vrlo brzo postao jedan od najprepoznatljivijih i najcitiranijih vampirskih filmova moderne kinematografije."
+          "year": 1923,
+          "text": "Uhićenje Adolfa Hitlera NA DANA&#x160;NJI dan uhi&#x107;en je Adolf Hitler u predgra&#x111;u Munchena. Policija ga je uhitila zbog pu&#x10D;a."
         },
         {
           "year": 1993,
           "text": "Povlačenje Draženovog broja DRA&#x17D;EN PETROVI&#x106; je za Netse tijekom dvije i pol sezone odigrao ukupno 204 utakmice u kojima je prosje&#x10D;no postizao 19.5 poena uz 2.9 asistencija i 2.7 skokova."
         },
         {
-          "year": 1923,
-          "text": "Uhićenje Adolfa Hitlera NA DANA&#x160;NJI dan uhi&#x107;en je Adolf Hitler u predgra&#x111;u Munchena. Policija ga je uhitila zbog pu&#x10D;a."
+          "year": 1994,
+          "text": "Premijerno prikazan Intervju s vampirom INTERVJU s vampirom (Interview with a Vampire) premijerno je prikazan 11. studenoga 1994. godine i vrlo brzo postao jedan od najprepoznatljivijih i najcitiranijih vampirskih filmova moderne kinematografije."
         },
         {
           "year": 2016,
@@ -12489,16 +12535,16 @@
           "text": "Dan samaca 11.11. je globalni Dan samaca nastao u Kini, slavi single status kao protute&#x17E;u Valentinovu, a zanimljivo je da &#x10D;ak 47% Hrvata &#x10D;ine samci."
         },
         {
-          "year": 1974,
-          "text": "Od dječje zvijezde do glumačke institucije: Život i karijera Leonarda DiCaprija"
-        },
-        {
-          "year": 1974,
-          "text": "Leonardo DiCaprio"
+          "year": 1821,
+          "text": "Bio je kockar, godine proveo zatvoren. A onda je postao jedan od najvećih pisaca ikad"
         },
         {
           "year": 1821,
           "text": "1881."
+        },
+        {
+          "year": 1974,
+          "text": "Leonardo DiCaprio"
         },
         {
           "year": 1901,
