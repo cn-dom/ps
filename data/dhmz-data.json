@@ -1,6 +1,6 @@
 {
   "source": "DHMZ",
-  "updated_at": "2026-11-13T01:51:49.122632+00:00",
+  "updated_at": "2026-11-13T11:05:25.092736+00:00",
   "warnings": [
     {
       "day": "today",
@@ -255,7 +255,7 @@
     {
       "day": "today",
       "event": "Žuto upozorenje za kišu",
-      "description": "Lokalno obilna kiša, posebice u višim predjelima.",
+      "description": "Lokalno obilna kiša, osobito u gorju. Lokalno moguće urbane i bujične poplave.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -605,7 +605,7 @@
     {
       "day": "today",
       "event": "Yellow rain warning",
-      "description": "Heavy rain locally, especially in highlands.",
+      "description": "Heavy rain locally, especially in highlands. Locally flash floods are possible.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -745,7 +745,7 @@
     {
       "day": "today",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Mjestimice jako jako jugo i jugozapadni vjetar, od večeri jaka bura. Najjači udari vjetra 35-45 čvorova  (65-85 km/h)",
+      "description": "Mjestimice jako jako jugo i jugozapadni vjetar, od večeri jaka bura. Najjači udari vjetra 35-50 čvorova  (65-95 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -755,7 +755,7 @@
     {
       "day": "today",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Jako jugo i južni vjetar. Najjači udari vjetra 35-50 čvorova  (65-95 km/h)",
+      "description": "Jako, prijepodne vrlo jako jugo i jugozapadni vjetar. Najjači udari vjetra 35-50 čvorova  (65-95 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -805,7 +805,7 @@
     {
       "day": "today",
       "event": "Yellow wind warning",
-      "description": "Locally strong and near gale SE and SW wind, from the evening strong NE wind. Maximum wind gusts 35-45 knots (65-85 km/h)",
+      "description": "Locally strong and near gale SE and SW wind, from the evening strong NE wind. Maximum wind gusts 35-50 knots (65-95 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -815,7 +815,7 @@
     {
       "day": "today",
       "event": "Yellow wind warning",
-      "description": "Strong SE and S wind. Maximum wind gusts 35-50 knot (65-95 km/h)",
+      "description": "Strong, before noon near gale SE and SW wind. Maximum wind gusts 35-50 knot (65-95 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -825,41 +825,61 @@
     {
       "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Jaka bura s olujnim udarima.",
+      "description": "Mjestimice jako jugo. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
-        "Primorsko-goranska"
+        "Srednja Dalmacija"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za vjetar",
+      "description": "Mjestimice jako jugo. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Južna Dalmacija"
       ]
     },
     {
       "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
-      "description": "Strong bura (NE wind) with gale force gusts.",
+      "description": "Locally strong SE wind. Maximum wind gusts 35-40 knot (65-75 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
-        "Primorsko-goranska"
+        "Middle Dalmatia region"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow wind warning",
+      "description": "Locally strong SE wind. Maximum wind gusts 35-40 knot (65-75 km/h)",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "South Dalmatia region"
       ]
     }
   ],
   "rainfall_text": [],
   "adriatic_text": [
-    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 12.11.2026. u 19 sati",
-    "Mjestimice udari juga i južnog vjetra 35-55, a od sredine noći jugozapadnog i južnog vjetra 35-45 čvorova. Poslijepodne na sjevernom Jadranu udari bure 35-55, podno Velebita do 80 čvorova. More ponegdje 5, na južnom i dijelu srednjeg Jadrana noćas i 6. Moguće su nevere.",
-    "Ciklona s frontalnim poremećajem premješta se preko sjevernog Jadrana na istok.",
+    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 13.11.2026. u 06 sati",
+    "Na srednjem i južnom Jadranu mjestimice udari južnog i jugozapadnog vjetra 35-55 čvorova. Prema sredini dana prvo na sjevernom Jadranu udari bure i sjevernog vjetra 35-60, podno Velebita do 80 čvorova. More ponegdje 5, na južnom i dijelu srednjeg Jadrana u početku i 6. Moguće su nevere.",
+    "Ciklona s frontalnim poremećajem premješta se preko Jadrana na istok.",
     "Vremenska prognoza za Jadran za prvih 12 sati",
-    "Jugo, na otvorenom moru i južni vjetar 18-38 čvorova. Od sredine noći jugozapadnjak 14-26, a na južnom Jadranu južni vjetar 16-32 čvora. More 3-4, na otvorenom i dijelu srednjeg Jadrana 4-5, a na južnom i dijelu srednjeg Jadrana 5-6. Vidljivost 5-15 km. Pretežno oblačno, povremeno uz kišu, a uglavnom na sjevernom Jadranu i izraženije pljuskove s grmljavinom.",
-    "Na južnom Jadranu umjeren do jak, u početku i olujan južni, a poslijepodne umjeren do jak jugozapadni vjetar. Drugdje umjeren do jak jugozapadnjak prijepodne u slabljenju, a od sredine dana na sjevernom Jadranu u okretanju na umjerenu do jaku, ponegdje i vrlo jaku, a podno Velebita i olujnu buru. More umjereno valovito i valovito, na južnom i dijelu srednjeg Jadrana i jače valovito. Pretežno oblačno, povremeno uz kišu, a uglavnom na sjevernom Jadranu i izraženije pljuskove s grmljavinom."
+    "Jugozapadni vjetar 10-20, na srednjem i južnom Jadranu do 28, a u početku na južnom i južni vjetar 16-36 čvorova. Prema sredini dana na sjevernom, a zatim i srednjem Jadranu bura i sjeverni vjetar 16-32, podno Velebita 22-44 čvora. More 3-4, ponegdje 5, a na južnom i dijelu srednjeg Jadrana u početku moguće i 6. Vidljivost 5-15 km. Promjenjivo oblačno, povremeno uz kišu i izraženije pljuskove s grmljavinom.",
+    "Umjerena do jaka, na sjevernom i dijelu srednjeg Jadrana mjestimice vrlo jaka bura i sjeverni vjetar, a podno Velebita olujna i jaka olujna bura. U prvom dijelu noći na južnom Jadranu umjeren do jak jugozapadni vjetar. More umjereno valovito i valovito, ponegdje i jače valovito. Promjenjivo oblačno, na srednjem i južnom Jadranu, a još danas i sjevernom povremeno uz kišu i izraženije pljuskove s grmljavinom."
   ],
   "sailors_text": [
-    "VREMENSKO IZVJEŠĆE, dan 12.11.2026 u 18:00 sati",
-    "Mjestimice udari SE i S vjetra 35-55, a od sredine noći SW i S vjetra 35-45 čvorova. Poslijepodne na sjevernom Jadranu udari NE vjetra 35-55, podno Velebita do 80 čvorova. More ponegdje 5, na južnom i dijelu srednjeg Jadrana noćas i 6. Moguće su nevere.",
-    "Ciklona s frontalnim poremećajem premješta se preko sjevernog Jadrana na istok.",
-    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 13.11.2026 u 18 sati",
-    "SE, na otvorenom moru i S 18-38 čvorova. Od sredine noći SW 14-26, prijepodne 6-16 čvorova. Od sredine dana na sjeveru područja, a prema večeri i drugdje NE 16-32, podno Velebita 22-44 čvora. More 3-4, na otvorenom i na jugu Istre noćas 4-5. Vidljivost 5-15 km. Pretežno oblačno, povremeno uz kišu i izraženije pljuskove s grmljavinom.",
-    "SE, na otvorenom moru i S 18-38 čvorova. Od sredine noći SW 14-26, prijepodne na sjeveru područja 6-16 čvorova. More 4-5, na otvorenom i jugu područja noćas 5-6, a uz obalu ujutro u slabljenju na 3-4. Vidljivost 5-15 km. Pretežno oblačno, povremeno uz kišu i izraženije pljuskove s grmljavinom.",
-    "SE, na otvorenom moru i S 18-38 čvorova. Od jutra S 16-32, a poslijepodne SW 12-24 čvora. More 5-6, ujutro u slabljenju na 4-5. Vidljivost 5-15 km. Pretežno oblačno, povremeno uz kišu i izraženije pljuskove s grmljavinom."
+    "VREMENSKO IZVJEŠĆE, dan 13.11.2026 u 06:00 sati",
+    "Na srednjem i južnom Jadranu mjestimice udari S i SW vjetra 35-55 čvorova. Prema sredini dana prvo na sjevernom Jadranu udari NE i N vjetra 35-60, podno Velebita do 80 čvorova. More ponegdje 5, na južnom i dijelu srednjeg Jadrana u početku i 6. Moguće su nevere.",
+    "Ciklona s frontalnim poremećajem premješta se preko Jadrana na istok.",
+    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 14.11.2026 u 06 sati",
+    "Vjetar SW 6-16, u početku do 20 čvorova. Prema sredini dana prvo na sjeveru područja vjetar NE 16-34, podno Velebita 22-44, u noći će oslabjeti na 12-26, podno Velebita do 38 čvorova. More 3-4, u početku i od sredine dana ponegdje 5. Vidljivost 5-15 km. Promjenjivo oblačno, danas povremeno uz kišu i izraženije pljuskove s grmljavinom.",
+    "Vjetar SW 14-28, prijepodne na sjeveru područja prolazno 6-16 čvorova. Od sredine dana prvo na sjeveru područja vjetar NE i N 12-24, na sjeveru područja do 32 čvora. More 3-4, na otvorenom i na jugu područja ponegdje 5, u početku moguće 6. Vidljivost 5-15 km. Promjenjivo oblačno, povremeno uz kišu i izraženije pljuskove s grmljavinom.",
+    "Vjetar S 16-36, prema sredini dana SW 14-26 čvorova. Sutra prvo na sjeveru područja vjetar NE i N 12-22 čvora. More 5-6, u slabljenju na 4-5, sutra 3-4. Vidljivost 5-15 km. Promjenjivo oblačno, povremeno uz kišu i izraženije pljuskove s grmljavinom."
   ],
   "croatia_forecast_text": []
 }
