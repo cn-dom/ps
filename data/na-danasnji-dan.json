@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-12T11:30:48.910Z",
+  "updated_at": "2026-11-13T11:15:44.995Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -1106,26 +1106,9 @@
     },
     "01-20": {
       "date": "01-20",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1885,
-          "text": "LaMarcus Adna Thompson je izumio prvi roller coaster."
-        },
-        {
-          "year": 1892,
-          "text": "U Springfieldu, u dvorani Gimnazije YMCA, održana je prva službena košarkaška utakmica. Prvi igrači bili su studenti gimnazije YMCA. Poslije se igra proširila na čitave SAD i Kanadu."
-        },
-        {
-          "year": 1942,
-          "text": "Na jezeru Wannsee nedaleko Berlina preko 30 njemačkih političara, visokih oficira vojske i SS-a sastali su se ne bi li \"konačno riješili \" židovsko pitanje. Sastanak je vodio Reinhard Heydrich političar, član Schutzstaffela i voditelj Sicherheitsdiensta. Na toj konferenciji dogovoreno je masovno uništenje Židova (Holokaust) u Europi."
-        },
-        {
-          "year": 1961,
-          "text": "J. F. Kennedy položio prisegu na mjesto predsjednika SAD-a i tako postao najmlađim predsjednikom do tada."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "01-21": {
       "date": "01-21",
@@ -2416,9 +2399,18 @@
     },
     "02-18": {
       "date": "02-18",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1358,
+          "text": "U Zadru sklopljen glasoviti Zadarski mir između Mletačke Republike i ugarsko-hrvatskog kralja Ludovika I. Anžuvinca kojim su se Mlečani odrekli Dalmacije."
+        },
+        {
+          "year": 2008,
+          "text": "Afganistan postao prva država koja je priznala nezavisnost Kosova."
+        }
+      ]
     },
     "02-19": {
       "date": "02-19",
@@ -5300,12 +5292,12 @@
           "text": "1984."
         },
         {
-          "year": 1946,
-          "text": "2020."
-        },
-        {
           "year": 1962,
           "text": "2024."
+        },
+        {
+          "year": 1946,
+          "text": "2020."
         },
         {
           "year": 1948,
@@ -8229,12 +8221,12 @@
           "text": "Stjepana Radića odlikovali su osebujan karakter i karizma pravog političara"
         },
         {
-          "year": 1881,
-          "text": "1954."
-        },
-        {
           "year": 1937,
           "text": "Dustin Hoffman"
+        },
+        {
+          "year": 1881,
+          "text": "1954."
         },
         {
           "year": 1928,
@@ -11709,12 +11701,12 @@
           "text": "Premijera filma \"Romeo i Julija\" SHAKESPEAREOVA pri&#x10D;a dobila je sasvim novo lice, ali zadr&#x17E;ala svoj tragi&#x10D;ni zavr&#x161;etak."
         },
         {
-          "year": 939,
-          "text": "Umro kralj Athelstan &#xC6;THELSTAN, sin Edwarda Starijeg i unuk slavnog Alfreda Velikog, smatra se prvim vladarom koji je ujedinio Englesku pod jednom krunom."
-        },
-        {
           "year": 2006,
           "text": "Počelo prikazivanje horora \"Slagalica strave III\" U BRITANSKIM kinima &#x10D;ak je pet gledatelja izgubilo svijest tijekom projekcija."
+        },
+        {
+          "year": 939,
+          "text": "Umro kralj Athelstan &#xC6;THELSTAN, sin Edwarda Starijeg i unuk slavnog Alfreda Velikog, smatra se prvim vladarom koji je ujedinio Englesku pod jednom krunom."
         },
         {
           "year": 1995,
@@ -11909,16 +11901,16 @@
           "text": "1975."
         },
         {
-          "year": 1851,
-          "text": "1851."
-        },
-        {
           "year": 1966,
           "text": "1966."
         },
         {
           "year": 1993,
           "text": "1993."
+        },
+        {
+          "year": 2020,
+          "text": "2020."
         }
       ]
     },
@@ -12444,12 +12436,12 @@
           "text": "Teroristički napadi u Parizu"
         },
         {
-          "year": 1981,
-          "text": "Performans Zagreb volim te! PERFORMANS Zagreb volim te koji je izveo Tomislav Gotovac 13. studenoga 1981. godine ostavio je dubok trag u povijesti hrvatske umjetnosti i postao simbolom ljubavi prema Zagrebu."
-        },
-        {
           "year": 1917,
           "text": "Osnivanje MEF-a u Zagrebu MEF ZAGREB osnovan je na dana&#x161;nji dan 1917. godine."
+        },
+        {
+          "year": 1981,
+          "text": "Performans Zagreb volim te! PERFORMANS Zagreb volim te koji je izveo Tomislav Gotovac 13. studenoga 1981. godine ostavio je dubok trag u povijesti hrvatske umjetnosti i postao simbolom ljubavi prema Zagrebu."
         },
         {
           "year": 1998,
@@ -12460,8 +12452,12 @@
           "text": "Potopljen britanski nosač aviona HMS Ark Royal HMS ARK Royal bio je jedan od najpoznatijih britanskih nosa&#x10D;a zrakoplova u prvim godinama Drugog svjetskog rata. Izgra&#x111;en u brodogradili&#x161;tu Cammell Laird u Birkenheadu, porinut je 1937., a u slu&#x17E;bu je u&#x161;ao sljede&#x107;e godine."
         },
         {
-          "year": 1986,
-          "text": "Donio je prvu pobjedu Ferrariju. Jedan od zadnjih trijumfa ostvario je u Opatiji"
+          "year": 1813,
+          "text": "Zovu ga crnogorskim Mažuranićem, od svoje zemlje napravio je modernu državu"
+        },
+        {
+          "year": 1813,
+          "text": "1851."
         },
         {
           "year": 1718,
@@ -12472,20 +12468,16 @@
           "text": "1906."
         },
         {
-          "year": 1813,
-          "text": "1851."
-        },
-        {
           "year": 1986,
           "text": "1986."
         },
         {
-          "year": 2020,
-          "text": "2020."
-        },
-        {
           "year": 1954,
           "text": "1954."
+        },
+        {
+          "year": 2020,
+          "text": "2020."
         }
       ]
     },
