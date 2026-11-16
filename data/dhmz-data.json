@@ -1,315 +1,65 @@
 {
   "source": "DHMZ",
-  "updated_at": "2026-11-15T22:52:38.403720+00:00",
+  "updated_at": "2026-11-16T06:36:51.122000+00:00",
   "warnings": [
     {
       "day": "today",
-      "event": "Žuto upozorenje za vjetar",
-      "description": "Jak vjetar s olujnim udarima, jugo u okretanju na jugozapadnjak.",
+      "event": "Žuto upozorenje za grmljavinsku oluju",
+      "description": "Mjestimice izraženiji pljuskovi praćeni grmljavinom.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
-        "Dubrovačko-neretvanska"
+        "Zadarska"
       ]
     },
     {
       "day": "today",
-      "event": "Yellow wind warning",
-      "description": "Strong wind with gale force gusts.",
+      "event": "Žuto upozorenje za grmljavinsku oluju",
+      "description": "Mjestimice izraženiji pljuskovi praćeni grmljavinom.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
-        "Dubrovačko-neretvanska"
+        "Šibensko-kninska"
       ]
     },
     {
       "day": "today",
-      "event": "Žuto upozorenje za vjetar",
-      "description": "Postoji manja mogućnost za jako jugo. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
+      "event": "Žuto upozorenje za grmljavinsku oluju",
+      "description": "Mjestimice izraženiji pljuskovi praćeni grmljavinom.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
-        "Srednja Dalmacija"
+        "Splitsko-dalmatinska"
       ]
     },
     {
       "day": "today",
-      "event": "Žuto upozorenje za vjetar",
-      "description": "Postoji manja mogućnost za jako jugo. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
+      "event": "Yellow thunderstorm warning",
+      "description": "Severe thundershowers locally.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
-        "Južna Dalmacija"
+        "Zadarska"
       ]
     },
     {
       "day": "today",
-      "event": "Yellow wind warning",
-      "description": "Small possibility for strong SE breeze. Maximum wind gusts 35-40 knots (65-75 km/h)",
+      "event": "Yellow thunderstorm warning",
+      "description": "Severe thundershowers locally.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
-        "Middle Dalmatia region"
+        "Šibensko-kninska"
       ]
     },
     {
       "day": "today",
-      "event": "Yellow wind warning",
-      "description": "Small possibility for strong SE breeze. Maximum wind gusts 35-40 knots (65-75 km/h)",
+      "event": "Yellow thunderstorm warning",
+      "description": "Severe thundershowers locally.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
-        "South Dalmatia region"
-      ]
-    },
-    {
-      "day": "today",
-      "event": "Zeleno upozorenje za vjetar",
-      "description": "Nema upozorenja!",
-      "severity": "Minor",
-      "urgency": "Future",
-      "areas": [
-        "Primorsko-goranska",
-        "Ličko-senjska",
-        "Zadarska",
-        "Šibensko-kninska",
-        "Splitsko-dalmatinska",
-        "Istarska",
-        "Dubrovačko-neretvanska",
-        "Grad Zagreb",
-        "Bjelovarsko-bilogorska",
-        "Virovitičko-podravska",
-        "Požeško-slavonska",
-        "Brodsko-posavska",
-        "Osječko-baranjska",
-        "Vukovarsko-srijemska",
-        "Karlovačka",
-        "Sisačko-moslavačka",
-        "Međimurska",
-        "Varaždinska",
-        "Koprivničko-križevačka",
-        "Krapinsko-zagorska",
-        "Zagrebačka"
-      ]
-    },
-    {
-      "day": "today",
-      "event": "Zeleno upozorenje za kišu",
-      "description": "Nema upozorenja!",
-      "severity": "Minor",
-      "urgency": "Future",
-      "areas": [
-        "Primorsko-goranska",
-        "Ličko-senjska",
-        "Zadarska",
-        "Šibensko-kninska",
-        "Splitsko-dalmatinska",
-        "Istarska",
-        "Dubrovačko-neretvanska",
-        "Grad Zagreb",
-        "Bjelovarsko-bilogorska",
-        "Virovitičko-podravska",
-        "Požeško-slavonska",
-        "Brodsko-posavska",
-        "Osječko-baranjska",
-        "Vukovarsko-srijemska",
-        "Karlovačka",
-        "Sisačko-moslavačka",
-        "Međimurska",
-        "Varaždinska",
-        "Koprivničko-križevačka",
-        "Krapinsko-zagorska",
-        "Zagrebačka"
-      ]
-    },
-    {
-      "day": "today",
-      "event": "Zeleno upozorenje za snijeg/poledicu",
-      "description": "Nema upozorenja!",
-      "severity": "Minor",
-      "urgency": "Future",
-      "areas": [
-        "Primorsko-goranska",
-        "Ličko-senjska",
-        "Zadarska",
-        "Šibensko-kninska",
-        "Splitsko-dalmatinska",
-        "Istarska",
-        "Dubrovačko-neretvanska",
-        "Grad Zagreb",
-        "Bjelovarsko-bilogorska",
-        "Virovitičko-podravska",
-        "Požeško-slavonska",
-        "Brodsko-posavska",
-        "Osječko-baranjska",
-        "Vukovarsko-srijemska",
-        "Karlovačka",
-        "Sisačko-moslavačka",
-        "Međimurska",
-        "Varaždinska",
-        "Koprivničko-križevačka",
-        "Krapinsko-zagorska",
-        "Zagrebačka"
-      ]
-    },
-    {
-      "day": "today",
-      "event": "Zeleno upozorenje za grmljavinsku oluju",
-      "description": "Nema upozorenja!",
-      "severity": "Minor",
-      "urgency": "Future",
-      "areas": [
-        "Primorsko-goranska",
-        "Ličko-senjska",
-        "Zadarska",
-        "Šibensko-kninska",
-        "Splitsko-dalmatinska",
-        "Istarska",
-        "Dubrovačko-neretvanska",
-        "Grad Zagreb",
-        "Bjelovarsko-bilogorska",
-        "Virovitičko-podravska",
-        "Požeško-slavonska",
-        "Brodsko-posavska",
-        "Osječko-baranjska",
-        "Vukovarsko-srijemska",
-        "Karlovačka",
-        "Sisačko-moslavačka",
-        "Međimurska",
-        "Varaždinska",
-        "Koprivničko-križevačka",
-        "Krapinsko-zagorska",
-        "Zagrebačka"
-      ]
-    },
-    {
-      "day": "today",
-      "event": "Zeleno upozorenje za maglu",
-      "description": "Nema upozorenja!",
-      "severity": "Minor",
-      "urgency": "Future",
-      "areas": [
-        "Primorsko-goranska",
-        "Ličko-senjska",
-        "Zadarska",
-        "Šibensko-kninska",
-        "Splitsko-dalmatinska",
-        "Istarska",
-        "Dubrovačko-neretvanska",
-        "Grad Zagreb",
-        "Bjelovarsko-bilogorska",
-        "Virovitičko-podravska",
-        "Požeško-slavonska",
-        "Brodsko-posavska",
-        "Osječko-baranjska",
-        "Vukovarsko-srijemska",
-        "Karlovačka",
-        "Sisačko-moslavačka",
-        "Međimurska",
-        "Varaždinska",
-        "Koprivničko-križevačka",
-        "Krapinsko-zagorska",
-        "Zagrebačka"
-      ]
-    },
-    {
-      "day": "today",
-      "event": "Zeleno upozorenje za hladnoću",
-      "description": "Nema upozorenja!",
-      "severity": "Minor",
-      "urgency": "Future",
-      "areas": [
-        "Primorsko-goranska",
-        "Ličko-senjska",
-        "Zadarska",
-        "Šibensko-kninska",
-        "Splitsko-dalmatinska",
-        "Istarska",
-        "Dubrovačko-neretvanska",
-        "Grad Zagreb",
-        "Bjelovarsko-bilogorska",
-        "Virovitičko-podravska",
-        "Požeško-slavonska",
-        "Brodsko-posavska",
-        "Osječko-baranjska",
-        "Vukovarsko-srijemska",
-        "Karlovačka",
-        "Sisačko-moslavačka",
-        "Međimurska",
-        "Varaždinska",
-        "Koprivničko-križevačka",
-        "Krapinsko-zagorska",
-        "Zagrebačka"
-      ]
-    },
-    {
-      "day": "today",
-      "event": "Zeleno upozorenje za vrućinu",
-      "description": "Nema upozorenja!",
-      "severity": "Minor",
-      "urgency": "Future",
-      "areas": [
-        "Primorsko-goranska",
-        "Ličko-senjska",
-        "Zadarska",
-        "Šibensko-kninska",
-        "Splitsko-dalmatinska",
-        "Istarska",
-        "Dubrovačko-neretvanska",
-        "Grad Zagreb",
-        "Bjelovarsko-bilogorska",
-        "Virovitičko-podravska",
-        "Požeško-slavonska",
-        "Brodsko-posavska",
-        "Osječko-baranjska",
-        "Vukovarsko-srijemska",
-        "Karlovačka",
-        "Sisačko-moslavačka",
-        "Međimurska",
-        "Varaždinska",
-        "Koprivničko-križevačka",
-        "Krapinsko-zagorska",
-        "Zagrebačka"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Žuto upozorenje za vjetar",
-      "description": "Jak vjetar s olujnim udarima.",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Varaždinska"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Žuto upozorenje za vjetar",
-      "description": "Jak vjetar s olujnim udarima.",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Koprivničko-križevačka"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Žuto upozorenje za vjetar",
-      "description": "Jak vjetar s olujnim udarima.",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Međimurska"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Žuto upozorenje za vjetar",
-      "description": "Jak vjetar s olujnim udarima.",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Bjelovarsko-bilogorska"
+        "Splitsko-dalmatinska"
       ]
     },
     {
@@ -334,38 +84,8 @@
     },
     {
       "day": "day_after_tomorrow",
-      "event": "Žuto upozorenje za kišu",
-      "description": "Lokalno obilna kiša.",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Primorsko-goranska"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
       "description": "Jak vjetar s olujnim udarima.",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Istarska"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Žuto upozorenje za vjetar",
-      "description": "Jak vjetar s olujnim udarima.",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Ličko-senjska"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Žuto upozorenje za kišu",
-      "description": "Lokalno obilna kiša.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -380,46 +100,6 @@
       "urgency": "Future",
       "areas": [
         "Zadarska"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Yellow wind warning",
-      "description": "Strong wind with gale force gusts.",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Varaždinska"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Yellow wind warning",
-      "description": "Strong wind with gale force gusts.",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Koprivničko-križevačka"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Yellow wind warning",
-      "description": "Strong wind with gale force gusts.",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Međimurska"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Yellow wind warning",
-      "description": "Strong wind with gale force gusts.",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Bjelovarsko-bilogorska"
       ]
     },
     {
@@ -444,38 +124,8 @@
     },
     {
       "day": "day_after_tomorrow",
-      "event": "Yellow rain warning",
-      "description": "Heavy rain locally.",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Primorsko-goranska"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
       "description": "Strong wind with gale force gusts.",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Istarska"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Yellow wind warning",
-      "description": "Strong wind with gale force gusts.",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Ličko-senjska"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Yellow rain warning",
-      "description": "Heavy rain locally.",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -495,47 +145,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Mjestimice jak jugozapadnivjetar. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Zapadna obala Istre"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Žuto upozorenje za vjetar",
-      "description": "Mjestimice jako jugo i jugozapadni vjetar. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Kvarner i Kvarnerić"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Žuto upozorenje za vjetar",
-      "description": "Mjestimice jako jugo i jugozapadni vjetar. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Velebitski kanal"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Žuto upozorenje za vjetar",
-      "description": "Mjestimice jako jugo. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Sjeverna Dalmacija"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Žuto upozorenje za vjetar",
-      "description": "Mjestimice jako jugo. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
+      "description": "Mjestimice jak jugozapadni vjetar. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -545,7 +155,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
-      "description": "Mjestimice jako jugo. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
+      "description": "Mjestimice jak jugozapadni vjetar. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -555,47 +165,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
-      "description": "Locally strong SW wind. Maximum wind gusts 35-40 knot (65-75 km/h)",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "West Istrian coast"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Yellow wind warning",
-      "description": "Locally strong SE and SW wind. Maximum wind gusts 35-40 knot (65-75 km/h)",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Kvarner i Kvarneric"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Yellow wind warning",
-      "description": "Locally strong SE and SW wind. Maximum wind gusts 35-40 knot (65-75 km/h)",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "Velebit channel"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Yellow wind warning",
-      "description": "Locally strong SE wind. Maximum wind gusts 35-40 knots (65-75 km/h)",
-      "severity": "Moderate",
-      "urgency": "Future",
-      "areas": [
-        "North Dalmatia region"
-      ]
-    },
-    {
-      "day": "day_after_tomorrow",
-      "event": "Yellow wind warning",
-      "description": "Locally strong SE wind. Maximum wind gusts 35-40 knots (65-75 km/h)",
+      "description": "Mjestimice jak jugozapadni vjetar. Maximum wind gusts 35-40 knot (65-75 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -605,7 +175,7 @@
     {
       "day": "day_after_tomorrow",
       "event": "Yellow wind warning",
-      "description": "Locally strong SE wind. Maximum wind gusts 35-40 knots (65-75 km/h)",
+      "description": "Mjestimice jak jugozapadni vjetar. Maximum wind gusts 35-40 knot (65-75 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
       "areas": [
@@ -615,21 +185,21 @@
   ],
   "rainfall_text": [],
   "adriatic_text": [
-    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 15.11.2026. u 19 sati",
-    "U početku i ponovno od jutra mjestimice udari juga i jugozapadnog vjetra 35-40 čvorova. Moguće su nevere.",
-    "Plitka ciklona se premješta preko Jadrana dalje na istok, dok se očekuje približavanje doline sa zapada.",
+    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 16.11.2026. u 06 sati",
+    "Još u početku na srednjem, a do kraja dana i na južnom Jadranu mjestimice udari juga i jugozapadnog vjetra 35-40 čvorova. Mjestimice nevere.",
+    "Preko Jadrana očekuje se premještanje doline s frontalnim poremećajem.",
     "Vremenska prognoza za Jadran za prvih 12 sati",
-    "Tiho ili sjeverozapadni i jugozapadni vjetar 4-12, u početku na srednjem Jadranu do 16 čvorova. U početku na južnom i dijelu srednjeg Jadrana, a od jutra posvuda jugo i jugozapadni vjetar 12-22 čvora. More 2-3, na južnom, a u početku i srednjem Jadranu ponegdje 4. Vidljivost 5-15 km. Promjenjivo oblačno, mjestimice uz kišu, a mogući su i pljuskovi i grmljavina, uglavnom na južnom Jadranu.",
-    "Umjereno do pojačano, mjestimice jako jugo i jugozapadni vjetar, poslijepodne će malo oslabjeti. Na krajnjem sjeveru, a poslijepodne i na ostatku sjevernog Jadrana slab do umjeren sjeverozapadni vjetar. More malo do umjereno valovito, na južnom Jadranu ponegdje i valovito. Promjenjivo oblačno, mjestimice uz kišu, a mogući su i pljuskovi i grmljavina."
+    "Jugo i jugozapadni vjetar 10-20, u početku na srednjem, do kraja dana i na južnom Jadranu ponegdje do 24 čvora. Na krajnjem sjeveru, poslijepodne i na ostatku sjevernog, a zatim i srednjeg Jadrana vjetar u okretanju na sjeverozapadni 6-16 čvorova. More 2-3, ponegdje 4. Vidljivost 5-15 km. Promjenjivo oblačno, mjestimice kiša, a mogući su i pljuskovi s grmljavinom.",
+    "Slab, ponegdje umjeren sjeverozapadni vjetar. Na južnom Jadranu slabo do umjereno, još u početku pojačano jugo i jugozapadni vjetar. Sutra na sjevernom i srednjem Jadranu slabo do umjereno, na sjevernom Jadranu pojačano jugo i jugozapadni vjetar. More malo do umjereno valovito, na južnom Jadranu i valovito. Promjenjivo oblačno, mjestimice kiša, a mogući su i pljuskovi s grmljavinom."
   ],
   "sailors_text": [
-    "VREMENSKO IZVJEŠĆE, dan 15.11.2026 u 18:00 sati",
-    "U početku i ponovno od jutra mjestimice udari SE i SW vjetra 35-40 čvorova. Moguće su nevere.",
-    "Plitka ciklona se premješta preko Jadrana dalje na istok, dok se očekuje približavanje doline sa zapada.",
-    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 16.11.2026 u 18 sati",
-    "Tiho ili vjetar NW 4-12 čvorova. Sutra SE i SW vjetar u jačanju na 12-24 čvora, na sjeveru područja, a poslijepodne i drugdje NW 6-16 čvorova. More 2-3. Vidljivost 10-20 km. Promjenjivo oblačno, uglavnom sutra mjestimice uz kišu, a mogući su i pljuskovi i grmljavina.",
-    "Vjetar NW 6-16, oslabjet će na 4-12 čvorova. U početku i ponovno sutra SE i SW vjetar 12-22 čvora, poslijepodne 6-16 čvorova. More 2-3, u početku ponegdje 4. Vidljivost 5-15 km. Promjenjivo oblačno, uglavnom u početku i ponovno od jutra mjestimice uz kišu, a mogući su i pljuskovi i grmljavina.",
-    "Vjetar SE i SW 4-14, u početku i ponovno sutra 12-24 čvora. More 2-3, ponegdje 4. Vidljivost 5-15 km. Promjenjivo oblačno, mjestimice uz kišu, a mogući su i pljuskovi i grmljavina."
+    "VREMENSKO IZVJEŠĆE, dan 16.11.2026 u 06:00 sati",
+    "Još u početku na srednjem, a do kraja dana i na južnom Jadranu mjestimice udari SE i SW vjetra 35-40 čvorova. Mjestimice nevere.",
+    "Preko Jadrana očekuje se premještanje doline s frontalnim poremećajem.",
+    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 17.11.2026 u 06 sati",
+    "Vjetar SE i SW 10-20 čvora. Na sjeveru područja, poslijepodne i drugdje, vjetar NW 6-16, prema kraju dana i u noći 4-10 čvorova. Sutra vjetar SE i SW postupno u jačanju na 10-20 čvorova. More 2-3, prijepodne moguće 4. Vidljivost 5-15 km. Promjenjivo oblačno, mjestimice kiša, a mogući su i pljuskovi s grmljavinom.",
+    "Vjetar SE i SW 10-20, još u početku ponegdje do 24 čvora. Sredinom dana na sjeveru područja, zatim i drugdje, vjetar NW 6-16, u noći 4-10 čvorova. Sutra vjetar SE i SW 6-16 čvorova. More 2-3, prijepodne moguće 4. Vidljivost 5-15 km. Promjenjivo oblačno, mjestimice kiša, a mogući su i pljuskovi s grmljavinom.",
+    "Vjetar SE i SW 10-20, ponegdje do 24 čvora, u noći u slabljenju i okretanju na NW 6-16 čvorova. More 2-3, ponegdje 4. Vidljivost 5-15 km. Promjenjivo oblačno, mjestimice kiša, a mogući su i pljuskovi s grmljavinom."
   ],
   "croatia_forecast_text": []
 }
