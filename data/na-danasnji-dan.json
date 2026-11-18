@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-17T12:07:04.034Z",
+  "updated_at": "2026-11-18T11:57:20.327Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2077,62 +2077,9 @@
     },
     "02-10": {
       "date": "02-10",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1258,
-          "text": "Mongoli opustošili Bagdad"
-        },
-        {
-          "year": 1763,
-          "text": "Britanija i Španjolska Pariškim mirom podijelile su Novu Francusku, dokrajčivši francusko kolonijalno carstvo"
-        },
-        {
-          "year": 1798,
-          "text": "Najstariji službeni spis koji spominje Sinjsku alku"
-        },
-        {
-          "year": 1840,
-          "text": "Engleska kraljica Viktorija udala se za princ Alberta"
-        },
-        {
-          "year": 1842,
-          "text": "Osnovana je Matica ilirska (kasnije hrvatska)"
-        },
-        {
-          "year": 1908,
-          "text": "Porinut HMS Dreadnought"
-        },
-        {
-          "year": 1941,
-          "text": "objavljen prvi svezak Hrvatske enciklopedije."
-        },
-        {
-          "year": 1947,
-          "text": "U Parizu je Mirovnim ugovorom između FNRJ i Italije, 175 km 2 međunarodno pravno pripalo Jugoslaviji, odnosno Hrvatskoj. Pariškim je ugovorom Istra i dio Slovenije, u međuratnom periodu u sastavu Italije, pripojen Jugoslaviji, zapravo republikama Hrvatskoj i Sloveniji."
-        },
-        {
-          "year": 1968,
-          "text": "Prvi let Boeinga 737"
-        },
-        {
-          "year": 1992,
-          "text": "Velikosrbi poduzeli pješački napad na Vinkovce."
-        },
-        {
-          "year": 1996,
-          "text": "Ostvarena prva pobjeda jednog računala nad trenutnim svjetskim prvakom; Deep Blue pobijedio Garija Kasparova"
-        },
-        {
-          "year": 2006,
-          "text": "Otvorene su XX. Zimske olimpijske igre u Torinu, na kojima je Hrvatsku zastavu nosila Janica Kostelić."
-        },
-        {
-          "year": 2007,
-          "text": "U Springfieldu u američkoj saveznoj državi Illinois godine Barack Obama najavio je svoju kandidaturu za predsjednika SAD-a"
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-11": {
       "date": "02-11",
@@ -2360,26 +2307,9 @@
     },
     "02-15": {
       "date": "02-15",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1573,
-          "text": "U Zagrebu je pogubljen Ambroz Gubec, vođa seljačke bune."
-        },
-        {
-          "year": 1942,
-          "text": "U snažnom vojnom udaru Japanci su osvojili Singapur, nakon čega je zarobljeno više od 80 000 indijskih, australskih i britanskih vojnika."
-        },
-        {
-          "year": 1991,
-          "text": "Osnovana je 164. brigada HV, Starigrad iz sastava 112. brigade"
-        },
-        {
-          "year": 1997,
-          "text": "Osnovan Hrvatski auto i karting savez, nakon razdvajanja Hrvatskog auto i moto športskog saveza (HAMŠS) na Hrvatski auto i karting savez i Hrvatski motociklistički savez."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-16": {
       "date": "02-16",
@@ -2527,26 +2457,9 @@
     },
     "02-20": {
       "date": "02-20",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1935,
-          "text": "Vrbske žrtve; režim Kraljevine Jugoslavije mučki ubio hrvatske seljake iz Gornje Vrbe i Ruščiće u Slavonskom Brodu"
-        },
-        {
-          "year": 1951,
-          "text": "Meteorit težak 1,9 kg pao je u Molunatu, 40 km od Dubrovnika. Dobio je službeni naziv \"Dubrovnik\"."
-        },
-        {
-          "year": 1960,
-          "text": "The Rocking Kings sviraju s tada 17-godišnjim gitaristom Jamesom Marshallom Hendrixom (kasnije poznat kao Jimi), u njegovu rodnom gradu Seattleu u Washington Hallu. Jimi svira na svojoj prvoj gitari Supro Ozark."
-        },
-        {
-          "year": 1986,
-          "text": "Silvio Berlusconi kupio talijanski nogometni klub AC Milan"
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-21": {
       "date": "02-21",
@@ -4016,36 +3929,48 @@
     },
     "05-01": {
       "date": "05-01",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
+      "source": "Index Kalendar",
+      "source_url": "https://www.index.hr/kalendar?datum=0105",
       "events": [
         {
-          "year": 1786,
-          "text": "Mozartova opera Figarov pir praizvedena je u Beču."
-        },
-        {
-          "year": 1865,
-          "text": "Bartolomé Mitre, predsjednik Argentine, organizirao savez između Argentine i Urugvaja, koji je zajednički objavio rat Paragvaju."
+          "year": 1995,
+          "text": "Operacija Bljesak"
         },
         {
           "year": 1886,
-          "text": "početak općeg štrajka u Chicagu."
+          "text": "Ustanak u Haymarketu DOGA&#x110;AJI u Chicagu iz 1886. godine danas se obilje&#x17E;avaju kroz Me&#x111;unarodni praznik rada."
         },
         {
-          "year": 1940,
-          "text": "Rudolf Höss imenovan zapovjednikom sabirnog logora Auschwitz."
+          "year": 2000,
+          "text": "U kinima je zaradio 450 milijuna dolara, a Russellu Croweu donio Oscara 1. SVIBNJA obilje&#x17E;avamo premijeru Gladijatora, monumentalnog povijesnog epa koji je 2000. godine osvojio svijet."
         },
         {
-          "year": 1960,
-          "text": "džez-pjevačica Peggy Lee u časopisu The New York Daily Newsu tvrdi: \"Rock and roll blijedi.\"."
+          "year": 1994,
+          "text": "Otišao je prerano, ali ostao je jedan od najomiljenijih sportaša svih vremena"
         },
         {
-          "year": 2004,
-          "text": "Cipar, Češka, Estonija, Latvija, Litva, Mađarska, Malta, Poljska, Slovačka i Slovenija se pridružile Europskoj uniji."
+          "year": 1927,
+          "text": "1983."
         },
         {
-          "year": 1995,
-          "text": "počela operacija Bljesak, u kojoj je u dva dana Hrvatska vojska oslobodila okupirani dio Zapadne Slavonije."
+          "year": 1864,
+          "text": "1948."
+        },
+        {
+          "year": 1872,
+          "text": "1918."
+        },
+        {
+          "year": 1994,
+          "text": "1994."
+        },
+        {
+          "year": 2022,
+          "text": "2022."
+        },
+        {
+          "year": 1945,
+          "text": "1945."
         }
       ]
     },
@@ -4102,95 +4027,71 @@
     },
     "05-03": {
       "date": "05-03",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
+      "source": "Index Kalendar",
+      "source_url": "https://www.index.hr/kalendar?datum=0305",
       "events": [
         {
+          "year": 1270,
+          "text": "Umro Bela IV"
+        },
+        {
+          "year": 2002,
+          "text": "U kinima se počeo prikazivati film Spider-Man 3. SVIBNJA 2002. godine u kinima se po&#x10D;eo prikazivati hvaljeni blockbuster Sama Raimija."
+        },
+        {
+          "year": 1978,
+          "text": "Poslan prvi spam POJAVOM elektroni&#x10D;ke komunikacije do&#x161;le su nove mogu&#x107;nosti, ali i izazovi."
+        },
+        {
           "year": 1481,
-          "text": "Bajazid II. postaje sultan poslije smrti oca Mehmeda II."
+          "text": "Muslimanski vođa uništio je moćno euoropsko carstvo. Bio je strah i trepet u Europi"
         },
         {
-          "year": 1791,
-          "text": "Veliki Sejm Poljsko-Litavske Unije proglasio Trećesvibanjski Ustav, prvi u Europi i drugi u svijetu (iza američkoga)."
+          "year": 1921,
+          "text": "1989."
         },
         {
-          "year": 1822,
-          "text": "Paulina Jaricot utemeljuje u Lyonu Djelo za širenje vjere."
-        },
-        {
-          "year": 1919,
-          "text": "Kraj Bavarske sovjetske republike u Münchenu."
-        },
-        {
-          "year": 1945,
-          "text": "Dan oslobođenja Rijeke od talijanske fašističke vlasti."
-        },
-        {
-          "year": 1968,
-          "text": "Nakon upada policije u Sorbonu, počinju neredi u pariškoj Latinskoj četvrti, koji prerastaju u revoluciju svibnja 1968."
-        },
-        {
-          "year": 1992,
-          "text": "U napadima na Slavonski Brod i u eksplozijama topničkih ili minobacačkih granata ispaljenih iz Bosne i od bombi izbačenih iz zrakoplova koji su uzletjeli sa zračnih luka u Srbiji i Bosni, poginulo je 16 osoba, od toga šestero djece, ranjeno je 60 osoba, od toga 30 teško. Samo u 1992. godini u Slavonskom Brodu poginulo je dvadesetsedmero djece."
-        },
-        {
-          "year": 2019,
-          "text": "Svečano otvoren obnovljeni Franjevački muzej u Vukovaru."
+          "year": 1481,
+          "text": "1481."
         },
         {
           "year": 2023,
-          "text": "U pucnjavi u osnovnoj školi u Beogradu smrtno stradalo osmero djece i jedna odrasla osoba."
+          "text": "2023."
         }
       ]
     },
     "05-04": {
       "date": "05-04",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
+      "source": "Index Kalendar",
+      "source_url": "https://www.index.hr/kalendar?datum=0405",
       "events": [
         {
-          "year": 374,
-          "text": "Atlatl Cauac zasjeo na prijestolje Teotihuacana."
+          "year": 2012,
+          "text": "U kinima se počeo prikazivati film Osvetnici"
         },
         {
-          "year": 1624,
-          "text": "Nizozemski kolonijalist Peter Minuit kupio je Manhattan od Indijanaca Algonquina za 24 dolara."
+          "year": 2001,
+          "text": "U kina je stigao film Povratak mumije PRIJE NEGO &#x161;to je postao jedan od najpoznatijih glumaca dana&#x161;njice, Dwayne Johnson bio je zvijezda WWE-a."
         },
         {
-          "year": 1924,
-          "text": "Otvorene ljetne olimpijske igre u Parizu."
+          "year": 1977,
+          "text": "Dan Ratova zvijezda DAVNO, u dalekoj galaksiji..."
         },
         {
-          "year": 1945,
-          "text": "Drugi svjetski rat: britanske snage oslobodile sabirni logor Neuengamme."
+          "year": 1929,
+          "text": "Bila je velika glumica, a ogroman dio života borila se za siromašne"
         },
         {
-          "year": 1949,
-          "text": "U zrakoplovnoj nesreći poginula je čitava momčad nogometnog kluba Torina izuzev dva igrača koji nisu prisustvovali letu."
-        },
-        {
-          "year": 1953,
-          "text": "Ernest Hemingway osvojio Pulitzerovu nagradu za djelo \"Starac i more\"."
-        },
-        {
-          "year": 1979,
-          "text": "Margaret Thatcher postala je prva premijerka Velike Britanije."
+          "year": 1929,
+          "text": "1993."
         },
         {
           "year": 1980,
-          "text": "preminuo Josip Broz Tito, čelnik partizanskog pokreta i bivši predsjednik SFRJ."
+          "text": "1980."
         },
         {
-          "year": 1990,
-          "text": "Latvija je proglasila neovisnost od Sovjetskog Saveza."
-        },
-        {
-          "year": 2000,
-          "text": "Ken Livingstone postao prvi londonski gradonačelnik."
-        },
-        {
-          "year": 2024,
-          "text": "Luka Modrić postao najstarijim i najtrofejnijim igračem Real Madrida, prestigavši tako Ferenca Puškaša. [https://sportske.jutarnji.hr/sn/nogomet/primera/video-modric-kralj-madrida-maestro-sjajnim-dodavanjima-vodio-real-do-pobjede-ispisao-povijest-i-pobrao-ovacije-15457248 VIDEO Modrić kralj Madrida: Maestro sjajnim dodavanjima vodio Real do pobjede, ispisao povijest i pobrao ovacije] [https://www.tportal.hr/sport/clanak/cetiri-kola-prije-kraja-real-madrid-je-prvak-spanjolske-girona-sredila-barcelonu-20240504| Četiri kola prije kraja Real je prvak Španjolske, a Modrić uzeo rekordni trofej!]"
+          "year": 1919,
+          "text": "1919."
         }
       ]
     },
@@ -6207,8 +6108,8 @@
           "text": "1897."
         },
         {
-          "year": 1986,
-          "text": "1986."
+          "year": 2020,
+          "text": "2020."
         }
       ]
     },
@@ -12774,6 +12675,10 @@
         {
           "year": 2006,
           "text": "2006."
+        },
+        {
+          "year": 1796,
+          "text": "1796."
         }
       ]
     },
