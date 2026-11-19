@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-18T11:57:20.327Z",
+  "updated_at": "2026-11-19T11:54:17.792Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2077,9 +2077,62 @@
     },
     "02-10": {
       "date": "02-10",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1258,
+          "text": "Mongoli opustošili Bagdad"
+        },
+        {
+          "year": 1763,
+          "text": "Britanija i Španjolska Pariškim mirom podijelile su Novu Francusku, dokrajčivši francusko kolonijalno carstvo"
+        },
+        {
+          "year": 1798,
+          "text": "Najstariji službeni spis koji spominje Sinjsku alku"
+        },
+        {
+          "year": 1840,
+          "text": "Engleska kraljica Viktorija udala se za princ Alberta"
+        },
+        {
+          "year": 1842,
+          "text": "Osnovana je Matica ilirska (kasnije hrvatska)"
+        },
+        {
+          "year": 1908,
+          "text": "Porinut HMS Dreadnought"
+        },
+        {
+          "year": 1941,
+          "text": "objavljen prvi svezak Hrvatske enciklopedije."
+        },
+        {
+          "year": 1947,
+          "text": "U Parizu je Mirovnim ugovorom između FNRJ i Italije, 175 km 2 međunarodno pravno pripalo Jugoslaviji, odnosno Hrvatskoj. Pariškim je ugovorom Istra i dio Slovenije, u međuratnom periodu u sastavu Italije, pripojen Jugoslaviji, zapravo republikama Hrvatskoj i Sloveniji."
+        },
+        {
+          "year": 1968,
+          "text": "Prvi let Boeinga 737"
+        },
+        {
+          "year": 1992,
+          "text": "Velikosrbi poduzeli pješački napad na Vinkovce."
+        },
+        {
+          "year": 1996,
+          "text": "Ostvarena prva pobjeda jednog računala nad trenutnim svjetskim prvakom; Deep Blue pobijedio Garija Kasparova"
+        },
+        {
+          "year": 2006,
+          "text": "Otvorene su XX. Zimske olimpijske igre u Torinu, na kojima je Hrvatsku zastavu nosila Janica Kostelić."
+        },
+        {
+          "year": 2007,
+          "text": "U Springfieldu u američkoj saveznoj državi Illinois godine Barack Obama najavio je svoju kandidaturu za predsjednika SAD-a"
+        }
+      ]
     },
     "02-11": {
       "date": "02-11",
@@ -2307,9 +2360,26 @@
     },
     "02-15": {
       "date": "02-15",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1573,
+          "text": "U Zagrebu je pogubljen Ambroz Gubec, vođa seljačke bune."
+        },
+        {
+          "year": 1942,
+          "text": "U snažnom vojnom udaru Japanci su osvojili Singapur, nakon čega je zarobljeno više od 80 000 indijskih, australskih i britanskih vojnika."
+        },
+        {
+          "year": 1991,
+          "text": "Osnovana je 164. brigada HV, Starigrad iz sastava 112. brigade"
+        },
+        {
+          "year": 1997,
+          "text": "Osnovan Hrvatski auto i karting savez, nakon razdvajanja Hrvatskog auto i moto športskog saveza (HAMŠS) na Hrvatski auto i karting savez i Hrvatski motociklistički savez."
+        }
+      ]
     },
     "02-16": {
       "date": "02-16",
@@ -2382,78 +2452,9 @@
     },
     "02-19": {
       "date": "02-19",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1291,
-          "text": "Potpisan sporazum iz Tarascona."
-        },
-        {
-          "year": 1594,
-          "text": "Sigismund III., kralj Poljsko-litavske Unije, okrunjen je za kralja Švedske."
-        },
-        {
-          "year": 1674,
-          "text": "Treći englesko-nizozemski rat završio je potpisivanjem Westminsterskog sporazuma."
-        },
-        {
-          "year": 1826,
-          "text": "Rodio se Matija Mesić, povjesničar i prvi rektor zagrebačkog sveučilišta."
-        },
-        {
-          "year": 1910,
-          "text": "Manchester United odigrao prvu utakmicu na Old Traffordu."
-        },
-        {
-          "year": 1935,
-          "text": "Sibinjske žrtve; u sibinjskom kraju režim Kraljevine Jugoslavije ubio hrvatske seljake."
-        },
-        {
-          "year": 1939,
-          "text": "Talijanske vojne jedinice u Adis Abebi počinile masakr u znak odmazde zbog neuspjelog atentata na potkralja maršala Grazianija."
-        },
-        {
-          "year": 1942,
-          "text": "Zračni napadi na Darwin, glavni grad Sjevernog Teritorija, Australija uništili su 242 bombardera i lovaca japanske carske mornarice."
-        },
-        {
-          "year": 1942,
-          "text": "Potpisana je U.S. Executive Order 9066, odobrivši premještaj i zatvaranje 112.000 japanskih Amerikanaca."
-        },
-        {
-          "year": 1945,
-          "text": "Započela bitka za Iwo Jimu."
-        },
-        {
-          "year": 1982,
-          "text": "Probni let Boeinga 757."
-        },
-        {
-          "year": 1986,
-          "text": "U okviru sovjetskog svemirskog programa lansirana je svemirska postaja Mir, prva dugoročna istraživačka postaja u svemiru."
-        },
-        {
-          "year": 1990,
-          "text": "osnovan Istarski demokratski sabor."
-        },
-        {
-          "year": 1996,
-          "text": "Institut za suvremenu povijest postao dio Hrvatskog instituta za povijest."
-        },
-        {
-          "year": 1999,
-          "text": "Posljednji koncert Animatora u klubu Kulušić."
-        },
-        {
-          "year": 2002,
-          "text": "Objavljen album Don't Worry About Me Joeyja Ramonea."
-        },
-        {
-          "year": 2020,
-          "text": "Zoran Milanović prisegnuo za Predsjednika Republike Hrvatske."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-20": {
       "date": "02-20",
@@ -6556,36 +6557,72 @@
     },
     "07-01": {
       "date": "07-01",
-      "source": "Index Kalendar",
-      "source_url": "https://www.index.hr/kalendar?datum=0107",
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
       "events": [
         {
-          "year": 1863,
-          "text": "Počela Bitka kod Gettysburga"
+          "year": 69,
+          "text": "Trupe u Egiptu proglasile Vespazijana devetim Rimskim carem"
         },
         {
-          "year": 1916,
-          "text": "Počela Bitka na Sommi PRVOG srpnja 1916. savezni&#x10D;ke snage pokrenule su veliku ofenzivu na rijeci Sommi u sjevernoj Francuskoj."
+          "year": 1661,
+          "text": "Zaključen Kardiški mir, čime je okončan rusko-švedski rat"
         },
         {
-          "year": 2013,
-          "text": "Hrvatska ulazi u EU PRIJE to&#x10D;no 11 godina Hrvatska je postala &#x10D;lanica Europske unije i tako zavr&#x161;ila proces pridru&#x17E;ivanju suvremenim internacionalnim organizacijama."
+          "year": 1745,
+          "text": "Marija Terezija raspustila Vojnu krajinu. Stjepan Beretić, [http://zvonik.rs/arhiva/183/povijesni.html Povijesni kutak - Razvojačenje u Somboru] , Zvonik, br. 183"
+        },
+        {
+          "year": 1861,
+          "text": "Utemeljen list \"L'Osservatore Romano\""
+        },
+        {
+          "year": 1921,
+          "text": "Osnovana je Komunistička partija Kine"
+        },
+        {
+          "year": 1934,
+          "text": "Noć dugih noževa ubijen je vođa SA snaga Ernst Röhm"
+        },
+        {
+          "year": 1953,
+          "text": "Utemeljen list \"Moj pas\""
+        },
+        {
+          "year": 1959,
+          "text": "Izašao prvi broj hrvatskih novina Večernji list."
+        },
+        {
+          "year": 1980,
+          "text": "O Canada službeno je postala nacionalna himna Kanade"
         },
         {
           "year": 1997,
-          "text": "Predaja Hong Konga HONG Kong va&#x17E;no je gospodarsko sredi&#x161;te u ju&#x17E;noj Kini. Vra&#x107;en je mati&#x10D;noj domovini 1997. godine."
+          "text": "Hong Kong je nakon 99 godina britanskog protektorata vraćen Kini"
+        },
+        {
+          "year": 2004,
+          "text": "NASA-ina svemirska letjelica Cassini-Huygens ušla je u Saturnovu orbitu nakon sedmogodišnjeg putovanja"
         },
         {
           "year": 2009,
-          "text": "Sanader naprasno dao ostavku: \"Doviđenja i hvala na suradnji\" IVO SANADER, tada&#x161;nji premijer Republike Hrvatske, iznenadio je javnost i politi&#x10D;ku scenu svojom naglom ostavkom 1. srpnja 2009. godine. Ova neo&#x10D;ekivana odluka izazvala je &#x161;ok u javnosti i razne &#x161;pekulacije o razlozima koji stoje iza ovog poteza."
+          "text": "Ivo Sanader podnosi ostavku na mjesto predsjednika Vlade Republike Hrvatske i sve stranačke dužnosti u HDZ-u."
         },
         {
-          "year": 1992,
-          "text": "U kinima se počeo prikazivati film Njihova liga 1. SRPNJA 1992. u kinima se po&#x10D;eo prikazivati film Njihova liga."
+          "year": 2012,
+          "text": "Aziz Hasanović postao predsjednik Mešihata Islamske zajednice u Hrvatskoj. Darko Pavičić, [http://www.vecernji.hr/hrvatska/aziz-hasanovic-novi-hrvatski-muftija-418169 Aziz Hasanović novi hrvatski muftija!], Večernji list, 9. lipnja 2012."
         },
         {
-          "year": 1968,
-          "text": "Potpisan Sporazum o neširenju nuklearnog oružja DANA 1. srpnja 1968. u Washingtonu, Londonu i Moskvi otvoren je za potpisivanje Sporazum o ne&#x161;irenju nuklearnog oru&#x17E;ja (NPT), jedan od najva&#x17E;nijih me&#x111;unarodnih ugovora u modernoj povijesti."
+          "year": 2013,
+          "text": "Hrvatska postala je 28. članica Europske unije. [http://www.vijesti.rtl.hr/novosti/811374/hrvatska-postala-punopravna-clanica-eu/ Hrvatska postala punopravna članica EU!] , Vijesti.hr, 30. lipnja 2013. (u 23:45)"
+        },
+        {
+          "year": 2013,
+          "text": "Otvoren New Century Global Centre, najveća zgrada na svijetu. [http://www.croenergo.eu/GALERIJA-Otvorena-najveca-zgrada-na-svijetu-15185.aspx GALERIJA: Otvorena najveća zgrada na svijetu] , Croenergo.eu, 7. srpnja 2013."
+        },
+        {
+          "year": 2013,
+          "text": "Otkriven Neptunov satelit S/2004 N 1."
         }
       ]
     },
@@ -10164,12 +10201,12 @@
           "text": "Jeremy Irons"
         },
         {
-          "year": 1881,
-          "text": "1881."
-        },
-        {
           "year": 2017,
           "text": "2017."
+        },
+        {
+          "year": 1881,
+          "text": "1881."
         }
       ]
     },
@@ -12723,8 +12760,8 @@
           "text": "Premijerno prikazan Let iznad kukavičjeg gnijezda LET IZNAD kukavi&#x10D;jeg gnijezda (One Flew Over the Cuckoo&#x2019;s Nest) premijerno je prikazan 19. studenoga 1975. godine i ubrzo je postao jedno od najutjecajnijih filmskih ostvarenja u povijesti ameri&#x10D;ke kinematografije."
         },
         {
-          "year": 1703,
-          "text": "Priča o Čovjeku sa željeznom maskom misterij je i stoljećima kasnije"
+          "year": 1831,
+          "text": "Pokušao je balansirati između dvije struje u svojoj stranci, što ga je koštalo života"
         },
         {
           "year": 1831,
@@ -12735,16 +12772,16 @@
           "text": "1984."
         },
         {
+          "year": 1581,
+          "text": "1581."
+        },
+        {
           "year": 1703,
           "text": "&#x10C;ovjek pod &#x17E;eljeznom maskom"
         },
         {
           "year": 1828,
           "text": "1828."
-        },
-        {
-          "year": 1581,
-          "text": "1581."
         }
       ]
     },
