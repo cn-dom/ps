@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-19T11:54:17.792Z",
+  "updated_at": "2026-11-20T11:56:09.412Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2437,18 +2437,9 @@
     },
     "02-18": {
       "date": "02-18",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1358,
-          "text": "U Zadru sklopljen glasoviti Zadarski mir između Mletačke Republike i ugarsko-hrvatskog kralja Ludovika I. Anžuvinca kojim su se Mlečani odrekli Dalmacije."
-        },
-        {
-          "year": 2008,
-          "text": "Afganistan postao prva država koja je priznala nezavisnost Kosova."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-19": {
       "date": "02-19",
@@ -6557,72 +6548,36 @@
     },
     "07-01": {
       "date": "07-01",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
+      "source": "Index Kalendar",
+      "source_url": "https://www.index.hr/kalendar?datum=0107",
       "events": [
         {
-          "year": 69,
-          "text": "Trupe u Egiptu proglasile Vespazijana devetim Rimskim carem"
+          "year": 1863,
+          "text": "Počela Bitka kod Gettysburga"
         },
         {
-          "year": 1661,
-          "text": "Zaključen Kardiški mir, čime je okončan rusko-švedski rat"
+          "year": 1916,
+          "text": "Počela Bitka na Sommi PRVOG srpnja 1916. savezni&#x10D;ke snage pokrenule su veliku ofenzivu na rijeci Sommi u sjevernoj Francuskoj."
         },
         {
-          "year": 1745,
-          "text": "Marija Terezija raspustila Vojnu krajinu. Stjepan Beretić, [http://zvonik.rs/arhiva/183/povijesni.html Povijesni kutak - Razvojačenje u Somboru] , Zvonik, br. 183"
-        },
-        {
-          "year": 1861,
-          "text": "Utemeljen list \"L'Osservatore Romano\""
-        },
-        {
-          "year": 1921,
-          "text": "Osnovana je Komunistička partija Kine"
-        },
-        {
-          "year": 1934,
-          "text": "Noć dugih noževa ubijen je vođa SA snaga Ernst Röhm"
-        },
-        {
-          "year": 1953,
-          "text": "Utemeljen list \"Moj pas\""
-        },
-        {
-          "year": 1959,
-          "text": "Izašao prvi broj hrvatskih novina Večernji list."
-        },
-        {
-          "year": 1980,
-          "text": "O Canada službeno je postala nacionalna himna Kanade"
+          "year": 2013,
+          "text": "Hrvatska ulazi u EU PRIJE to&#x10D;no 11 godina Hrvatska je postala &#x10D;lanica Europske unije i tako zavr&#x161;ila proces pridru&#x17E;ivanju suvremenim internacionalnim organizacijama."
         },
         {
           "year": 1997,
-          "text": "Hong Kong je nakon 99 godina britanskog protektorata vraćen Kini"
-        },
-        {
-          "year": 2004,
-          "text": "NASA-ina svemirska letjelica Cassini-Huygens ušla je u Saturnovu orbitu nakon sedmogodišnjeg putovanja"
+          "text": "Predaja Hong Konga HONG Kong va&#x17E;no je gospodarsko sredi&#x161;te u ju&#x17E;noj Kini. Vra&#x107;en je mati&#x10D;noj domovini 1997. godine."
         },
         {
           "year": 2009,
-          "text": "Ivo Sanader podnosi ostavku na mjesto predsjednika Vlade Republike Hrvatske i sve stranačke dužnosti u HDZ-u."
+          "text": "Sanader naprasno dao ostavku: \"Doviđenja i hvala na suradnji\" IVO SANADER, tada&#x161;nji premijer Republike Hrvatske, iznenadio je javnost i politi&#x10D;ku scenu svojom naglom ostavkom 1. srpnja 2009. godine. Ova neo&#x10D;ekivana odluka izazvala je &#x161;ok u javnosti i razne &#x161;pekulacije o razlozima koji stoje iza ovog poteza."
         },
         {
-          "year": 2012,
-          "text": "Aziz Hasanović postao predsjednik Mešihata Islamske zajednice u Hrvatskoj. Darko Pavičić, [http://www.vecernji.hr/hrvatska/aziz-hasanovic-novi-hrvatski-muftija-418169 Aziz Hasanović novi hrvatski muftija!], Večernji list, 9. lipnja 2012."
+          "year": 1992,
+          "text": "U kinima se počeo prikazivati film Njihova liga 1. SRPNJA 1992. u kinima se po&#x10D;eo prikazivati film Njihova liga."
         },
         {
-          "year": 2013,
-          "text": "Hrvatska postala je 28. članica Europske unije. [http://www.vijesti.rtl.hr/novosti/811374/hrvatska-postala-punopravna-clanica-eu/ Hrvatska postala punopravna članica EU!] , Vijesti.hr, 30. lipnja 2013. (u 23:45)"
-        },
-        {
-          "year": 2013,
-          "text": "Otvoren New Century Global Centre, najveća zgrada na svijetu. [http://www.croenergo.eu/GALERIJA-Otvorena-najveca-zgrada-na-svijetu-15185.aspx GALERIJA: Otvorena najveća zgrada na svijetu] , Croenergo.eu, 7. srpnja 2013."
-        },
-        {
-          "year": 2013,
-          "text": "Otkriven Neptunov satelit S/2004 N 1."
+          "year": 1968,
+          "text": "Potpisan Sporazum o neširenju nuklearnog oružja DANA 1. srpnja 1968. u Washingtonu, Londonu i Moskvi otvoren je za potpisivanje Sporazum o ne&#x161;irenju nuklearnog oru&#x17E;ja (NPT), jedan od najva&#x17E;nijih me&#x111;unarodnih ugovora u modernoj povijesti."
         }
       ]
     },
@@ -6750,12 +6705,12 @@
           "text": "1826."
         },
         {
-          "year": 2011,
-          "text": "2011."
-        },
-        {
           "year": 1831,
           "text": "1831."
+        },
+        {
+          "year": 1934,
+          "text": "1934."
         }
       ]
     },
@@ -9699,12 +9654,12 @@
           "text": "1921."
         },
         {
-          "year": 1828,
-          "text": "1910."
-        },
-        {
           "year": 1985,
           "text": "Luka Modri&#x107;"
+        },
+        {
+          "year": 1604,
+          "text": "1679."
         },
         {
           "year": 1976,
@@ -11775,12 +11730,12 @@
           "text": "Premijera filma \"Romeo i Julija\" SHAKESPEAREOVA pri&#x10D;a dobila je sasvim novo lice, ali zadr&#x17E;ala svoj tragi&#x10D;ni zavr&#x161;etak."
         },
         {
-          "year": 2006,
-          "text": "Počelo prikazivanje horora \"Slagalica strave III\" U BRITANSKIM kinima &#x10D;ak je pet gledatelja izgubilo svijest tijekom projekcija."
-        },
-        {
           "year": 939,
           "text": "Umro kralj Athelstan &#xC6;THELSTAN, sin Edwarda Starijeg i unuk slavnog Alfreda Velikog, smatra se prvim vladarom koji je ujedinio Englesku pod jednom krunom."
+        },
+        {
+          "year": 2006,
+          "text": "Počelo prikazivanje horora \"Slagalica strave III\" U BRITANSKIM kinima &#x10D;ak je pet gledatelja izgubilo svijest tijekom projekcija."
         },
         {
           "year": 1995,
@@ -12139,12 +12094,12 @@
           "text": "1767."
         },
         {
-          "year": 1960,
-          "text": "1991."
-        },
-        {
           "year": 1972,
           "text": "Luis Figo"
+        },
+        {
+          "year": 1969,
+          "text": "Matthew McConaughey"
         }
       ]
     },
@@ -12791,48 +12746,44 @@
       "source_url": "https://www.index.hr/kalendar?datum=2011",
       "events": [
         {
-          "year": 1945,
-          "text": "Nürnberški procesi"
-        },
-        {
-          "year": 1985,
-          "text": "U prodaju pušteni prvi Windowsi DANA 20. studenoga 1985. Microsoft je slu&#x17E;beno pustio u prodaju Windows 1.0, prvo grafi&#x10D;ko okru&#x17E;enje koje je nosilo naziv \"Windows\" i po&#x10D;etak putovanja koje &#x107;e s vremenom promijeniti osobna ra&#x10D;unala."
+          "year": 1991,
+          "text": "Zločin na Ovčari"
         },
         {
           "year": 1940,
           "text": "Mađarska pristupa Trojnom paktu MA&#x110;ARSKA je 1940. godine potpisala Trojni pakt i time se svrstala na strani sila Osovine u Drugom svjetskom ratu."
         },
         {
-          "year": 1991,
-          "text": "Zločin na Ovčari POKOLJ na Ov&#x10D;ari dogodio se u Vukovaru 1991. godine. Ubijeno je preko 250 civila i vojnika."
+          "year": 1945,
+          "text": "Nürnberški procesi N&#xDC;RNBER&#x160;KI procesi naziv su za skup vojnih sudova odr&#x17E;anih nakon zavr&#x161;etka Drugog svjetskog rata."
         },
         {
-          "year": 1975,
-          "text": "U krvavom ratu je došao na vlast, uveo je diktaturu. Bio je blizak Hitleru"
+          "year": 1985,
+          "text": "U prodaju pušteni prvi Windowsi DANA 20. studenoga 1985. Microsoft je slu&#x17E;beno pustio u prodaju Windows 1.0, prvo grafi&#x10D;ko okru&#x17E;enje koje je nosilo naziv \"Windows\" i po&#x10D;etak putovanja koje &#x107;e s vremenom promijeniti osobna ra&#x10D;unala."
+        },
+        {
+          "year": 1910,
+          "text": "Njegove knjige bile su hit u carskoj Rusiji. Kritizirao je i vlast i Crkvu"
         },
         {
           "year": 1895,
           "text": "1922."
         },
         {
-          "year": 1912,
-          "text": "2011."
-        },
-        {
           "year": 1938,
           "text": "1991."
         },
         {
-          "year": 1975,
-          "text": "1975."
-        },
-        {
-          "year": 1991,
-          "text": "1991."
+          "year": 1953,
+          "text": "2025."
         },
         {
           "year": 1910,
           "text": "1910."
+        },
+        {
+          "year": 1991,
+          "text": "1991."
         }
       ]
     },
@@ -13365,12 +13316,12 @@
           "text": "Sergej Bubka"
         },
         {
-          "year": 1892,
-          "text": "1975."
-        },
-        {
           "year": 1893,
           "text": "1941."
+        },
+        {
+          "year": 1892,
+          "text": "1975."
         },
         {
           "year": 2011,
