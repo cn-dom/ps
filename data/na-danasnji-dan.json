@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-20T11:56:09.412Z",
+  "updated_at": "2026-11-21T11:26:57.579Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -3830,6 +3830,10 @@
         {
           "year": 1945,
           "text": "1945."
+        },
+        {
+          "year": 1865,
+          "text": "1865."
         }
       ]
     },
@@ -4555,6 +4559,10 @@
           "text": "U kina su stigle Vatrene kočije, jedan od najomiljenijih filmova 20. stoljeća 15. SVIBNJA 1981. u svjetska kina stigao je film Vatrene ko&#x10D;ije (Chariots of Fire), sportska drama koja je ubrzo stekla status klasika i postala jedan od najomiljenijih filmova 20. stolje&#x107;a."
         },
         {
+          "year": 1972,
+          "text": "Okinawa službeno vraćena Japanu DANA 21. studenoga 1969. godine ameri&#x10D;ki predsjednik Richard Nixon i japanski premijer Eisaku Sat&#x14D; postigli su povijesni dogovor o povratku Okinawe pod japansku upravu."
+        },
+        {
           "year": 1773,
           "text": "Klemens von Metternich - najutjecajniji europski konzervativac 19. stoljeća"
         },
@@ -5204,12 +5212,12 @@
           "text": "1431."
         },
         {
-          "year": 1778,
-          "text": "1778."
-        },
-        {
           "year": 1997,
           "text": "1997."
+        },
+        {
+          "year": 1778,
+          "text": "1778."
         }
       ]
     },
@@ -8708,12 +8716,12 @@
           "text": "1524."
         },
         {
-          "year": 1830,
-          "text": "1916."
-        },
-        {
           "year": 1933,
           "text": "2023."
+        },
+        {
+          "year": 1969,
+          "text": "Edward Norton"
         },
         {
           "year": 1850,
@@ -12793,28 +12801,36 @@
       "source_url": "https://www.index.hr/kalendar?datum=2111",
       "events": [
         {
-          "year": 1991,
-          "text": "Srušen Maslenički most"
-        },
-        {
-          "year": 1916,
-          "text": "Potopljen Britannic, brod blizanac Titanica HMHS Britannic, tre&#x107;i i posljednji brod olimpijske klase kompanije White Star Line, potonuo je 21. studenog 1916. u Egejskom moru blizu otoka Kea, tijekom Prvog svjetskog rata."
-        },
-        {
-          "year": 2008,
-          "text": "U kina je stigao Sumrak KADA je Sumrak (Twilight) u re&#x17E;iji Catherine Hardwicke stigao u kina 21. studenoga 2008., malo tko je o&#x10D;ekivao da &#x107;e adaptacija romana za tinejd&#x17E;ere prerasti u globalni fenomen koji &#x107;e preoblikovati cijelo desetlje&#x107;e."
-        },
-        {
           "year": 1996,
-          "text": "Prosvjed protiv gašenja Stojedinice NA DANA&#x160;NJI dan odr&#x17E;an je najve&#x107;i prosvjed u modernoj Hrvatskoj."
+          "text": "Prosvjed protiv gašenja Stojedinice"
         },
         {
           "year": 2007,
           "text": "Pobjeda Hrvatske na Wembleyu JEDNA od najve&#x107;ih pobjeda Hrvatske u povijesti ujedno je jedan od naj&#x161;okantnijih poraza Engleske."
         },
         {
-          "year": 1942,
-          "text": "Ovaj čovjek želio je uništiti Srbiju. To je svijet odvelo u kaos"
+          "year": 1991,
+          "text": "Srušen Maslenički most MASLENI&#x10C;KI most, smje&#x161;ten na naju&#x17E;em dijelu Novskog &#x17E;drila, bio je od izgradnje po&#x10D;etkom 1960-ih klju&#x10D;na prometna to&#x10D;ka koja je povezivala sjevernu Dalmaciju s ostatkom Hrvatske."
+        },
+        {
+          "year": 1916,
+          "text": "Potopljen Britannic, brod blizanac Titanica HMHS Britannic, tre&#x107;i i posljednji brod olimpijske klase kompanije White Star Line, potonuo je 21. studenog 1916. u Egejskom moru blizu otoka Kea, tijekom Prvog svjetskog rata."
+        },
+        {
+          "year": 1969,
+          "text": "Dogovoren povratak Okinawe pod vlast Japana DANA 21. studenoga 1969. godine ameri&#x10D;ki predsjednik Richard Nixon i japanski premijer Eisaku Sat&#x14D; postigli su povijesni dogovor o povratku Okinawe pod japansku upravu."
+        },
+        {
+          "year": 2008,
+          "text": "U kina je stigao Sumrak KADA je Sumrak (Twilight) u re&#x17E;iji Catherine Hardwicke stigao u kina 21. studenoga 2008., malo tko je o&#x10D;ekivao da &#x107;e adaptacija romana za tinejd&#x17E;ere prerasti u globalni fenomen koji &#x107;e preoblikovati cijelo desetlje&#x107;e."
+        },
+        {
+          "year": 1806,
+          "text": "Napoleon saveznicima zabranio trgovinu s Britanijom DANA 21. studenoga 1806. godine francuski car Napoleon Bonaparte potpisao je u Berlinu dekret kojim je zabranio trgovinu izme&#x111;u Velike Britanije i europskih zemalja pod francuskom kontrolom."
+        },
+        {
+          "year": 1694,
+          "text": "Kritizirao je crkvu i državu, ali europski kraljevi su ga obožavali - ovo je Voltaire"
         },
         {
           "year": 1694,
@@ -12825,8 +12841,8 @@
           "text": "1949."
         },
         {
-          "year": 1942,
-          "text": "1942."
+          "year": 1787,
+          "text": "1865."
         },
         {
           "year": 1916,
