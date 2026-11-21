@@ -1,6 +1,6 @@
 {
   "source": "DHMZ",
-  "updated_at": "2026-11-21T02:21:25.020714+00:00",
+  "updated_at": "2026-11-21T11:11:26.475887+00:00",
   "warnings": [
     {
       "day": "today",
@@ -215,6 +215,186 @@
     {
       "day": "day_after_tomorrow",
       "event": "Žuto upozorenje za vjetar",
+      "description": "Jaka bura s olujnim udarima.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Primorsko-goranska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za vjetar",
+      "description": "Jak sjeverozapadni vjetar s olujnim udarima.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Istarska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za vjetar",
+      "description": "Jaka bura s olujnim udarima duž obale i na otocima.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Ličko-senjska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za grmljavinsku oluju",
+      "description": "Mjestimice obilna kiša u kratkom vremenu, moguća je i grmljavina.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Zadarska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za vjetar",
+      "description": "Jak sjeverozapadni vjetar s olujnim udarima.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Šibensko-kninska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za grmljavinsku oluju",
+      "description": "Mjestimice obilna kiša u kratkom vremenu, moguća je i grmljavina.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Šibensko-kninska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za vjetar",
+      "description": "Mjestimice jaka bura s olujnim udarima, ponajprije podno Biokova.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Splitsko-dalmatinska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za grmljavinsku oluju",
+      "description": "Mjestimice obilna kiša u kratkom vremenu, moguća je i grmljavina.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Splitsko-dalmatinska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za vjetar",
+      "description": "Jak zapadni pa sjeverozapadni vjetar s olujnim udarima.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Dubrovačko-neretvanska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow wind warning",
+      "description": "Strong bura (NE wind) with gale force gusts.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Primorsko-goranska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow wind warning",
+      "description": "Strong NW wind with gale force gusts.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Istarska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow wind warning",
+      "description": "Strong bura wind with gale force gusts along the coast and on the islands.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Ličko-senjska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow thunderstorm warning",
+      "description": "Severe thundershowers locally.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Zadarska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow wind warning",
+      "description": "Strong NW wind with gale force gusts.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Šibensko-kninska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow thunderstorm warning",
+      "description": "Severe thundershowers locally.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Šibensko-kninska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow wind warning",
+      "description": "Strong bura (NE wind) with gale force gusts.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Splitsko-dalmatinska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow thunderstorm warning",
+      "description": "Severe thundershowers locally.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Splitsko-dalmatinska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Yellow wind warning",
+      "description": "Strong W and NW wind with gale force gusts.",
+      "severity": "Moderate",
+      "urgency": "Future",
+      "areas": [
+        "Dubrovačko-neretvanska"
+      ]
+    },
+    {
+      "day": "day_after_tomorrow",
+      "event": "Žuto upozorenje za vjetar",
       "description": "Mjestimice pojačana bura. Najjači udari vjetra 35-40 čvorova  (65-75 km/h)",
       "severity": "Moderate",
       "urgency": "Future",
@@ -335,21 +515,21 @@
   ],
   "rainfall_text": [],
   "adriatic_text": [
-    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 20.11.2026. u 19 sati",
-    "Moguće su nevere. Samo mjestimice udari zapadnog i sjeverozapadnog vjetra 35-40 čvorova, sutra će oslabiti. Na krajnjem sjeveru Jadrana je sutra ujutro moguća magla.",
-    "Dolina s frontalnim poremećajem odmiče od Jadrana na istok, sa sjeverozapada se približava nova dolina, a sa zapada pristiže vlažni i nestabilni zrak.",
+    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 21.11.2026. u 12 sati",
+    "Sutra prijepodne na sjevernom Jadranu mjestimice udari juga i jugozapadnog vjetra 35-40 čvorova. Još danas je na krajnjem sjeveru Jadrana moguća magla i vidljivost manja od 200 m. Moguće su nevere.",
+    "Sa zapada se Jadranu približava dolina s frontalnim poremećajem.",
     "Vremenska prognoza za Jadran za prvih 12 sati",
-    "Zapadni u okretanju na sjeverozapadni vjetar 10-20, na otvorenom moru dijela srednjeg i sjevernog Jadrana te na južnom Jadranu do 24 čvora. More 2-3, na otvorenom mjestimice 4. Vidljivost 5-15 km, pred jutro je na krajnjem sjeveru moguće manje od 1 km zbog magle. Promjenjivo oblačno, mjestimice kiša, pljuskovi i grmljavina, uglavnom na srednjem i južnom Jadranu.",
-    "Slab do pojačan zapadni i sjeverozapadni vjetar će postupno oslabiti na slab. More malo do umjereno valovito. Promjenjivo oblačno, uz malu mogućnost za kišu, pljusak i grmljavinu. Na krajnjem sjeveru Jadrana je ujutro moguća magla."
+    "Tiho ili uglavnom sjeverozapadni vjetar 4-12, još u početku na srednjem i južnom Jadranu do 16 čvorova. U noći jugo i jugozapadni vjetar u jačanju na 6-16 čvorova. More 2-3, na sjevernom Jadranu u smirivanju na 1-2. Vidljivost 10-20 km, na krajnjem sjeveru Jadrana mjestimice manja od 1 km, a moguća i manja od 200 m zbog magle. Promjenjivo oblačno, uz manju mogućnost za kišu ili pljusak s grmljavinom.",
+    "Umjereno do pojačano, na sjevernom Jadranu prijepodne mjestimice jako jugo i jugozapadni vjetar. More malo do umjereno valovito. Promjenjivo oblačno, uz mogućnost za kišu ili pljusak s grmljavinom."
   ],
   "sailors_text": [
-    "VREMENSKO IZVJEŠĆE, dan 20.11.2026 u 18:00 sati",
-    "Moguće su nevere. Samo mjestimice udari W i NW vjetra 35-40 čvorova, sutra će oslabiti. Na krajnjem sjeveru Jadrana je sutra ujutro moguća magla.",
-    "Dolina s frontalnim poremećajem odmiče od Jadrana na istok, sa sjeverozapada se približava nova dolina, a sa zapada pristiže vlažni i nestabilni zrak.",
-    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 21.11.2026 u 18 sati",
-    "Na sjeveru područja tiho ili NW 4-12 čvorova. Drugdje W i SW vjetar 10-20, sutra će sredinom dana i poslijepodne sasvim oslabiti. More 2-3 u smirivanju na 1-2. Vidljivost 5-15 km, sutra ujutro je moguće 1-4 km zbog sumaglice, na krajnjem sjeveru manje od 1 km zbog magle. Promjenljivo oblačno uz manju mogućnost za kišu, pljusak i grmljavinu, uglavnom na jugoistoku područja.",
-    "W u okretanju na NW vjetar 10-20, još danas na otvorenom moru sjevera i juga područja do 24 čvora, sutra će sredinom dana i poslijepodne sasvim oslabiti. More 2-3, na jugu i na sjeveru područja je još noćas i sutra prijepodne moguće 4. Vidljivost 5-15 km, sutra ujutro je moguće 1-4 km zbog sumaglice. Promjenljivo oblačno s mjestimičnom kišom, pljuskovima i grmljavinom, uglavnom još noćas.",
-    "W i NW u okretanju na W i NW vjetar 10-20, još danas na otvorenom moru do 24 čvora, sutra će sredinom dana i poslijepodne oslabiti na 4-10 čvorova. More 2-3, na otvorenom 3-4. Vidljivost 5-15 km, sutra ujutro je moguće 1-4 km zbog sumaglice. Promjenljivo oblačno s mjestimičnom kišom, pljuskovima i grmljavinom, uglavnom još noćas."
+    "VREMENSKO IZVJEŠĆE, dan 21.11.2026 u 12:00 sati",
+    "Sutra prijepodne na sjevernom Jadranu mjestimice udari SE i SW vjetra 35-40 čvorova. Još danas je na krajnjem sjeveru Jadrana moguća magla i vidljivost manja od 200 m. Moguće su nevere.",
+    "Sa zapada se Jadranu približava dolina s frontalnim poremećajem.",
+    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 22.11.2026 u 12 sati",
+    "Tiho ili vjetar promjenjiva smjera 4-12 čvorova. Od večeri vjetar SE i SW 6-16, sutra u jačanju na 12-22 čvora. More 1-2, u početku i ponovno sutra 2-3. Vidljivost 10-20 km, na sjeveru područja još danas mjestimice manja od 1 km, a moguća i manja od 200 m zbog magle. Promjenjivo oblačno, uz mogućnost za kišu ili pljusak s grmljavinom, uglavnom sutra.",
+    "Tiho ili vjetar NW 4-12, još u početku do 16 čvorova. U noći vjetar SE i SW 6-16, prijepodne mjestimice do 20 čvorova. More 2-3. Vidljivost 10-20 km. Promjenjivo oblačno, uz mogućnost za kišu ili pljusak s grmljavinom, uglavnom sutra.",
+    "Tiho ili vjetar NW 4-12, još u početku do 16 čvorova. U noći vjetar SE i SW 6-16, prijepodne mjestimice do 20 čvorova. More 2-3. Vidljivost 10-20 km. Promjenjivo oblačno, uz mogućnost za kišu ili pljusak s grmljavinom."
   ],
   "croatia_forecast_text": []
 }
