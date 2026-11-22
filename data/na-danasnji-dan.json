@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-21T11:26:57.579Z",
+  "updated_at": "2026-11-22T11:42:11.508Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2922,12 +2922,12 @@
           "text": "1490."
         },
         {
-          "year": 2020,
-          "text": "2020."
-        },
-        {
           "year": 1528,
           "text": "1528."
+        },
+        {
+          "year": 2020,
+          "text": "2020."
         }
       ]
     },
@@ -3996,16 +3996,16 @@
           "text": "Bio je jedan od najvećih genijalaca koje je dalo čovječanstvo"
         },
         {
-          "year": 1943,
-          "text": "2020."
-        },
-        {
           "year": 1892,
           "text": "1918."
         },
         {
           "year": 1972,
           "text": "Dwayne Johnson"
+        },
+        {
+          "year": 1975,
+          "text": "David Beckham"
         },
         {
           "year": 1519,
@@ -7707,12 +7707,12 @@
           "text": "Kevin Spacey"
         },
         {
-          "year": 1894,
-          "text": "1963."
-        },
-        {
           "year": 1945,
           "text": "Helen Mirren"
+        },
+        {
+          "year": 1964,
+          "text": "Sandra Bullock"
         },
         {
           "year": 1944,
@@ -11050,12 +11050,8 @@
           "text": "Počeo Drugi vatikanski koncil DRUGI vatikanski koncil (1962.&#x2013;1965.), poznat i kao Vatican II, bio je 21. ekumenski koncil Katoli&#x10D;ke crkve i jedan od najzna&#x10D;ajnijih doga&#x111;aja u njezinoj modernoj povijesti."
         },
         {
-          "year": 2000,
-          "text": "Bio je hrvatska senzacija. Šogor ga je ubio zbog obiteljske svađe oko imovine"
-        },
-        {
-          "year": 2000,
-          "text": "2000."
+          "year": 2008,
+          "text": "Radikalni austrijski političar propagirao je stare desne ideje sve dok nije poginuo"
         },
         {
           "year": 2008,
@@ -11064,6 +11060,10 @@
         {
           "year": 1946,
           "text": "1946."
+        },
+        {
+          "year": 1871,
+          "text": "1871."
         }
       ]
     },
@@ -12864,8 +12864,12 @@
           "text": "Sjećanje na Holodomor &#x10C;ETVRTE subote u studenom obilje&#x17E;ava se obljetnica Holodomora, jednog od najstra&#x161;nijih zlo&#x10D;ina u modernoj povijesti - namjerne gladi u Ukrajini koju je izazvao sovjetski lider Staljin."
         },
         {
-          "year": 1955,
-          "text": "Vladar Zagreba bio je premrežen aferama i skandalima. Umro je naglo"
+          "year": 1953,
+          "text": "Bio je hrvatska senzacija. Šogor ga je ubio zbog obiteljske svađe oko imovine"
+        },
+        {
+          "year": 1953,
+          "text": "2000."
         },
         {
           "year": 1955,
@@ -12874,10 +12878,6 @@
         {
           "year": 1948,
           "text": "2020."
-        },
-        {
-          "year": 1953,
-          "text": "2000."
         },
         {
           "year": 2020,
@@ -13870,48 +13870,32 @@
     },
     "12-18": {
       "date": "12-18",
-      "source": "Index Kalendar",
-      "source_url": "https://www.index.hr/kalendar?datum=1812",
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
       "events": [
         {
+          "year": 1910,
+          "text": "Utemeljeno je Hrvatsko novinarsko društvo, neovisna udruga profesionalnih novinara sa sjedištem u Zagrebu i jedno je od najstarijih profesionalnih udruženja u Hrvatskoj."
+        },
+        {
           "year": 1916,
-          "text": "Kraj Verdunske bitke"
+          "text": "Završena Bitka za Verdun."
         },
         {
-          "year": 2022,
-          "text": "Doček nogometaša nakon bronce u Kataru NA DANA&#x160;NJI dan 2022. godine hrvatska reprezentacija vratila se u Hrvatsku s broncom iz Katara."
+          "year": 1970,
+          "text": "Treća runda konzultacija o pitanju ograničenja naoružanja SALT II. nije dala nikakav pozitivan rezultat."
         },
         {
-          "year": 2009,
-          "text": "U kina stigao Avatar, najuspješniji film ikad NA DANA&#x160;NJI dan, 18. prosinca 2009., svijet je do&#x17E;ivio pravu filmsku revoluciju - u kina je stigao Avatar, epski znanstveno-fantasti&#x10D;ni spektakl redatelja Jamesa Camerona."
+          "year": 1987,
+          "text": "Pojavila se prva inačica programskog jezika Perl."
         },
         {
-          "year": 1946,
-          "text": "Promijenio je Hollywood i stvorio gomilu ogromnih hitova koje svijet obožava"
+          "year": 1991,
+          "text": "Utemeljena 157. brigada HV, Slavonski Brod."
         },
         {
-          "year": 1946,
-          "text": "Steven Spielberg"
-        },
-        {
-          "year": 1878,
-          "text": "1953."
-        },
-        {
-          "year": 1863,
-          "text": "1914."
-        },
-        {
-          "year": 1980,
-          "text": "1980."
-        },
-        {
-          "year": 1936,
-          "text": "1936."
-        },
-        {
-          "year": 2011,
-          "text": "2011."
+          "year": 1991,
+          "text": "Tzv. niški specijalci zatočili i zlostavljali u splitskoj Lori 24 hrvatska dragovoljca iz Brodosplita tijekom primopredaje oružja, koje je 1990. JNA oduzela hrvatskoj Teritorijalnoj obrani, a koje je temeljem Žitničkog sporazuma trebalo biti vraćeno Hrvatskoj vojsci."
         }
       ]
     },
