@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-22T11:42:11.508Z",
+  "updated_at": "2026-11-23T13:16:27.286Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2848,8 +2848,8 @@
           "text": "2012."
         },
         {
-          "year": 2022,
-          "text": "2022."
+          "year": 1968,
+          "text": "1968."
         }
       ]
     },
@@ -12864,6 +12864,14 @@
           "text": "Sjećanje na Holodomor &#x10C;ETVRTE subote u studenom obilje&#x17E;ava se obljetnica Holodomora, jednog od najstra&#x161;nijih zlo&#x10D;ina u modernoj povijesti - namjerne gladi u Ukrajini koju je izazvao sovjetski lider Staljin."
         },
         {
+          "year": 1942,
+          "text": "Njemačka Šesta armija okružena kod Staljingrada JEDAN od najsudbonosnijih trenutaka Drugog svjetskog rata dogodio se 22. studenoga 1942. godine."
+        },
+        {
+          "year": 1858,
+          "text": "Osnovan Denver DANA 22. studenoga 1858. godine osnovan je Denver, danas glavni i najve&#x107;i grad ameri&#x10D;ke savezne dr&#x17E;ave Colorado."
+        },
+        {
           "year": 1953,
           "text": "Bio je hrvatska senzacija. Šogor ga je ubio zbog obiteljske svađe oko imovine"
         },
@@ -12903,8 +12911,12 @@
           "text": "Predstavljen IBM Simon Personal Communicator, prvi smartphone DANA 23. studenoga 1992. na sajmu COMDEX u Las Vegasu IBM je prvi put predstavio prototip ure&#x111;aja koji &#x107;e kasnije postati IBM Simon Personal Communicator."
         },
         {
-          "year": 1752,
-          "text": "Svećenik naprednih pogleda na svijet započeo je proces nacionalnog buđenja u zemlji"
+          "year": 1447,
+          "text": "Bajazid II. ostao je upamćen po vjerskoj toleranciji umjesto vojnih pohoda"
+        },
+        {
+          "year": 1447,
+          "text": "1512."
         },
         {
           "year": 1752,
@@ -12913,10 +12925,6 @@
         {
           "year": 1943,
           "text": "2022."
-        },
-        {
-          "year": 1447,
-          "text": "1512."
         }
       ]
     },
@@ -13804,16 +13812,12 @@
           "text": "Njemački napad mornaricom na britanske obalne gradove DANA 16. prosinca 1914. njema&#x10D;ka ratna mornarica izvela je jedan od najpoznatijih pomorskih napada na britansko tlo u Prvom svjetskom ratu."
         },
         {
-          "year": 1827,
-          "text": "Svećenik naprednih pogleda na svijet započeo je proces nacionalnog buđenja u zemlji"
+          "year": 1790,
+          "text": "Stvorio je Belgiju, bio je jako moćan. Zvali su ga \"ujak Europe\", evo i zašto"
         },
         {
           "year": 1790,
           "text": "1865."
-        },
-        {
-          "year": 1827,
-          "text": "1827."
         },
         {
           "year": 2022,
@@ -13822,6 +13826,10 @@
         {
           "year": 1914,
           "text": "1914."
+        },
+        {
+          "year": 1827,
+          "text": "1827."
         }
       ]
     },
@@ -13870,32 +13878,48 @@
     },
     "12-18": {
       "date": "12-18",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
+      "source": "Index Kalendar",
+      "source_url": "https://www.index.hr/kalendar?datum=1812",
       "events": [
         {
-          "year": 1910,
-          "text": "Utemeljeno je Hrvatsko novinarsko društvo, neovisna udruga profesionalnih novinara sa sjedištem u Zagrebu i jedno je od najstarijih profesionalnih udruženja u Hrvatskoj."
-        },
-        {
           "year": 1916,
-          "text": "Završena Bitka za Verdun."
+          "text": "Kraj Verdunske bitke"
         },
         {
-          "year": 1970,
-          "text": "Treća runda konzultacija o pitanju ograničenja naoružanja SALT II. nije dala nikakav pozitivan rezultat."
+          "year": 2022,
+          "text": "Doček nogometaša nakon bronce u Kataru NA DANA&#x160;NJI dan 2022. godine hrvatska reprezentacija vratila se u Hrvatsku s broncom iz Katara."
         },
         {
-          "year": 1987,
-          "text": "Pojavila se prva inačica programskog jezika Perl."
+          "year": 2009,
+          "text": "U kina stigao Avatar, najuspješniji film ikad NA DANA&#x160;NJI dan, 18. prosinca 2009., svijet je do&#x17E;ivio pravu filmsku revoluciju - u kina je stigao Avatar, epski znanstveno-fantasti&#x10D;ni spektakl redatelja Jamesa Camerona."
         },
         {
-          "year": 1991,
-          "text": "Utemeljena 157. brigada HV, Slavonski Brod."
+          "year": 1946,
+          "text": "Promijenio je Hollywood i stvorio gomilu ogromnih hitova koje svijet obožava"
         },
         {
-          "year": 1991,
-          "text": "Tzv. niški specijalci zatočili i zlostavljali u splitskoj Lori 24 hrvatska dragovoljca iz Brodosplita tijekom primopredaje oružja, koje je 1990. JNA oduzela hrvatskoj Teritorijalnoj obrani, a koje je temeljem Žitničkog sporazuma trebalo biti vraćeno Hrvatskoj vojsci."
+          "year": 1946,
+          "text": "Steven Spielberg"
+        },
+        {
+          "year": 1878,
+          "text": "1953."
+        },
+        {
+          "year": 1863,
+          "text": "1914."
+        },
+        {
+          "year": 1980,
+          "text": "1980."
+        },
+        {
+          "year": 1936,
+          "text": "1936."
+        },
+        {
+          "year": 2011,
+          "text": "2011."
         }
       ]
     },
