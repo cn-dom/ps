@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-23T13:16:27.286Z",
+  "updated_at": "2026-11-24T13:58:44.705Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2136,70 +2136,9 @@
     },
     "02-11": {
       "date": "02-11",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1531,
-          "text": "Henrik VIII. na čelu Anglikanske crkve."
-        },
-        {
-          "year": 1852,
-          "text": "Bokelj Ivan Visin isplovio iz Antwerpena na brodu Splendido. Kad je 7 godina kasnije doplovio u Trst, postao je prvi Hrvat koji je oplovio svijet. Učino je to za vlastiti račun i o vlastitu trošku."
-        },
-        {
-          "year": 1855,
-          "text": "Krunidba etiopskog kralja Tevodrosa II."
-        },
-        {
-          "year": 1858,
-          "text": "Gospa se ukazala u Lurdu, djevojčici Bernardici Suobirous."
-        },
-        {
-          "year": 1873,
-          "text": "Španjolski kralj Amadeo I. je abdicirao, proglasio na Cortes Generales da je španjolski narod \"neukrotiv,\" i zatim napustio zemlju."
-        },
-        {
-          "year": 1906,
-          "text": "Papa Pio X. objavio encikliku Vehementer Nos."
-        },
-        {
-          "year": 1919,
-          "text": "Friedrich Ebert izabran za predsjednika republike u Njemačkoj."
-        },
-        {
-          "year": 1929,
-          "text": "Potpisan je prvi Lateranski sporazum kojim je Vatikan uspostavljen kao nezavisna suverena enklava unutar Italije"
-        },
-        {
-          "year": 1963,
-          "text": "Beatlesi su započeli snimanje svojeg prvog albuma pod nazivom Please Please Me"
-        },
-        {
-          "year": 1979,
-          "text": "Ajatolah Homeini preuzeo je vlast u Iranu, te je na posljetku postao vrhovni vođa Islamske republike."
-        },
-        {
-          "year": 1990,
-          "text": "Anti-apartheid aktivist Nelson Mandela, 27-godišnji politički zatvorenik, pušten je iz zatvora izvan Cape Towna, Južna Afrika."
-        },
-        {
-          "year": 1994,
-          "text": "Papa Ivan Pavao II. osnovao Papinsku akademiju za život"
-        },
-        {
-          "year": 2011,
-          "text": "Nakon masovnih prosvjeda, egipatski predsjednik Hosni Mubarak je podnio ostavku"
-        },
-        {
-          "year": 2013,
-          "text": "Vatikan objavljuje da se papa Benedikt XVI. odriče službe, zbog svoje poodmakle dobi"
-        },
-        {
-          "year": 2020,
-          "text": "Svjetska zdravstvena organizacija proglasila je pandemiju koronavirusa"
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-12": {
       "date": "02-12",
@@ -2437,9 +2376,18 @@
     },
     "02-18": {
       "date": "02-18",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1358,
+          "text": "U Zadru sklopljen glasoviti Zadarski mir između Mletačke Republike i ugarsko-hrvatskog kralja Ludovika I. Anžuvinca kojim su se Mlečani odrekli Dalmacije."
+        },
+        {
+          "year": 2008,
+          "text": "Afganistan postao prva država koja je priznala nezavisnost Kosova."
+        }
+      ]
     },
     "02-19": {
       "date": "02-19",
@@ -3949,12 +3897,12 @@
           "text": "1983."
         },
         {
-          "year": 1864,
-          "text": "1948."
-        },
-        {
           "year": 1872,
           "text": "1918."
+        },
+        {
+          "year": 1767,
+          "text": "1845."
         },
         {
           "year": 1994,
@@ -9522,12 +9470,12 @@
           "text": "1715."
         },
         {
-          "year": 1946,
-          "text": "1991."
-        },
-        {
           "year": 1847,
           "text": "1882."
+        },
+        {
+          "year": 1946,
+          "text": "1991."
         }
       ]
     },
@@ -12934,8 +12882,12 @@
       "source_url": "https://www.index.hr/kalendar?datum=2411",
       "events": [
         {
+          "year": 1971,
+          "text": "Nestanak D.B. Coopera"
+        },
+        {
           "year": 1918,
-          "text": "Radić: \"Ne srljajte kao guske kroz maglu\""
+          "text": "Radić: \"Ne srljajte kao guske kroz maglu\" STJEPAN Radi&#x107; na dana&#x161;nji je dan odr&#x17E;ao govor spominju&#x107;i svoje slavne \"guske kroz maglu\"."
         },
         {
           "year": 1642,
@@ -12946,12 +12898,8 @@
           "text": "Golčina Nike Kranjčara NIKO KRANJ&#x10C;AR je na dana&#x161;nji dan postigao mo&#x17E;da najljep&#x161;i gol karijere."
         },
         {
-          "year": 1971,
-          "text": "Nestanak D.B. Coopera BILO je to 24. studenog 1971. godine, a nepoznati mu&#x161;karac, kasnije poznat kao D. B. Cooper, imao je kartu u jednom smjeru na letu za Seattle."
-        },
-        {
-          "year": 1946,
-          "text": "Ubijao je žene svakih mjesec dana. Ubio ih je preko 30 prije nego što je zaustavljen"
+          "year": 1991,
+          "text": "Bio je najveći pjevač ikad. Od fanova se oprostio s tri riječi"
         },
         {
           "year": 1946,
@@ -12962,12 +12910,12 @@
           "text": "1677."
         },
         {
-          "year": 1948,
-          "text": "1948."
-        },
-        {
           "year": 1991,
           "text": "1991."
+        },
+        {
+          "year": 1948,
+          "text": "1948."
         },
         {
           "year": 1963,
