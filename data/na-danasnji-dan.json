@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-25T13:13:32.165Z",
+  "updated_at": "2026-11-26T12:53:36.685Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2437,9 +2437,18 @@
     },
     "02-18": {
       "date": "02-18",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1358,
+          "text": "U Zadru sklopljen glasoviti Zadarski mir između Mletačke Republike i ugarsko-hrvatskog kralja Ludovika I. Anžuvinca kojim su se Mlečani odrekli Dalmacije."
+        },
+        {
+          "year": 2008,
+          "text": "Afganistan postao prva država koja je priznala nezavisnost Kosova."
+        }
+      ]
     },
     "02-19": {
       "date": "02-19",
@@ -4906,8 +4915,8 @@
           "text": "Legendarni Modrićev korner LUKA MODRI&#x106; je na dana&#x161;nji dan 2014. namjestio jedan od najslavnijih i najva&#x17E;nijih golova u povijesti Reala. Detalje o njemu, to&#x10D;nije kako su uvje&#x17E;bali tu akciju, otkrio je Sergio Ramos, strijelac mitskog gola."
         },
         {
-          "year": 2023,
-          "text": "Tina Turner - žena koja je bila veća i od žanrova i od predrasuda"
+          "year": 1543,
+          "text": "Kopernik je donosio zaključke iz astronomije bez pomoći teleskopa"
         },
         {
           "year": 1941,
@@ -4922,12 +4931,12 @@
           "text": "Eric Cantona"
         },
         {
-          "year": 2023,
-          "text": "2023."
-        },
-        {
           "year": 1543,
           "text": "1543."
+        },
+        {
+          "year": 2023,
+          "text": "2023."
         }
       ]
     },
@@ -13021,7 +13030,7 @@
       "events": [
         {
           "year": 1789,
-          "text": "Dan zahvalnosti u SAD-u"
+          "text": "Dan zahvalnosti u SAD-u DAN ZAHVALNOSTI u SAD-u obilje&#x17E;ava se u &#x10D;ast gozbi iz 1621. kad su doseljenici objedovali s lokalcima u &#x10D;ast uspje&#x161;ne &#x17E;etve."
         },
         {
           "year": 1942,
