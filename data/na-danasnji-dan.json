@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-26T12:53:36.685Z",
+  "updated_at": "2026-11-27T12:48:44.163Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2437,18 +2437,9 @@
     },
     "02-18": {
       "date": "02-18",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
-      "events": [
-        {
-          "year": 1358,
-          "text": "U Zadru sklopljen glasoviti Zadarski mir između Mletačke Republike i ugarsko-hrvatskog kralja Ludovika I. Anžuvinca kojim su se Mlečani odrekli Dalmacije."
-        },
-        {
-          "year": 2008,
-          "text": "Afganistan postao prva država koja je priznala nezavisnost Kosova."
-        }
-      ]
+      "source": "PatriaSoul",
+      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
+      "events": []
     },
     "02-19": {
       "date": "02-19",
@@ -7430,12 +7421,12 @@
           "text": "1964."
         },
         {
-          "year": 1973,
-          "text": "1973."
-        },
-        {
           "year": 2023,
           "text": "2023."
+        },
+        {
+          "year": 1973,
+          "text": "1973."
         }
       ]
     },
@@ -8858,12 +8849,12 @@
           "text": "2026."
         },
         {
-          "year": 1983,
-          "text": "1983."
-        },
-        {
           "year": 1940,
           "text": "1940."
+        },
+        {
+          "year": 1983,
+          "text": "1983."
         }
       ]
     },
@@ -10122,10 +10113,6 @@
           "text": "1911."
         },
         {
-          "year": 1970,
-          "text": "1970."
-        },
-        {
           "year": 1931,
           "text": "1931."
         }
@@ -10883,56 +10870,56 @@
     },
     "10-07": {
       "date": "10-07",
-      "source": "Index Kalendar",
-      "source_url": "https://www.index.hr/kalendar?datum=0710",
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
       "events": [
         {
           "year": 1571,
-          "text": "Bitka kod Lepanta"
+          "text": "Španjolsko, mletačko, đenovsko i malteško, te brodovlje Svete Solice i Savojskoga kneževstva u bitci kod Lepanta u jugozapadnoj Grčkoj potuklo je tursku flotu."
         },
         {
-          "year": 1991,
-          "text": "Raketiranje Banskih dvora NA DANA&#x160;NJI dan jugoslavenske zra&#x10D;ne jedinice bombardirale su Gornji grad u Zagrebu."
-        },
-        {
-          "year": 2023,
-          "text": "Hamasov napad na Izrael U RANIM jutarnjim satima 7. listopada 2023., tijekom &#x17E;idovskog blagdana Simchat Tora, militantna skupina Hamas pokrenula je iz Gaze masovni napad na Izrael pod nazivom Operacija Al-Aqsa Flood (Potop Al-Aqse)."
-        },
-        {
-          "year": 2001,
-          "text": "Američka invazija na Afganistan SEDMI listopada 2001. godine ozna&#x10D;io je trenutak kada su ameri&#x10D;ke snage, zajedno s britanskim saveznicima, lansirale prve zra&#x10D;ne udare na Afganistan."
+          "year": 1865,
+          "text": "U Zadru svečano otvoreno Novo kazalište, srušeno nakon Drugog svjetskog rata"
         },
         {
           "year": 1879,
-          "text": "Sklopljen Dvojni savez Njemačke i Austro-Ugarske GODINA 1879. ozna&#x10D;ila je prekretnicu u europskoj diplomaciji kada su Njema&#x10D;ka i Austro-Ugarska potpisale Dvojni savez, sporazum koji je trajno oblikovao odnose velikih sila uo&#x10D;i Prvog svjetskog rata."
+          "text": "Dvojni savez protiv Rusije: Njemačka i Austro-Ugarska sklopile su sporazum kojim se obvezuju na uzajamnu pomoć u slučaju ruskog napada. Pozadina toga obrambenog saveza je strahovanje da će se zbog austrijsko-ruskog rivalstva na Balkanu raspasti Austro-Ugarska Monarhija te da će Rusija pomagati Francusku pri mogućem napadu na Njemačku."
         },
         {
-          "year": 1959,
-          "text": "Sovjetska letjelica napravila prve fotografije druge strane Mjeseca SVE DO 1959. godine &#x10D;ovje&#x10D;anstvo je poznavalo samo jednu stranu Mjeseca. Zbog njegove sinkrone rotacije, prema Zemlji je gotovo uvijek okrenuta ista hemisfera, pa je druga strana stolje&#x107;ima ostajala potpuno skrivena od pogleda."
+          "year": 1970,
+          "text": "Novi predsjednik Bolivije postao je lijevo orijentiran general Juan Torres Gonzales."
         },
         {
-          "year": 1919,
-          "text": "Osnovana aviokompanija KLM DANA 7. listopada 1919. godine u Nizozemskoj je osnovan KLM, zrakoplovna kompanija koja danas nosi zanimljivu titulu najstarijeg zrakoplovnog poduze&#x107;a na svijetu koje jo&#x161; uvijek posluje pod svojim izvornim imenom."
+          "year": 1976,
+          "text": "Nakon smrti Mao Zedonga (9. rujna) na mjestu predsjednika Partije, a time i države, naslijedio ga je Hua Guofeng."
         },
         {
-          "year": 1900,
-          "text": "Heinrich Himmler - kompleksaš opsjednut rasnim pitanjem u Njemačkoj"
+          "year": 1985,
+          "text": "Palestinci su oteli putnički brod \"Achille Lauro\" kako bi ucjenom oslobodili 50 zatvorenika iz izraelskih zatvora."
         },
         {
-          "year": 1900,
-          "text": "1945."
+          "year": 1991,
+          "text": "JNA raketirala Banske dvore, ondašnji ured Predsjednika Republike."
         },
         {
-          "year": 1952,
-          "text": "Vladimir Putin"
+          "year": 2000,
+          "text": "Nakon svrgavanja Miloševića, Vojislav Koštunica priseže za predjednika Srbije i Crne Gore"
         },
         {
-          "year": 1952,
-          "text": "2019."
+          "year": 2001,
+          "text": "SAD pokreće Rat protiv terorizma zračnim udarima na Afganistan."
         },
         {
-          "year": 1849,
-          "text": "1849."
+          "year": 2002,
+          "text": "od nogometa se na Maksimiru oprostio legendarni kapetan Vatrenih, Zvonimir Boban."
+        },
+        {
+          "year": 2006,
+          "text": "Ubijena ruska novinarka Ana Politkovskaja."
+        },
+        {
+          "year": 2023,
+          "text": "Napad Hamasa na Izrael započeo je koordiniranom iznenadnom ofenzivom nekoliko militantnih skupina Palestinaca na izraelske gradove, granične prijelaze u Gazi, susjedne vojne objekte i civilna naselja. To je prvi izravni sukob unutar de jure područja Izraela još od arapsko-izraelskog rata 1948. Izrael je službeno objavio rat, prvi put od Jomkipurskog rata 1973."
         }
       ]
     },
@@ -13076,24 +13063,28 @@
           "text": "Govor pape Urbana II."
         },
         {
+          "year": 1989,
+          "text": "Escobar srušio putnički avion i ubio 110 osoba DVADESET i sedmog studenog 1989. putni&#x10D;ki avion Avianca Flight 203 poletio je iz Bogote prema Caliju."
+        },
+        {
           "year": 511,
           "text": "Umro Klodvig, prvi veliki francuski kralj KLODVIG I., koji je umro 27. studenog 511., smatra se prvim velikim frana&#x10D;kim kraljem i jednim od najutjecajnijih vladara ranoga srednjeg vijeka."
         },
         {
-          "year": 1989,
-          "text": "Escobar srušio putnički avion i ubio 110 osoba DVADESET i sedmog studenog 1989. putni&#x10D;ki avion Avianca Flight 203 poletio je iz Bogote prema Caliju."
+          "year": 1940,
+          "text": "Svijet je poludio za ovim mladićem. Umro je naglo, zavjere o tome kruže i danas"
         },
         {
           "year": 1940,
           "text": "1973."
         },
         {
-          "year": 1932,
-          "text": "1983."
-        },
-        {
           "year": 1942,
           "text": "1970."
+        },
+        {
+          "year": 1932,
+          "text": "1983."
         }
       ]
     },
@@ -13230,6 +13221,10 @@
         {
           "year": 1990,
           "text": "Prokopan tunel La Manche DANA 1. prosinca 1990. radnici s britanske i francuske strane probili su posljednji sloj stijene koji ih je dijelio vi&#x161;e od stolje&#x107;a planiranja."
+        },
+        {
+          "year": 1981,
+          "text": "Pop princeza u čijem se životu pokazalo koliko okrutan showbiz može biti"
         },
         {
           "year": 1981,
