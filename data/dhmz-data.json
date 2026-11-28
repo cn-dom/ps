@@ -1,6 +1,6 @@
 {
   "source": "DHMZ",
-  "updated_at": "2026-11-27T23:29:19.940703+00:00",
+  "updated_at": "2026-11-28T07:54:56.298749+00:00",
   "warnings": [
     {
       "day": "today",
@@ -165,7 +165,7 @@
     {
       "day": "today",
       "event": "Crveno upozorenje za vjetar",
-      "description": "Vrlo jaka i olujna, mjestimice jaka olujna bura. Najjači udari vjetra 35-85 čvorova  (65-160 km/h)",
+      "description": "Vrlo jaka i olujna, mjestimice jaka olujna bura. Najjači udari vjetra 35-90 čvorova  (65-165 km/h)",
       "severity": "Extreme",
       "urgency": "Future",
       "areas": [
@@ -225,7 +225,7 @@
     {
       "day": "today",
       "event": "Red wind warning",
-      "description": "Near gale and gale, locally strong gale NE wind. Maximum wind gusts 35-85 knots (65-160 km/h)",
+      "description": "Near gale and gale, locally strong gale NE wind. Maximum wind gusts 35-90 knots (65-165 km/h)",
       "severity": "Extreme",
       "urgency": "Future",
       "areas": [
@@ -465,21 +465,21 @@
   ],
   "rainfall_text": [],
   "adriatic_text": [
-    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 27.11.2026. u 19 sati",
-    "Mjestimice udari bure 35-55, pod Velebitom do 85 čvorova. Na sjevernom Jadranu je moguće more 5. Moguće su nevere.",
-    "Sa sjevera prema Jadranu jača anticiklonalni greben dok će se južnije premještati ciklona s frontalnim poremećajem.",
+    "Izvješće Službe Pomorskog meteorološkog centra Split DHMZ-a dana 28.11.2026. u 06 sati",
+    "Mjestimice udari bure 35-55, podno Velebita mjestimice i do 90 čvorova. Na sjevernom Jadranu, prema kraju dana i drugdje ponegdje moguće more 5. Još danas na srednjem i južnom Jadranu moguće su nevere, uglavnom na otvorenom moru.",
+    "Sa sjevera prema Jadranu jača anticiklonalni greben, dok će se južnije premještati ciklona s frontalnim poremećajem.",
     "Vremenska prognoza za Jadran za prvih 12 sati",
-    "Bura u jačanju na 10-20, na srednjem Jadranu do 24, na sjevernom do 28, a pod Velebitom na 25-45 čvorova. U početku na južnom Jadranu jugo i jugozapadni vjetar, a na otvorenom srednjeg sjeverozapadni vjetar 6-16 čvorova. More 2-3, u jačanju na 3-4, na sjevernom Jadranu moguće i 5. Vidljivost 10-20 km. Promjenjivo oblačno, mjestimice kiša, a mogući su i pljuskovi s grmljavinom.",
-    "Umjerena do jaka, na sjevernom Jadranu, a poslijepodne i drugdje vrlo jaka bura koja će pod Velebitom mjestimice biti olujna i jaka olujna. More umjereno valovito i valovito, na sjevernom Jadranu moguće i jače valovito. Promjenjivo oblačno, uglavnom na srednjem i južnom Jadranu mjestimice kiša, a mogući su i pljuskovi s grmljavinom."
+    "Bura 10-20, mjestimice do 24, na sjevernom Jadranu, poslijepodne i drugdje mjestimice do 28 čvorova. Podno Velebita bura 16-34, mjestimice i do 45 čvorova. More 3-4, na sjevernom, prema kraju dana i srednjem Jadranu ponegdje moguće 5. Vidljivost 10-20 km. Promjenjivo oblačno, na sjevernom Jadranu od sredine dana postupno razvedravanje. Na južnom, prijepodne i srednjem Jadranu, moguća je kiša i pljusak s grmljavinom, uglavnom na otvorenom moru.",
+    "Pojačana do jaka, mjestimice i vrlo jaka, podno Velebita mjestimice i olujna bura. More umjereno valovito i valovito, ponegdje moguće i jače valovito. Promjenjivo oblačno, na južnom Jadranu moguća je kiša, još danas i pljusak s grmljavinom, uglavnom na otvorenom moru. Na sjevernom Jadranu pretežno vedro, samo ponegdje umjerena naoblaka."
   ],
   "sailors_text": [
-    "VREMENSKO IZVJEŠĆE, dan 27.11.2026 u 18:00 sati",
-    "Mjestimice udari NE vjetra 35-55, pod Velebitom do 85 čvorova. Na sjevernom Jadranu je moguće more 5. Moguće su nevere.",
-    "Sa sjevera prema Jadranu jača anticiklonalni greben dok će se južnije premještati ciklona s frontalnim poremećajem.",
-    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 28.11.2026 u 18 sati",
-    "Vjetar NE 12-24, sutra ponegdje do 28 čvorova, a pod Velebitom 16-32, u jačanju na 25-45 čvorova. More 3-4, ponegdje moguće 5. Vidljivost 10-20 km. Promjenjivo oblačno, mjestimice kiša, a mogući su i pljuskovi s grmljavinom, uglavnom još danas.",
-    "Vjetar NE, u početku na otvorenom i NW 6-16, NE u jačanju na 12-24, sutra poslijepodne do 28 čvorova. More 2-3, sutra 3-4. Vidljivost 10-20 km. Promjenjivo oblačno, mjestimice kiša, a mogući su i pljuskovi s grmljavinom.",
-    "Vjetar SE i SW 6-16, u okretanju na NE 10-20, od jutra mjestimice do 24, a sutra poslijepodne i do 28 čvorova. More 2-3, sutra u jačanju na 3-4. Vidljivost 10-20 km. Promjenjivo oblačno, mjestimice kiša, a mogući su i pljuskovi s grmljavinom."
+    "VREMENSKO IZVJEŠĆE, dan 28.11.2026 u 06:00 sati",
+    "Mjestimice udari NE vjetra 35-55, podno Velebita mjestimice i do 90 čvorova. Na sjevernom Jadranu, prema kraju dana i drugdje, ponegdje moguće more 5. Još danas na srednjem i južnom Jadranu moguće su nevere, uglavnom na otvorenom moru.",
+    "Sa sjevera prema Jadranu jača anticiklonalni greben, dok će se južnije premještati ciklona s frontalnim poremećajem.",
+    "Vremenska prognoza za sljedeća 24 sata, vrijedi do: 29.11.2026 u 06 sati",
+    "Vjetar NE 12-24, mjestimice do 28, podno Velebita 16-34, mjestimice i do 45 čvorova. More 3-4, ponegdje moguće i 5. Vidljivost 10-20 km. Promjenjivo oblačno, od sredine dana postupno razvedravanje.",
+    "Vjetar NE 12-24, poslijepodne i u noći mjestimice do 30 čvorova. More 3-4, prema kraju dana ponegdje moguće i 5. Vidljivost 10-20 km. Promjenjivo oblačno, prijepodne je moguća kiša i pljusak s grmljavinom, uglavnom na otvorenom moru.",
+    "Vjetar NE 10-20, mjestimice do 24, poslijepodne i u noći mjestimice do 30 čvorova. More u jačanju na 3-4, u noći ponegdje moguće i 5. Vidljivost 10-20 km. Promjenjivo oblačno, moguća je kiša, danas i pljusak s grmljavinom, uglavnom na otvorenom moru."
   ],
   "croatia_forecast_text": []
 }
