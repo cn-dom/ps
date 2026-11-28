@@ -1,7 +1,7 @@
 {
   "source": "Hrvatska povijesna referenca",
   "source_url": "https://www.index.hr/kalendar",
-  "updated_at": "2026-11-27T12:48:44.163Z",
+  "updated_at": "2026-11-28T12:00:25.192Z",
   "dates": {
     "01-01": {
       "date": "01-01",
@@ -2437,9 +2437,18 @@
     },
     "02-18": {
       "date": "02-18",
-      "source": "PatriaSoul",
-      "source_url": "https://patriasoul.github.io/Patriasoul-portal-v2/",
-      "events": []
+      "source": "Hrvatska Wikipedija",
+      "source_url": "https://hr.wikipedia.org/",
+      "events": [
+        {
+          "year": 1358,
+          "text": "U Zadru sklopljen glasoviti Zadarski mir između Mletačke Republike i ugarsko-hrvatskog kralja Ludovika I. Anžuvinca kojim su se Mlečani odrekli Dalmacije."
+        },
+        {
+          "year": 2008,
+          "text": "Afganistan postao prva država koja je priznala nezavisnost Kosova."
+        }
+      ]
     },
     "02-19": {
       "date": "02-19",
@@ -2844,12 +2853,12 @@
           "text": "1841."
         },
         {
-          "year": 2012,
-          "text": "2012."
-        },
-        {
           "year": 1968,
           "text": "1968."
+        },
+        {
+          "year": 1983,
+          "text": "1983."
         }
       ]
     },
@@ -10870,56 +10879,56 @@
     },
     "10-07": {
       "date": "10-07",
-      "source": "Hrvatska Wikipedija",
-      "source_url": "https://hr.wikipedia.org/",
+      "source": "Index Kalendar",
+      "source_url": "https://www.index.hr/kalendar?datum=0710",
       "events": [
         {
           "year": 1571,
-          "text": "Španjolsko, mletačko, đenovsko i malteško, te brodovlje Svete Solice i Savojskoga kneževstva u bitci kod Lepanta u jugozapadnoj Grčkoj potuklo je tursku flotu."
-        },
-        {
-          "year": 1865,
-          "text": "U Zadru svečano otvoreno Novo kazalište, srušeno nakon Drugog svjetskog rata"
-        },
-        {
-          "year": 1879,
-          "text": "Dvojni savez protiv Rusije: Njemačka i Austro-Ugarska sklopile su sporazum kojim se obvezuju na uzajamnu pomoć u slučaju ruskog napada. Pozadina toga obrambenog saveza je strahovanje da će se zbog austrijsko-ruskog rivalstva na Balkanu raspasti Austro-Ugarska Monarhija te da će Rusija pomagati Francusku pri mogućem napadu na Njemačku."
-        },
-        {
-          "year": 1970,
-          "text": "Novi predsjednik Bolivije postao je lijevo orijentiran general Juan Torres Gonzales."
-        },
-        {
-          "year": 1976,
-          "text": "Nakon smrti Mao Zedonga (9. rujna) na mjestu predsjednika Partije, a time i države, naslijedio ga je Hua Guofeng."
-        },
-        {
-          "year": 1985,
-          "text": "Palestinci su oteli putnički brod \"Achille Lauro\" kako bi ucjenom oslobodili 50 zatvorenika iz izraelskih zatvora."
+          "text": "Bitka kod Lepanta"
         },
         {
           "year": 1991,
-          "text": "JNA raketirala Banske dvore, ondašnji ured Predsjednika Republike."
-        },
-        {
-          "year": 2000,
-          "text": "Nakon svrgavanja Miloševića, Vojislav Koštunica priseže za predjednika Srbije i Crne Gore"
-        },
-        {
-          "year": 2001,
-          "text": "SAD pokreće Rat protiv terorizma zračnim udarima na Afganistan."
-        },
-        {
-          "year": 2002,
-          "text": "od nogometa se na Maksimiru oprostio legendarni kapetan Vatrenih, Zvonimir Boban."
-        },
-        {
-          "year": 2006,
-          "text": "Ubijena ruska novinarka Ana Politkovskaja."
+          "text": "Raketiranje Banskih dvora NA DANA&#x160;NJI dan jugoslavenske zra&#x10D;ne jedinice bombardirale su Gornji grad u Zagrebu."
         },
         {
           "year": 2023,
-          "text": "Napad Hamasa na Izrael započeo je koordiniranom iznenadnom ofenzivom nekoliko militantnih skupina Palestinaca na izraelske gradove, granične prijelaze u Gazi, susjedne vojne objekte i civilna naselja. To je prvi izravni sukob unutar de jure područja Izraela još od arapsko-izraelskog rata 1948. Izrael je službeno objavio rat, prvi put od Jomkipurskog rata 1973."
+          "text": "Hamasov napad na Izrael U RANIM jutarnjim satima 7. listopada 2023., tijekom &#x17E;idovskog blagdana Simchat Tora, militantna skupina Hamas pokrenula je iz Gaze masovni napad na Izrael pod nazivom Operacija Al-Aqsa Flood (Potop Al-Aqse)."
+        },
+        {
+          "year": 2001,
+          "text": "Američka invazija na Afganistan SEDMI listopada 2001. godine ozna&#x10D;io je trenutak kada su ameri&#x10D;ke snage, zajedno s britanskim saveznicima, lansirale prve zra&#x10D;ne udare na Afganistan."
+        },
+        {
+          "year": 1879,
+          "text": "Sklopljen Dvojni savez Njemačke i Austro-Ugarske GODINA 1879. ozna&#x10D;ila je prekretnicu u europskoj diplomaciji kada su Njema&#x10D;ka i Austro-Ugarska potpisale Dvojni savez, sporazum koji je trajno oblikovao odnose velikih sila uo&#x10D;i Prvog svjetskog rata."
+        },
+        {
+          "year": 1959,
+          "text": "Sovjetska letjelica napravila prve fotografije druge strane Mjeseca SVE DO 1959. godine &#x10D;ovje&#x10D;anstvo je poznavalo samo jednu stranu Mjeseca. Zbog njegove sinkrone rotacije, prema Zemlji je gotovo uvijek okrenuta ista hemisfera, pa je druga strana stolje&#x107;ima ostajala potpuno skrivena od pogleda."
+        },
+        {
+          "year": 1919,
+          "text": "Osnovana aviokompanija KLM DANA 7. listopada 1919. godine u Nizozemskoj je osnovan KLM, zrakoplovna kompanija koja danas nosi zanimljivu titulu najstarijeg zrakoplovnog poduze&#x107;a na svijetu koje jo&#x161; uvijek posluje pod svojim izvornim imenom."
+        },
+        {
+          "year": 1900,
+          "text": "Heinrich Himmler - kompleksaš opsjednut rasnim pitanjem u Njemačkoj"
+        },
+        {
+          "year": 1900,
+          "text": "1945."
+        },
+        {
+          "year": 1952,
+          "text": "Vladimir Putin"
+        },
+        {
+          "year": 1952,
+          "text": "2019."
+        },
+        {
+          "year": 1849,
+          "text": "1849."
         }
       ]
     },
@@ -12180,12 +12189,12 @@
           "text": "1566."
         },
         {
-          "year": 1861,
-          "text": "1939."
-        },
-        {
           "year": 1935,
           "text": "1990."
+        },
+        {
+          "year": 1861,
+          "text": "1939."
         },
         {
           "year": 1893,
@@ -13071,6 +13080,10 @@
           "text": "Umro Klodvig, prvi veliki francuski kralj KLODVIG I., koji je umro 27. studenog 511., smatra se prvim velikim frana&#x10D;kim kraljem i jednim od najutjecajnijih vladara ranoga srednjeg vijeka."
         },
         {
+          "year": 176,
+          "text": "Marko Aurelije dodijelio svojem sinu Komodu titulu imperator DANA 27. studenoga 176. godine rimski car Marko Aurelije dodijelio je svojem sinu Komodu titulu imperator, &#x10D;ime je napravio va&#x17E;an korak prema njegovu preuzimanju vlasti."
+        },
+        {
           "year": 1940,
           "text": "Svijet je poludio za ovim mladićem. Umro je naglo, zavjere o tome kruže i danas"
         },
@@ -13094,48 +13107,32 @@
       "source_url": "https://www.index.hr/kalendar?datum=2811",
       "events": [
         {
-          "year": 1520,
-          "text": "Maggellan uplovio u Tihi ocean nakon otkrića tjesnaca koji se danas zove po njemu"
-        },
-        {
           "year": 1943,
-          "text": "Teheranska konferencija NA TEHERANSKOJ konferenciji odr&#x17E;anoj 1943. raspravljalo se o pitanjima novih frontova i novih saveznika u Drugom svjetskom ratu."
+          "text": "Teheranska konferencija"
         },
         {
           "year": 1443,
           "text": "Skenderbeg osvaja Kruje SKENDERBEG na dana&#x161;nji dan osvaja grad Kruje, podi&#x17E;e zastavu i zapo&#x10D;inje revolt protiv Osmanlija."
         },
         {
-          "year": 2024,
-          "text": "Pronalazak tijela Antonije Bilić NA DANA&#x160;NJI dan je prona&#x111;eno tijelo ubijene Antonije Bili&#x107;."
-        },
-        {
           "year": 1918,
           "text": "Početak Estonskog rata za neovisnost ESTONSKI rat za neovisnost klju&#x10D;an je trenutak u modernoj povijesti tog naroda."
         },
         {
-          "year": 1956,
-          "text": "Premijera filma \"I Bog stvori ženu\" s Brigitte Bardot BRIGITTE Bardot bila je jedna od najve&#x107;ih filmskih ikona 20. stolje&#x107;a i simbol francuske kinematografije koji je daleko nadma&#x161;io granice filmskog platna."
+          "year": 2024,
+          "text": "Pronalazak tijela Antonije Bilić NA DANA&#x160;NJI dan je prona&#x111;eno tijelo ubijene Antonije Bili&#x107;."
         },
         {
-          "year": 1632,
-          "text": "Slavnog glazbenika usmrtila je vlastita dirigentska palica. Evo priče"
+          "year": 1520,
+          "text": "Maggellan uplovio u Tihi ocean nakon otkrića tjesnaca koji se danas zove po njemu DANA 1. studenoga 1520. godine flota portugalskog moreplovca Fern&#xE3;a de Magalh&#xE3;esa, poznatog kao Magellan, uplovila je u prolaz koji &#x107;e kasnije ponijeti njegovo ime - Magellanov tjesnac."
         },
         {
-          "year": 1632,
-          "text": "1687."
+          "year": 1979,
+          "text": "Turistički let na Antarici završio katastrofom, poginulo 257 ljudi DANA 28. studenoga 1979. godine dogodila se jedna od najte&#x17E;ih zrakoplovnih nesre&#x107;a u povijesti Novog Zelanda."
         },
         {
-          "year": 1967,
-          "text": "2012."
-        },
-        {
-          "year": 1887,
-          "text": "1934."
-        },
-        {
-          "year": 1939,
-          "text": "1939."
+          "year": 1240,
+          "text": "Počela mongolska opsada Kijeva MONGOLSKA vojska pod zapovjedni&#x161;tvom Batu-kana, unuka slavnog D&#x17E;ingis-kana, osvojila je Kijev, oplja&#x10D;kala ga i velikim dijelom uni&#x161;tila."
         }
       ]
     },
@@ -13420,6 +13417,10 @@
         {
           "year": 343,
           "text": "Blagdan svetog Nikole BLAGDAN svetog Nikole, biskupa iz Mire u Liciji, slavi se svake godine 6. prosinca i jedan je od najra&#x161;irenijih kr&#x161;&#x107;anskih blagdana u Europi. Lik svetog Nikole stolje&#x107;ima je oblikovan na sjeci&#x161;tu povijesnih &#x10D;injenica i narodnih vjerovanja."
+        },
+        {
+          "year": 1240,
+          "text": "Mongoli osvojili Kijev MONGOLSKA vojska pod zapovjedni&#x161;tvom Batu-kana, unuka slavnog D&#x17E;ingis-kana, osvojila je Kijev, oplja&#x10D;kala ga i velikim dijelom uni&#x161;tila."
         },
         {
           "year": 1974,
